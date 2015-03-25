@@ -1,0 +1,346 @@
+\documentclass[10pt,a4paper,ngerman]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage[T1]{fontenc}
+\usepackage{libertine}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{pdflscape}
+\usepackage[paper=a4paper,left=11mm,right=11mm,top=14mm,bottom=14mm]{geometry} 
+
+\pagestyle{empty}
+ 
+\setcounter{secnumdepth}{0}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt plus 0.5ex}
+
+\let\origdescription\description
+\renewenvironment{description}{
+  \setlength{\leftmargini}{0em}
+  \origdescription
+  \setlength{\itemindent}{0em}
+  \setlength{\itemsep}{1.2em}
+  \setlength{\labelsep}{\textwidth}
+}
+{\endlist}
+
+\newcommand{\vorschub}{\mbox{}\\[-0.5em]}
+
+\begin{document}
+
+\begin{landscape}
+\sffamily
+
+\begin{center}
+     {\huge \textbf{14. Augsburger Linux-Infotag}}\\[2ex]
+     veranstaltet von der Linux User Group Augsburg (LUGA) e.\,V. zusammen
+     mit der Hochschule Augsburg
+\end{center}
+
+\vspace{2ex}
+
+%\section{Übersicht über das Programm}
+
+\begin{center}\small\begin{tabular}{|c||l|l|l|l|}\hline
+    \bfseries{09:40} & \multicolumn{4}{c|}{\rule[-3mm]{0mm}{8mm}{\bfseries{Begrüßung} (Raum M1.01)}}  \\ \hline
+    \bfseries{09:45} &
+    \multicolumn{4}{c|}{\rule[-3mm]{0mm}{8mm}{\bfseries Keynote: Oliver Rath (Raum M1.01)}}\\ \hline
+      & \rule[-3mm]{0mm}{8mm}
+        \bfseries{Raum A (M1.01)} &
+        \bfseries{Raum B (M1.02)} &
+        \bfseries{Raum C (M2.01)} &
+        \bfseries{Raum D (M2.02)} \\ \hline \hline  
+    \bfseries{10:45} & \rule[-3mm]{0mm}{8mm}
+      $\bigstar$ Fotobearbeitung mit Darktable &
+      $\bigstar$ Zwei-Faktor-Authentifizierung mit YubiKey &
+      Zentrale Konfigurationsverwaltung mit Puppet &
+      \multirow{3}{*}{$\phantom{\bigstar}$ Emacs und Git für Vi-Benutzer} \\
+      \cline{1-4}
+    \bfseries{11:45} & \rule[-3mm]{0mm}{8mm}
+      $\bigstar$ Kommandozeile für Einsteiger &
+      $\bigstar$ Lightning Talks &
+      Debian Jessie ohne systemd &
+      \\ \hline
+    \bfseries{12:45} & \multicolumn{4}{c|}{\rule[-3mm]{0mm}{8mm}{\bfseries{Mittagspause}} }\\ \hline
+    \bfseries{13:15} & \rule[-3mm]{0mm}{8mm}
+      $\bigstar$ Quo vadis, IT-Sicherheit? &
+      $\bigstar$ Arbeiten mit dem IPython-Notebook &
+      NixOS: The Purely Functional Linux Distribution &
+      \multirow{3}{*}{$\bigstar$ Linux im Musikstudio}
+      \\ \cline{1-4}
+    \bfseries{14:15} & \rule[-3mm]{0mm}{8mm}
+      $\bigstar$ Chaos macht Schule &
+      $\bigstar$ X2GO in Theorie und Praxis &
+      Docker for Everyday & \\ \hline
+    \bfseries{15:15} & \rule[-3mm]{0mm}{8mm}
+      $\bigstar$ Aktuelle Entwicklungen bei LiMux &
+      $\bigstar$ TeXmacs, a free scientific word processor &
+      DNSSEC &
+      $\bigstar$ Schicke Briefe mit LibreOffice
+      \\ \hline 
+    \bfseries{16:15} & \rule[-3mm]{0mm}{8mm}
+      $\bigstar$ Open-Source-Kochen in München &
+      $\bigstar$ Multicopter -- nur Fliegen ist schöner &
+      Aktuelle Entwicklungen beim Linux-Kernel & \\ \hline
+    \bfseries{17:15} & \multicolumn{4}{c|}{\rule[-3mm]{0mm}{8mm}{\bfseries{Verlosung}}} \\ \hline
+    \bfseries{17:30} & \multicolumn{4}{c|}{\rule[-3mm]{0mm}{8mm}{\bfseries{Ende der Veranstaltung}}} \\ \hline
+\end{tabular}\end{center}
+
+\medskip
+Mit $\bigstar$ markierte Vorträge benötigen kein tiefergehendes Vorwissen.
+\medskip
+
+Bitte beachten Sie auch die Stände im Foyer: LUGA, Augsburger Computer Forum, buch7.de, Amateurfunk, Freifunk, Free Software Foundation Europe, LUG Ottobrunn, MusicMagnet, NixOS, Apache OpenOffice, OpenLab Augsburg, OpenPandora, OpenStreetMap, openSUSE, Python Software Verband~e.\,V., siduction, X2GO
+\medskip
+
+Von 11:00 Uhr bis 13:30 Uhr hat ein Brotzeitstand geöffnet.
+
+\section{Keynote: 09:45--10:30 Uhr}
+Eröffnungsvortrag von Oliver Rath. \emph{Linux, warum nur?} Ein Exkurs über die Erleuchtungen und Verdunklungen auf dem Weg zum Linuxianer, auch für Un- und Andersgläubige geeignet.
+
+\section{Auf den Geschmack gekommen?}
+
+Wir laden Sie herzlich zu den monatlichen Treffen der Linux User Group Augsburg ein. Da erhalten Sie Hilfe bei der Linux-Installation und zu einzelnen Programmen und können Erfahrungen mit anderen austauschen. Vereinsmitglied muss man dazu nicht sein. Wir treffen uns jeden ersten Mittwoch im Monat ab 19:00 Uhr, Ort siehe http://www.luga.de/.
+
+\end{landscape}
+
+\newpage
+
+\setlength{\columnsep}{10.5mm}
+
+\begin{multicols}{2}
+
+\section{10:45--11:30 Uhr}
+
+\begin{description}
+\item[Fotobearbeitung und -verwaltung mit Darktable]\vorschub
+\textsl{Michael Koreny.}
+Wer das technische Potenzial seiner Kamera voll ausschöpfen möchte, fotografiert in RAW. Der Einsatz, der vom Kamerahersteller beigelegten Software ist oft zu umständlich, während der Einsatz einer professionellen Fotoworkflowsoftware oft mit hohen Anschaffungskosten oder Abo-Modellen verbunden wird. Das muss nicht sein!
+
+Darktable ist freie Software, kostenlos und ermöglicht einen professionellen Workflow: angefangen bei der Verwaltung des Fotoarchivs über die Fotoentwicklung bis zur Generierung von Web-Gallerien. Dieser Vortrag möchte einen kurzen einsteigergerechten Überblick über die Konzepte und Möglichkeiten von Darktable, die denen professioneller Softwarelösungen in Nichts nachstehen, vermitteln. Anhand einfacher Praxisbeispiele wird gezeigt, dass schnelle Erfolgserlebnisse und Spaß an der RAW-Entwicklung ohne Vorkenntnisse möglich sind, sobald man die Scheu vor dieser komplex wirkenden Software ablegt.
+
+
+
+\item[{\parbox[t]{\linewidth}{YubiKey. Praktikable Zwei-Faktor-Authentifizierung für Linux und mobile Geräte}}]\vorschub\\
+\textsl{Frank Hofmann.}
+Mobile Geräte wie Notebooks und Laptops verdienen ein Plus an Sicherheit, sollen die darauf gespeicherten Daten nicht in unbefugte Hände gelangen. Deswegen sichert man den Zugang am besten mit einem zweiten Faktor in Form eines Authentifizierungstokens ab.
+
+Im Vortrag wird ein Einblick zu den bestehenden Technologien der höherstufigen Authentifizierung vermittelt. Am Beispiel des YubiKey zeigen wir ausführlich, welche Varianten verfügbar sind, wie man diese Verfahren unter Linux einrichten und die passenden Module in PAM aktivieren kann, und geben Tipps und Ratschläge, wie man im Alltag damit umgehen sollte.
+
+
+
+
+\item[Zentrale Konfigurationsverwaltung mit Puppet]\vorschub
+\textsl{Ulrich Habel.} Größere Installationen und deren Betriebszustände im Griff zu behalten ist eine besondere Herausforderung für alle, die Linux in Unternehmen einsetzen. Neben den distributionseigenen Werkzeugen haben sich verschiedene Verwaltungswerkzeuge für das Konfigurationmanagement etabliert. Der Vortrag zeigt, wie man der Herausforderung mit dem Werkzeug Puppet begegnen kann. Er führt mittels praktischen und einfachen Kochrezepten, die die Teilnehmenden direkt zu Hause umsetzen können, durch die Materie. Dabei ist es nicht relevant ob es ein einzelnes System oder ein Datenzentrum ist, welches verwaltet werden soll.
+
+\end{description}
+
+\columnbreak
+
+\section{11:45--12:30 Uhr}
+\begin{description}
+\item[Some Bashing – Kommandozeile für Einsteiger]\vorschub
+\textsl{Andreas Steil.}
+Befehlsverkettung, Ein- \& Ausgabeumleitung, Piping, Kommandosubstitution, Umgang mit Parametern und kombinatorischer Einsatz von Textwerkzeugen: Was Linux-AnwenderInnen bei der alltäglichen Arbeit selbstverständlich geworden ist, stellt für Neulinge oft steiniges und unbekanntes Terrain dar. Der an EinsteigerInnen adressierte Vortrag soll eine Anregung zum kreativen, spielerischen Umgang mit der Konsole bieten. Er stellt wesentliche Merkmale der Bash und einige Textwerkzeuge vor und tüftelt anhand kleiner Beispiele Lösungen für praktische Aufgabenstellungen aus.
+
+
+
+\item[Lightning Talks]\vorschub
+\textsl{Grindhold und Glaxx (Moderation).}
+Das ist kein Vortrag im herkömmlichen Sinn. Stattdessen präsentieren hier verschiedene ReferentInnen jeweils fünfminütige Kurzvorträge (Lightning Talks). Es gibt unter anderem Beiträge zu folgenden Themen:
+
+\textbullet{} NixOS, eine rein funktionale Linux-Distribution \\[0.3em]
+\textbullet{} NoteEdit, ein freies Musik-Notensatzprogramm \\[0.3em]
+\textbullet{} Bitcoin, die dezentrale Währung \\[0.3em]
+\textbullet{} Jugend hackt, ein außerschulisches Förderprogramm für junge \\
+\phantom{\textbullet} Programmiertalente \\[0.3em]
+\textbullet{} rainbow-lollipop, ein Browser mit radikal neuen Designansät- \\
+\phantom{\textbullet} zen aus Augsburg \\[0.3em]
+\textbullet{} OpenStreetMap, ein Projekt zur Sammlung freier Geodaten
+
+\item[Wie betreibt man Debian 8 Jessie ohne systemd?]\vorschub
+\textsl{Axel Beckert.}
+Installiert man ein Debian 8 Jessie, so bekommt man systemd als Init-System. Auch wenn man ein Debian 7 Wheezy auf Debian 8 aktualisiert, wird durch Abhängigkeiten in vielen Fällen das Init-System automatisch auf systemd umgestellt.
+
+Dass systemd nach wie vor umstritten ist, zeigen nicht nur Wahlen und anhaltende Diskussionen bei Debian. Auch die Anzahl der Wikis, Webseiten und Projekte, die sich mit einem Leben ohne (oder nach) systemd beschäftigen deuten sehr deutlich daraufhin, dass nicht alle mit systemd glücklich sind – von Fork-Androhungen mal ganz abgesehen.
+
+Dieser Vortrag hat mehrere Bestandteile: Welche Pakete "`sind"' systemd? Welche machen systemd als Init-System aus? Wie befreit man ein Debian-System von systemd, um zum bewährten System-V-Init-System zurückzukommen? Welche anderen Init-Systeme gibt es noch in Debian 8? Ressourcen zum Thema.
+
+\end{description}
+
+\end{multicols}
+
+\vfill
+\begin{center}\parbox{0.6\textwidth}{%
+\begin{description}
+\item[Workshop von 10:45 Uhr bis 12:30 Uhr: Git und Emacs für Vi-Benutzer]\vorschub
+\textsl{Richard Sailer.}
+In diesem Workshop programmieren wir gemeinsam in Emacs einen kleinen E-Mail-Client in Python oder Perl (Abstimmung an Anfang). Der Workshop wird vom Tempo so gestaltet, dass die ZuhörerInnen live auf ihrem Laptop mitprogrammieren können und auch Fragen stellen können.
+
+Warum "`für Vi-Benutzer"'? Unsere Emacse werden wir in den ersten 10 Minuten so konfigurieren, dass alle vim-Tasten funktionieren. So erhalten wir einen gewohnten vim und zusätzlich (non-intrusiv) viele weitere Features die vim so nicht kann.
+Besonderer Fokus liegt dabei auf der git-Integration magit. Laptop und Grundwissen in git und vim mitbringen!
+\end{description}
+}\end{center}
+
+\newpage
+
+\begin{multicols}{2}
+
+\section{13:15--14:00 Uhr}
+\begin{description}
+
+\item[Quo vadis, IT-Sicherheit? Nichts ist sicher \ldots]\vorschub
+\textsl{Thomas Eisenbarth.}
+Was hat uns 2014 hinsichtlich IT-Sicherheit beschert? Ist das mit Heartbleed endlich vorbei? Was erwartet uns 2015 und danach? Ist Open Source sicherer als kommerzielle Software?
+
+Fragen über Fragen und nicht immer ganz ernst gemeinte Antworten \ldots
+
+
+
+\item[Arbeiten mit dem IPython-Notebook]\vorschub
+\textsl{Gert Ingold.}
+Für die Programmiersprache Python existiert mit IPython eine Alternative zur Standardshell, die das interaktive Arbeiten mit Python erheblich vereinfacht und in seinen Möglichkeiten erweitert. Seit gut drei Jahren gibt es zudem das browserbasierte IPython-Notebook. Dieses erlaubt neben der Ausführung von Code die Integration von Text einschließlich mathematischer Formeln sowie von graphischen Ausgaben und Multimediaobjekten. IPython-Notebooks lassen sich flexibel für die Darstellung im Web oder im Druck umwandeln. Sie erfreuen sich daher zunehmender Beliebtheit, zum Beispiel für die interaktive Datenanalyse oder in der Lehre.
+
+Der Vortrag wird eine Einführung in die Benutzung des IPython-Notebooks geben und einen Einblick in die damit verbundenen Möglichkeiten vermitteln.
+
+
+\item[NixOS: The Purely Functional Linux Distribution]\vorschub
+\textsl{Cillian de Róiste, Aszlig Neusepoff.}
+NixOS is a Linux distribution with a unique approach to package and configuration management. Built on top of the Nix package manager, it is completely declarative, makes upgrading systems reliable, and has many other advantages.
+
+NixOS has a completely \emph{declarative} approach to configuration management: you write a specification of the desired configuration of your system in NixOS’s modular language, and NixOS takes care of making it happen.
+
+NixOS has \emph{atomic upgrades and rollbacks}. It’s always safe to try an upgrade or configuration change: if things go wrong, you can always roll back to the previous configuration.
+\end{description}
+
+\vfill
+
+\columnbreak
+
+\section{14:15--15:00 Uhr}
+
+\begin{description}
+\item[Chaos macht Schule]\vorschub
+\textsl{Andreas Herz.}
+Chaos macht Schule ist eine Initiative des Chaos Computer Clubs (CCC), die mit verschiedenen Bildungsinstitutionen zusammenarbeitet. Ziel des Projekts ist es, SchülerInnen, Eltern und LehrerInnen in den Bereichen Medienkompetenz und Technikverständnis zu stärken.
+
+Dieser Vortrag soll einen Einblick in die Arbeit an Schulen geben und geht dabei auch auf die relevanten Schwerpunkte wie Datenschutz, Soziale Netzwerke und Sicherheit ein.
+
+
+
+\item[X2GO in Theorie und Praxis]\vorschub
+\textsl{Richard Albrecht, Stefan Baur, Heinz Gräsing.}
+X2GO ist ein Terminalserver und -client mit reichhaltigem Funktionsumfang, der auf vorhandenen Protokollen wie X und SSH aufsetzt. Es wurde bei der Entwicklung Wert auf einfache Benutzbarkeit gelegt. X2GO ist für Linux-EinsteigerInnen und professionelle AnwenderInnen gleichermaßen geeignet. Zusammen mit dem X2GO-Projekt und der LUG-Ottobrunn zeigen wir im Vortrag, wie man X2GO als EinsteigerIn einsetzen kann und welche Möglichkeiten X2GO auch für erfahrene AnwenderInnen bietet.
+
+Mit X2GO und SSH ist es leicht möglich, eine "`private Cloud"' aufzubauen, d.\,h. einen X2GO-Server, der alle privaten Daten verwaltet, sicher zu Hause steht und über das unsichere Internet remote verwendet werden kann. In Linux ist alles, was man braucht, "`out of the box"' vorhanden und X2GO ist nur wenige Mausklicks entfernt. X2GO ist sehr robust und funktioniert auch über langsame Netze und instabile Leitungen gut.
+Jeder PC kann X2GO-Server und -client sein. Damit kann man Ressourcen und Desktops auf stärkeren Rechnern gemeinsam nutzen. Wartungs- und Hardwarekosten können so reduziert werden.
+
+
+\item[Docker for Everyday]\vorschub
+\textsl{Gabriel Stein.}
+Docker is an open-source project that automates the deployment of applications inside software containers, by providing an additional layer of abstraction and automation of operating-system-level virtualization on Linux. Docker uses resource isolation features of the Linux kernel to allow independent ``containers'' to run within a single Linux instance, avoiding the overhead of starting virtual machines.
+
+We will discuss the following questions: What is Docker? What are images, what are containers? How can one build own images? How can one setup PHP and MySQL?
+
+
+\end{description}
+
+\end{multicols}
+
+\vfill
+\begin{center}\parbox{0.6\textwidth}{%
+\begin{description}
+\item[Workshop von 13:15 Uhr bis 15:00 Uhr: Linux im Musikstudio]\vorschub
+\textsl{Franz Tea.}
+Für Musikschaffende im Hobby- oder professionellen Bereich kann Linux eine gute
+Basis für ihre Arbeit darstellen. Ein Echtzeit-Linux wie etwa Ubuntu Studio mit
+den entsprechenden Programmen deckt fast den ganzen Bereich ab: von der
+Musikerzeugung über die Aufnahme bis zur Abmischung. Die Simulation von
+Synthesizern und anderen Geräten, der Einsatz von Effekten, ausgereifte
+Programme zum Abmischen, ein Festplatten-Recorder, die Anbindung vorhandener
+Geräte wie zum Beispiel Keyboards -- alles ist vorhanden. Durch die
+ausgeklügelte Architektur der Schnittstellen in Linux ist der Baukasten an
+Geräten einfach virtuell zusammenzustöpseln. In dem Workshop werden wir
+gemeinsam versuchen, ein Musikstück von der Idee bis zur Fertigstellung zu
+bringen.
+\end{description}
+}\end{center}
+
+\newpage
+
+\begin{multicols*}{2}
+
+\section{15:15--16:00 Uhr}
+
+\begin{description}
+\item[Aktuelle Entwicklungen bei LiMux]\vorschub
+\textsl{Christian Kalkhoff.}
+Ganz München ist von Pinguinen besetzt. Nur zwei mutige Gesellen, Don Reiter und sein treuer Begleiter Sancho Schmid treten ihnen entgegen und versuchen sie mit viel heißem Wind aus der Stadt zu treiben.
+Ähnlich wie ihre Romanvorlagen versuchen unsere Protagonisten den Fortschritt aufzuhalten und München ins Dunkel zurückzuführen, aus dem es sich seit 2003 erfolgreich befreit hat.
+
+Im Vortrag wird überblicksartig die 2003 gestartete und 2013 abgeschlossene Migration der Verwaltungs-IT beschrieben. Im Anschluss werden die Behauptungen der Bürgermeister Reiter und Schmid einem Fakten-Check unterzogen. Abschließend werden echte Probleme in der Stadt-IT beschrieben, die mehr als einmal fälschlicherweise dem LiMux-Desktop als "`Fenster zur IT"' angelastet wurden.
+
+\item[TeXmacs, a free scientific word processor]\vorschub
+\textsl{Miguel de Benito Delgado.}
+GNU TeXmacs is a free \emph{wysiwyw} (what you see is what you want) editing platform with special features for scientists. The software aims to provide a unified and user friendly framework for editing structured documents with different types of content (text, graphics, mathematics, interactive content, etc.). The rendering engine uses high-quality typesetting algorithms to produce professionally looking documents.
+
+The software includes a text editor with support for mathematical formulas, a small technical picture editor and a tool for making presentations from a laptop. Moreover, TeXmacs can be used as an interface for many external systems for computer algebra, numerical analysis, statistics, etc. New presentation styles can be written by the user and new features can be added to the editor using the Scheme extension language.
+
+%Documents can be saved in TeXmacs, XML or Scheme format and printed as Postscript or PDF files. Converters exist for TeX/LaTeX and HTML/MathML.
+
+\item[DNSSEC]\vorschub
+\textsl{Christoph Egger.}
+Mit DNSSEC wurde eine Möglichkeit geschaffen, DNS-Einträge zu authentisieren. Heute ist DNSSEC weit verfügbar, zum Beispiel auch für .de und .org Domains.
+
+In diesem Vortrag wird die grundsätzliche Funktionalität von DNSSEC vorgestellt und folgende Fragen beantwortet: Wie sieht eine so geschützte Zone aus? Woher kommt die Sicherheit? Was kann DNSSEC nicht leisten? Welche neuen Anwendungen (DANE) ergeben sich daraus für das Domain-Name-System?
+Zum Schluss geht der Vortrag auch darauf ein, wie DNSSEC in der Praxis für den einzelnen aussehen kann -- sowohl als Konsument als auch auf der Serverseite.
+
+\item[Schicke Briefe mit LibreOffice]\vorschub
+\textsl{Dieter Thalmayr.} Abseits existenzieller Fragen wie \emph{welche ist die beste Oberfläche?} und \emph{welche ist die beste Linux-Distribution – für mich oder für die Welt?} stolpern viele Linux-BenutzerInnen immer wieder über ganz einfache Hürden: Wie mache ich einen vernünftigen Brief mit LibreOffice oder Abiword? Am besten noch mit einer Anbindung an eine Adress- oder Rechnungsdatenbank. Die mitgelieferten Vorlagen sind dazu in der Regel kaum zu gebrauchen und bisweilen auch schwierig im Umgang.
+
+Ohne wirklich tief einsteigen zu wollen, zeigt Dieter Thalmayr ein paar nützliche Handgriffe, wie man mit wenig Aufwand zu einem vernünftigen Ergebnis kommt.
+%Dabei soll ein Adressfeld getroffen werden, eine Benutzerführung mit Eingabefeldern, und eine Anbindung an eine einfache Rechnungstabelle gezeigt werden.
+
+\end{description}
+
+\columnbreak
+
+\section{16:15--17:00 Uhr}
+
+\begin{description}
+\item[Open-Source-Kochen in München]\vorschub
+\textsl{Florian Effenberger.}
+Seit fünf Jahren gibt es in München das Open-Source-Kochen, das dieses Jahr in der bereits zehnten Auflage stattgefunden hat. Die Idee dahinter ist simpel: Das, was für freie Software gilt, lässt sich auch auf andere Lebensbereiche übertragen. Viele Mitwirkende arbeiten an einem gemeinsamen Ziel, bringen sich mit ihren jeweiligen Fähigkeiten und Fertigkeiten ein, und sorgen gemeinsam dafür, dass viele weitere Menschen davon profitieren. Und eine ganze Menge Spaß gibt's obendrauf auch noch dazu!
+
+Aus dem Kreis der Münchener Open-Source-Treffen als spontane Idee entstanden, treffen sich seit 2010 mehrfach im Jahr Engagierte und Interessierte – manche kommen auch mit Mann, Frau oder Kind – rund um freie Software, um gemeinsam zu kochen, Spaß zu haben und eine schöne Zeit miteinander zu verbringen, (größtenteils) fernab von Computern und Technik.
+
+In diesem Vortrag stellt Florian Effenberger, einer der Gründer der Veranstaltung, die Idee vor und zeigt, welche Ideen es für die Zukunft gibt – so soll im Jahr 2015 erstmals auch ein Kochen außerhalb Deutschlands stattfinden. Auch ein Einblick in die Open-Source-Treffen und andere Veranstaltungen wie das Weißwurstfrühstück dürfen dabei natürlich nicht fehlen.
+
+\item[Multicopter -- nur Fliegen ist schöner]\vorschub
+\textsl{Tommy Sauer.}
+Die Faszination des Fliegens soll von einer etwas anderen Perspektive betrachtet werden. Technische Affinität gepaart mit Kreativität eröffnen die Möglichkeit, neue Welten (von oben) zu entdecken. Wie kann man am besten in das Thema Multicopter einsteigen? Wie ist der rechtliche Rahmen? Wie kann Open Source integriert werden? Dies ist nur ein kleiner Auszug der Themen im Vortrag. Einsteiger sowie Fortgeschrittene sind herzlich eingeladen, sich auf den Exkurs einzulassen.
+
+
+\item[Aktuelle Entwicklungen beim Linux-Kernel]\vorschub
+\textsl{Thorsten Leemhuis.}
+Der Vortrag gibt einen Überblick über die jüngsten Verbesserungen beim Linux-Kernel 3.19, denn die sind oft auch für Allerwelts-PCs oder Server von Belang; mit Distributionen wie Ubuntu 15.04 erreichen die Verbesserungen der neuesten Kernel in Kürze auch eine breite Anwenderschar.
+
+Der Vortrag geht auch auf einige Neuerungen bei Kernel-naher Software ein – etwa den Open-Source-3D-Grafiktreibern. Angerissen werden auch einige noch in Vorbereitung befindliche Änderungen, der Entwicklungsprozess sowie andere Aspekte rund um den Kernel, die für die kurz- und langfristige Entwicklung von Linux und Linux-Distributionen wichtig sind.
+
+Zielpublikum des Vortrags sind technisch interessierte Linux-Nutzer.
+
+\end{description}
+
+
+\vspace{10em}
+\raggedleft\rule{0.7\linewidth}{0.25pt}
+\scriptsize
+
+\raggedleft\textsf{http://www.luga.de/LIT-2015/}
+
+\end{multicols*}
+
+\end{document}
