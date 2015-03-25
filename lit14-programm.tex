@@ -1,0 +1,497 @@
+\documentclass[10pt,a4paper,ngerman,landscape]{scrartcl}
+\usepackage[utf8]{inputenc}%latin1
+%\usepackage{ngerman}
+%\usepackage{pslatex}
+%\usepackage{pdflscape}
+%\renewcommand{\familydefault}{\sfdefault}
+% Papierformat auf DIN-A4
+%\usepackage{setspace}
+\usepackage[ngerman]{babel}
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{lmodern}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage[paper=a4paper,left=11mm,right=11mm,top=14mm,bottom=14mm]{geometry} 
+% Made changes based on suggestions from Gene Cooperman. <gene at ccs.neu.edu>
+
+% Turn off header and footer
+\pagestyle{empty}
+ 
+% Redefine section commands to use less space
+\makeatletter
+%\renewcommand{\section}{\@startsection{section}{1}{0mm}%
+%                                {-1ex plus -.5ex minus -.2ex}%
+%                                {0.5ex plus .2ex}%x
+%                                {\normalfont\large\bfseries}}
+%\renewcommand{\subsection}{\@startsection{subsection}{2}{0mm}%
+%                                {-1explus -.5ex minus -.2ex}%
+%                                {0.5ex plus .2ex}%
+%                                {\normalfont\normalsize\bfseries}}
+%\renewcommand{\subsubsection}{\@startsection{subsubsection}{3}{0mm}%
+%                                {-1ex plus -.5ex minus -.2ex}%
+%                                {1ex plus .2ex}%
+%                                {\normalfont\small\bfseries}}
+\makeatother
+
+% Don't print section numbers
+\setcounter{secnumdepth}{0}
+
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt plus 0.5ex}
+
+\let\origdescription\description
+\renewenvironment{description}{
+  \setlength{\leftmargini}{0em}
+  \origdescription
+  \setlength{\itemindent}{0em}
+  \setlength{\itemsep}{1.2em}
+  \setlength{\labelsep}{\textwidth}
+}
+{\endlist}
+
+\newcommand{\vorschub}{\mbox{}\\[-0.5em]}
+
+
+% -----------------------------------------------------------------------
+
+\begin{document}
+
+%\begin{landscape}
+\begin{center}
+     {\huge \textbf{\sffamily 13. Augsburger Linux-Infotag}}\\[2ex]
+     organisiert von der Linux User Group Augsburg (LUGA) e.\,V. zusammen
+     mit der Hochschule Augsburg
+\end{center}
+
+\vspace{2ex}
+
+\section{Übersicht über das Programm}
+%\footnote{
+{
+\begin{table}[h!]
+   \small\sffamily
+        \begin{center}
+        \begin{tabular}{|c||l|l|l||l|} \hline
+            \bfseries{09:50} & \multicolumn{4}{c|}{\rule[-3mm]{0mm}{8mm}{\bfseries{Begrüßung}}}  \\ \hline
+            \bfseries{10:00} &
+            \multicolumn{4}{c|}{\rule[-3mm]{0mm}{8mm}{\bfseries Keynote: Patricia Jung}}\\ \hline
+                             & \multicolumn{4}{c|}{\rule[-3mm]{0mm}{8mm}{\bfseries{Vortragsraum}}} \\ \cline{2-5} 
+                             & \rule[-3mm]{0mm}{8mm}\bfseries{A (M1.02)}
+                             & \bfseries{B (J2.18)} & \bfseries{C (J3.19) } & \bfseries{D (M2.03)} (Workshops) \\ \hline  \hline  
+            \bfseries{11:00} & \rule[-3mm]{0mm}{8mm} $\bigstar$ Open Source in Unternehmen &
+                                                     $\bigstar$ Kollaboration mit Etherpad &
+                                                     $\phantom{\bigstar}$
+                                                     Windows- und Linux-Passwörter zurücksetzen &
+                                                     \multirow{3}{*}{Ruby on Rails} \\
+                                                     \cline{1-4}
+            \bfseries{12:00} & \rule[-3mm]{0mm}{8mm} $\bigstar$ Geotagging. Fotos mit Geoinformationen verknüpfen &
+                                                     $\phantom{\bigstar}$ OpenStack &
+                                                     $\bigstar$ Reprap-3D-Drucker &
+                                                     \\ \hline
+            \bfseries{13:00} & \rule[-3mm]{0mm}{8mm} $\bigstar$ Linux für alle oder doch nicht? &
+                                                     $\bigstar$ ownCloud -- meine Daten gehören mir! &
+                                                     $\phantom{\bigstar}$ Warum Django? &
+                                                     \\ \hline
+%           \bfseries{13:00} & \multicolumn{4}{c|}{\rule[-3mm]{0mm}{8mm}{\bfseries{Mittagspause}} }\\ \hline
+            \bfseries{14:00} & \rule[-3mm]{0mm}{8mm} $\bigstar$ Quo vadis, IT-Sicherheit? &
+                                                     $\bigstar$ The Document Foundation &
+                                                     $\phantom{\bigstar}$ Entwicklungen beim Linux-Kernel &
+                                                     \multirow{3}{*}{Linux im Musikstudio} \\ \cline{1-4}
+            \bfseries{15:00} & \rule[-3mm]{0mm}{8mm} $\bigstar$ Bitcoin -- Open Sourcing Money &
+                                                     $\phantom{\bigstar}$ Mehrere Terminals in einem mit screen &
+                                                     $\bigstar$ Unabhängige Datenverwaltung mit ownCloud &
+                                                     \\ \hline 
+            \bfseries{16:00} & \rule[-3mm]{0mm}{8mm} $\bigstar$ HAMNET &
+                                                    $\bigstar$ Red Hat Certified Systems Administrator &
+                                                    $\phantom{\bigstar}$ Wireshark ohne Netzwerk &
+                                                    \\ \hline 
+            \bfseries{17:00} & \multicolumn{4}{c|}{\rule[-3mm]{0mm}{8mm}{\bfseries{Verlosung}}} \\ \hline
+            \bfseries{17:30} & \multicolumn{4}{c|}{\rule[-3mm]{0mm}{8mm}{\bfseries{Ende der Veranstaltung}}} \\ \hline
+          \end{tabular}
+        \end{center}
+\end{table} 
+}
+\vspace{-1.0em}
+Mit $\bigstar$ markierte Vorträge benötigen kein tiefergehendes Vorwissen.
+
+Kurzfristige Programmänderungen können nicht ausgeschlossen werden,
+bitte beachten Sie die Programmhinweise in der Aula.
+
+Den ganzen Tag über hat
+die Mensa der Hochschule geöffnet. Dort kann bar bezahlt werden.
+
+\section{Keynote: 10:00 -- 10:45 Uhr}
+Eröffnungsvortrag von Patricia Jung, ehemalige stellvertretende Chefredakteurin
+von Linux-User.
+
+\newpage
+
+\setlength{\columnsep}{10.5mm}
+\begin{multicols}{3}
+
+%\end{landscape}
+
+%\raggedright
+
+\subsection{11:00 -- 11:45 Uhr}
+%\item[{\parbox[t]{\linewidth}{PostgreSQL – Neues und Besonderes der führenden
+%Open-Source-Datenbank}}]\vorschub\\
+%\item[ownCloud – Your Cloud, Your Data, Your Way]\vorschub
+\begin{description}
+\item[Open Source in Unternehmen]\vorschub
+\textsl{Ulrich Habel.}
+Der Einsatz von Open-Source-Software und Linux als Betriebssystem stellt jedes
+Unternehmen vor größere Hürden. Welche Punkte sind zu beachten -- wie kann das
+Unternehmen selber Teil eines Open-Source-Projekts werden und welche
+Auswirkungen hat das auf die Mitarbeiter?
+
+Der Vortrag kommt direkt aus der Praxis und behandelt den Einsatz von
+Open-Source-Software in einem mittelständischen Betrieb. Er weist auf die
+offensichtlichen und verdeckten Stolpersteine hin und stellt einen Leitfaden
+vor, der unmittelbar anwendbar ist. Selbstverständlich wird auf
+betriebswirtschaftliche Aspekte eingegangen.
+
+Dieser Vortrag eignet sich gleichermaßen für Einsteiger, die in dem Bereich
+Administration arbeiten möchten, für Unternehmen die Kochrezepte suchen und für
+alle Interessierten, die Zusammenhänge verstehen möchten.
+
+
+
+\item[Kollaboration mit Etherpad]\vorschub
+\textsl{David Krcek.}
+Durch Vernetzung über das Internet arbeiten immer mehr Menschen an verschieden
+Orten an gleichen Projekten. Durch diese Entwicklung nimmt der Bedarf an der
+gemeinsamen Bearbeitung von Texten in Echtzeit immer mehr zu.
+
+Etherpad ist das Werkzeug für die gemeinsame Bearbeitung von Texten in Echtzeit.
+Durch Plattformunabhängigkeit, Verschlüsselung und Erweiterungsmöglichkeiten
+sind Etherpad kaum Grenzen gesetzt. In diesem Vortrag werden der Aufbau und die
+Leistungsfähigkeit skizziert sowie die einfache Bedienung live
+demonstriert.
+
+
+\item[{\parbox[t]{\linewidth}{Windows- und Linux-Passwörter mit Minilinux zurücksetzen}}]\vorschub\\
+\textsl{Oliver Rath.} Bei Computer-Anwendern kommt es gelegentlich vor, dass ein Passwort
+vergessen wird. Unter Linux ist es relativ einfach, offline Passwörter
+zurückzusetzen. Bei Windows hat man bei den Werkzeugen oft das Nachsehen.
+Doch dank ntpasswd und der Möglichkeit, ein Linux offline zu booten, ist
+hier oft Abhilfe möglich. Wir zeigen die generische Anwendung der Werkzeuge
+und die möglichen Fallstricke bei Linux und Windows.
+
+Wenn noch Zeit bleibt, erzeugen wir uns noch unser eigenes, kleines
+Mini-Linux für diesen Zweck.
+
+\item[{\parbox[t]{\linewidth}{Workshop: Schnelle Anwendungsentwicklung mit \mbox{Ruby} on Rails}}]\vorschub\\
+\textsl{Thomas Eisenbarth.}
+In diesem Vortrag wird die Programmiersprache Ruby und das Web-Framework
+Rails vorgestellt. Anhand einer kleinen Demo-Anwendung wird gezeigt,
+warum sich Ruby on Rails hervorragend eignet, um schnell professionelle
+Web-Anwendungen zu erstellen. Darüber hinaus wird -- ebenfalls als
+Demonstration -- der Hintergrund von Testgetriebener Softwareentwicklung
+(TDD) gezeigt.
+
+\end{description}
+
+\subsection{12:00 -- 12:45 Uhr}
+\begin{description}
+\item[Geotagging. Fotos mit Geoinformationen verknüpfen]\vorschub
+\textsl{Frank Hofmann.}
+Nach jeder Reise gleicht das Sortieren der Mitbringsel und Zuordnen der Fotos
+häufig einem anspruchsvollen Puzzlespiel. Auch unsere Mitmenschen danken es
+uns, wenn sie später nicht nur endlose Pixelberge gezeigt bekommen, sondern die
+Fotos auf einer Landkarte mitverfolgen und geographisch einsortieren können. Im
+Mittelpunkt stehen Linux-Bordmittel und frei verfügbare Dienste wie
+beispielsweise OpenStreetMap.
+
+
+
+\item[{\parbox[t]{\linewidth}{OpenStack -- automatisiertes Bereitstellen von Test-, Entwicklungs-
+\& Produktivinstanzen in einer Private Cloud}}]\vorschub\\
+\textsl{Ralph Dehner.}
+OpenStack ist aktuell die Cloud-Lösung weltweit, die das größte Aufsehen als
+Private-Cloud-Lösung erzeugt. B1 Systems zeigt auf, wie innerhalb der Lösung
+unterschiedliche virtuelle Instanzen über die Selbstprovisionierung
+bereitgestellt werden können.
+
+\item[{\parbox[t]{\linewidth}{Reprap-3D-Drucker -- Open Hardware und Open Software in
+idealer Kombination}}]\vorschub\\
+\textsl{Stefan Krister.}
+Das Reprap-Projekt hat als Ziel, eine sich selbst replizierende Maschine zu
+entwickeln. Seit 2005 arbeitet Adrian Bowyer an der Verwirklichung. Der Vortrag
+zeigt die heutige Situation und führt in das Konzept des 3D-Drucks ein. Es
+werden die Komponenten (mechanisch, elektrisch und elektronisch) vorgestellt
+und der Software-Arbeitsablauf von der Konstruktion bis zum gedruckten Objekt
+gezeigt.
+
+Verwendete Hardware: Mendel90 Drucker, Raspberry Pi, Arduino;
+verwendete Software: OpenSCAD, Slic3r, Octoprint/Octopi
+
+
+
+
+\end{description}
+
+\subsection{13:00 -- 13:45 Uhr}
+\begin{description}
+
+\item[Linux für alle oder doch nicht?]\vorschub
+\textsl{Richard Albrecht.}
+Linux ist eine Erfolgsgeschichte, die vor 20 Jahren nicht absehbar war. Wenn
+man Linuxtage besucht, ist Linux überall, jeder hat es, jeder kennt es, alles
+ist einfach, flexibel und vielfältig. Es erscheint aus der Linuxtagperspektive
+unvorstellbar, dass es Leute gibt, die noch nie etwas von Linux gehört haben,
+für die Linux als sehr kompliziert erscheint.
+
+Schaut man sich die PCs dieser Leute zu Hause an, dann ist Linux praktisch
+nicht im Einsatz. Der Durchbruch von Linux auf dem Desktop ist bei ihnen nicht
+angekommen, trotz aller Begeisterung auf Linuxtagen und an
+LUG-Stammtischen.
+
+Im Vortrag möchte ich über meine Erfahrungen mit ganz normalen PC Nutzern beim
+Umstieg nach Linux berichten. Sie erfahren Linux als pflegeleicht und stabil
+und die eigenen Computerkenntnisse werden besser.
+
+Am Beispiel einer Schule in Kroatien, die nur PCs mit Microsoft Systemen
+einsetzte, möchte ich zeigen, was sich entwickeln kann, wenn man Pro-Linux
+Stimmen, die immer vorhanden sind, aufnimmt und die Arbeit mit Linux
+aufbaut.
+
+
+
+
+\item[ownCloud -- meine Daten gehören mir!]\vorschub
+\textsl{Björn Schießle.}
+In einer Zeit, in der sich Cloud Computing immer größerer Beliebtheit erfreut,
+ist freie Software alleine nicht mehr ausreichend um die Kontrolle über sein
+digitales Leben zu behalten. Wir wollen von überall und jederzeit mit einer
+Vielzahl von Geräten auf unsere persönlichsten Daten zugreifen.
+
+Um dies zu
+ermöglichen, speichern wir unser Daten nicht mehr auf dem heimischen Computer,
+sondern auf irgendwelchen Servern die sich unserer Kontrolle entziehen. Wer
+kann alles darauf zugreifen? Wer bestimmt über den Zugang zu den Daten? Wo
+genau werden die Daten überhaupt gespeichert?
+
+Gerade heute, ein Jahr nach den
+Enthüllungen von Edward Snowden, sind diese Fragen aktueller denn je. own\-Cloud
+ermöglicht es, die Kontrolle über die eigenen Daten zurück zu erlangen, egal ob
+Dokumente, Bilder, Kontakte, Kalender, Mediastreaming oder vielem mehr. Mit
+ownCloud kontrolliert man nicht nur die Software, sondern auch wo die Daten
+liegen, wer darauf Zugriff hat und was damit passiert.
+
+
+\item[Warum Django?]\vorschub
+\textsl{Jürgen Schackmann.}
+Django ist ein Open-Source-Web-Framework für die Programmiersprache Python.
+Mit Django lassen sich Webseiten und Web-Anwendungen schnell und mit
+wenig Code implementieren. Im Vortrag werden folgende Themen behandelt:
+Grundlegende Django-Konzepte (Projektstruktur, MVC, ORM, Templating etc.),
+typischer Entwicklungsprozess in einem Django-Projekt,
+Django-Community und Ökosystem, Sicherheit und Django für Enterprise-Anforderungen.
+\end{description}
+
+\subsection{14:00 -- 14:45 Uhr}
+
+\begin{description}
+\item[Quo vadis, IT-Sicherheit?]\vorschub
+\textsl{Thomas Eisenbarth.}
+Snowden und die NSA $\bullet$ Deutsche Telekom und das deutsche Internet $\bullet$ GMX \& Co.
+mit E-MAIL MADE IN GERMANY $\bullet$ RSA und der Zufallsgenerator $\bullet$ SSL und der grüne
+Balken $\bullet$ Lavabit und Kryptographie. sigh!
+
+Resümieren wir das vergangene Jahr 2013, muss einem unter
+IT-Sicherheitsaspekten fast schon schlecht werden ob der permanenten
+Horror-Nachrichten, die uns erreicht haben. Dieser Vortrag wird (pointiert)
+beleuchten, was alles schief gegangen ist, schief gehen wird und was man
+dagegen tun kann: Wem oder was kann man noch trauen und wie kann man sich
+schützen? Quo vadis, IT-Sicherheit?
+
+
+
+
+\item[{\parbox[t]{\linewidth}{The Document Foundation -- ein Blick hinter die Kulissen}}]\vorschub\\
+\textsl{Florian Effenberger.}
+The Document Foundation ist die gemeinnützige Stiftung hinter LibreOffice, der
+freien Office-Suite. Sie stellt nicht nur einen rechtlichen Rahmen für das
+Projekt bereit, sondern verwaltet zudem auch Rechtsgüter und Spenden, um die
+Fortentwicklung der Software sowie der Community sicherzustellen. Der Aufbau
+der Document Foundation ist dabei einzigartig -- und durch die Wahl einer
+deutschen Stiftung hat sich die Community für eine Organisationsform
+entschieden, die weltweit als stark, stabil und dauerhaft wertgeschätzt wird.
+Ihre Satzung stellt die Unabhängigkeit von einem einzelnen Unternehmen sicher
+und hebt gleichzeitig Transparenz, Offenheit und Meritokratie als zentrale
+Werte hervor.
+
+In dem Vortrag gibt Florian Effenberger, einer der Ini\-ti\-a\-to\-ren der TDF, einen
+Einblick in den Aufbau der Stiftung, darüber, welche Ziele sie in den letzten
+25 Monaten erreicht hat, wie ein Projekt dieser Größenordnung koordiniert wird,
+und welche Pläne und Visionen das Projekt für die Zukunft hat.
+
+
+\item[Aktuelle Entwicklungen beim Linux-Kernel]\vorschub
+\textsl{Thorsten Leemhuis.}
+Der Vortrag gibt einen Überblick über die jüngsten Verbesserungen beim
+Linux-Kernel, denn die sind oft auch für Allerwelt-PCs oder Server von Belang;
+mit Distributionen wie Ubuntu 14.04 erreichen die Verbesserungen der neuesten
+Kernel in Kürze auch eine breite Anwenderschar.
+
+Der Vortrag geht auch auf einige Neuerungen bei Kernel-naher Software ein --
+etwa den Open-Source-3D-Grafiktreibern. Angerissen werden auch einige noch in
+Vorbereitung befindliche Änderungen, der Entwicklungsprozess sowie andere
+Aspekte rund um den Kernel, die für die kurz- und langfristige Entwicklung von
+Linux und Linux-Distributionen wichtig sind.
+
+Zielpublikum des Vortrags sind technisch interessierte Linux-Nutzer.
+
+
+
+
+\item[Workshop: Linux im Musikstudio]\vorschub
+\textsl{Franz Tea.}
+Für Musikschaffende im Hobby- oder professionellen Bereich kann Linux eine gute
+Basis für ihre Arbeit darstellen. Ein Echtzeit-Linux wie etwa Ubuntu Studio mit
+den entsprechenden Programmen deckt fast den ganzen Bereich ab: von der
+Musikerzeugung über die Aufnahme bis zur Abmischung. Die Simulation von
+Synthesizern und anderen Geräten, der Einsatz von Effekten, ausgereifte
+Programme zum Abmischen, ein Festplatten-Recorder, die Anbindung vorhandener
+Geräte wie zum Beispiel Keyboards -- alles ist vorhanden. Durch die
+ausgeklügelte Architektur der Schnittstellen in Linux ist der Baukasten an
+Geräten einfach virtuell zusammenzustöpseln. In dem Workshop werden wir
+gemeinsam versuchen, ein Musikstück von der Idee bis zur Fertigstellung zu
+bringen.
+\end{description}
+
+
+\subsection{15:00 -- 15:45 Uhr}
+
+\begin{description}
+\item[Bitcoin -- Open Sourcing Money]\vorschub
+\textsl{Levin Keller.}
+Bitcoin ist ein länderübergreifendes Zahlungssystem in Form von virtuellem Geld. Die Über\-tra\-gung der Beträge erfolgt direkt von Teilnehmer zu Teilnehmer (Peer-to-Peer). Dadurch werden die beim herkömmlichen Bankverkehr üblichen Zwischenschritte umgangen.
+
+Im Jahr 2013 hat die Bitcoin erstmalig breite
+Medienaufmerksamkeit erfahren. Dabei werden vor allem der rasante
+Kursanstieg und Warnungen durch Regierungsvertreter thematisiert. Eine
+genaue Erklärung von Bitcoin und der Potentiale der Technologie bleibt
+leider meistens aus.
+\vfill
+\columnbreak
+
+Levin Keller wird in seinem Vortrag zunächst die
+Bit\-coin zugrundeliegende Technologie erläutern, um dann einige
+Möglichkeiten zu skizzieren, die sich in Zukunft durch die Verwendung von
+Bitcoin ermöglichen. Hierzu zählen u.\,A. zensurresistente Geldflüsse an
+Bürgerrechtsorganisationen, Crowdfunding und Spenden für
+Open-Source-Software und Weiterentwicklungen von Bitcoin wie Namecoin,
+Ripple oder Ethereum.
+
+Im Anschluss steht Levin Keller für Fragen oder Hilfe bei der
+Installation der Bitcoin-App auf dem eigenen Handy zur Verfügung.
+
+
+
+
+\item[Mehrere Terminals in einem mit GNU Screen]\vorschub
+\textsl{Axel Beckert.}
+GNU Screen erlaubt einem, in einem Text-Terminal mehrere Kommandozeilenshells
+und andere Anwendungen gleichzeitig laufen zu lassen. Es ermöglicht einem
+außerdem Text-Modus-Anwendungen oder Shells weiterlaufen zu lassen, auch wenn
+man sich (etwa per SSH) ausgeloggt hat. Man kann auch später vom selben oder
+von einem anderen Rechner aus per SSH sich wieder mit den laufenden Anwendungen
+verbinden.
+
+Der Vortrag geht auch kurz auf die Screen-Alternative Tmux sowie auf Byobu ein,
+welches auf Tmux und Screen aufbaut.
+
+\item[{\parbox[t]{\linewidth}{Sichere und unabhängige Datenverwaltung mit ownCloud}}]\vorschub\\
+\textsl{Bernd Müller.}
+Speicherplatz in der Cloud wird immer beliebter, nicht nur für Unternehmen
+und virtuelle Systeme, sondern auch für Endanwender bzw. Nutzerdaten. Vorteile
+wie Sicherheitskopien, Daten teilen, Kontakte, Kalender, Browserdaten
+synchronisieren usw. werden von unterschiedlichen Unternehmen und
+Community-Projekten angeboten.
+
+Dieser Vortrag zeigt, wie mit Hilfe der freien Software ownCloud diese Dienste
+auf einfache Art und Weise selbst betrieben werden können. Für viele
+Unternehmen und Anwender ist eine wichtige Voraussetzung, dass die Daten nicht
+in anderen Ländern oder fremden Rechenzentren liegen. Zusätzlich bietet
+ownCloud die Möglichkeit, die Daten verschlüsselt abzulegen.
+
+Für ownCloud sprechen auch die zahlreichen unterstützten Zugriffsmöglichkeiten.
+Es existieren Programme bzw. Apps für Linux, Microsoft, Mac OS, Android und
+iOS. Ganz gleich, ob es um die gemeinsame Arbeit an einem Dokument,
+Terminkoordination oder schlicht die gemeinsame Nutzung von Daten geht: In
+diesem Vortrag wird gezeigt, wie von verschiedenen Geräten und Plattformen auf
+Daten zugegriffen und diese geteilt werden können. Auch im Hinblick auf
+Sicherheitsaspekte und den Schutz der eigenen Privatsphäre erfährt der Zuhörer,
+welche individuellen Möglichkeiten ihm und seinem Unternehmen dank Community-
+und Corporate-Sparten bei ownCloud und Partnern zur Verfügung stehen.
+\end{description}
+
+\subsection{16:00 -- 16:45 Uhr}
+
+\begin{description}
+\item[HAMNET]\vorschub
+\textsl{Olaf Henne.}
+HAMNET ist ein Funknetz von Funkamateuren für Funkamateure. Es reicht von dem
+Mittelmeer bis zur Nordsee und die gesamte Ausrüstung ist privat finanziert.
+Damit ist klar, dass nach Möglichkeit auf freie Software und günstige Hardware
+zurückgegriffen wird. In diesem Funknetz werden unterschiedliche Dienste
+bereitgestellt, zum Beispiel Suchmaschinen, Messenger, Sprachkonferenzen,
+etc.
+
+Funkamateure dürfen experimentieren. Sie dürfen also diese Dienste an die
+Besonderheiten eines Funknetzes anpassen. Sie können neue Lösungen für die
+unterschiedlichsten Probleme (zum Beispiel unterschiedliche Dämpfung bei
+Regen/Sonne oder Sommer/Winter) im Frequenzbereich um 2,3 bzw. 5,7 GHz
+entwickeln und unter realen Bedingungen ausprobieren. Open-Source-Software ist
+aus vielen Gründen für diese Aufgaben optimal.
+
+In dem Vortrag werden das HAMNET und die dort vorhandenen Dienste, einige
+Geräte für das HAMNET und manche Probleme vorgestellt, um gegebenenfalls
+Synergien zu anderen Projekten zu finden.
+
+\columnbreak
+\item[{\parbox[t]{\linewidth}{Buchvorstellung: Red Hat Certified Systems Administrator}}]\vorschub\\
+\textsl{Dieter Thalmayr.}
+Im Februar erschien die erste Auflage des Buchs "`RHCSA"' beim
+opensourcepress-Verlag. Mein drittes Buch ist kein reines Linux-Einsteigerbuch,
+sondern es zielt darauf ab, den Leser auf die Prüfung zum "`Red Hat Certified
+Systems Administrator"' vorzubereiten. Freilich hilft es auch dabei,
+Administratoren, die andere Linuxe kennen, den Ein- und Umstieg auf
+Redhat-artige Distributionen zu erleichtern. Und es hilft Einsteigern, Linux zu
+lernen.
+
+Der "`RHCSA"' ist der Einsteigergrad aller Red-Hat-Zertifizierungen. Durch
+den Wegfall von Konkurrenz ist die Red-Hat-Zertifizierung in Deutschland im
+Moment die einzige nennenswerte Industrie-Zertifizierung für große Oracle- und
+SAP-Umfelder geworden. Worum es bei der Prüfung geht, wie man sie ablegt, und
+wie sich das Leben mit einem Linux-Monopolisten anfühlt, darum geht es in
+diesem Vortrag.
+
+\item[Wireshark ohne Netzwerk]\vorschub
+\textsl{Martin Kaiser.}
+Fast jeder von Euch hat Wireshark schon genutzt, um Netzwerktraffic
+mitzuschneiden.
+
+Die vielfältigen Möglichkeiten der Darstellung und Filterung sind auch für
+andere Protokolldaten interessant, die zum Beispiel von Messgeräten oder selbstgebauter
+Hardware stammen. Dieser Vortrag zeigt anhand von Beispielen, wie man solche
+Daten für Wireshark lesbar macht und welche Möglichkeiten Wireshark bietet,
+diese Daten zu analysieren.
+
+Für den Fall, dass Wireshark Euer Protokoll noch nicht kennt, gibt es noch eine
+kurze Einführung, wie man ein neues Protokoll implementiert.
+\vfill
+
+\end{description}
+\raggedleft\rule{0.7\linewidth}{0.25pt}
+\scriptsize
+
+\raggedleft\texttt{http://www.luga.de/LIT-2014/}
+
+\end{multicols}
+
+\end{document}
