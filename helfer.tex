@@ -1,0 +1,89 @@
+\documentclass[a4paper,ngerman,14pt]{scrartcl}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[ngerman]{babel}
+\usepackage{latexsym}
+
+\usepackage[protrusion=true,expansion=true]{microtype}
+
+\usepackage[T1]{fontenc}
+\usepackage{libertine}
+\usepackage{tabto}
+\usepackage{setspace}
+
+\setlength\parskip{\medskipamount}
+\setlength\parindent{0pt}
+
+\usepackage{geometry}
+\geometry{tmargin=1cm,bmargin=1cm,lmargin=2cm,rmargin=2cm}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+  \Huge\sffamily
+  {\textbf{Linux-Infotag}}
+\end{center}
+
+\section*{Allgemeine Hinweise}
+
+\begin{itemize}
+  \item Der Vortrag sollte nicht länger als 45 Minuten dauern,
+  damit danach noch Zeit für Fragen (fünf bis zehn Minuten) und Raumwechsel ist.
+  Die Vortragenden freuen sich mit den Schildern über Zeithinweise
+  vor Ablauf der 45 Minuten.
+
+  \item Damit Live-Beispiele in der Konsole auch hinten im Raum lesbar sind,
+  sollte die Schrift groß genug (mindestens Schriftgröße~20) und schwarz auf
+  weißem Hintergrund sein. Bitte unbedingt darauf achten und ggf. den
+  Vortragenden bitten, die Schrift zu vergrößeren (geht oft ganz einfach:
+  Strg+Plus).
+
+  \item Wenn die Verbindung zwischen Laptop und Beamer nicht funktioniert:
+  \begin{enumerate}
+    \item Entsprechende Funktionstasten am Laptop drücken
+    \item \texttt{xrandr -{}-output VGA1 -{}-auto}
+    \item \texttt{xrandr -{}-output VGA1 -{}-mode 1024x768}
+    \item X-Server neustarten
+    \item Laptop neustarten
+  \end{enumerate}
+\end{itemize}
+
+
+\section*{Vortragsevaluation}
+
+\newcommand{\longline}{\underline{\hspace{12cm}}}
+\newcommand{\shortline}{\underline{\hspace{3cm}}}
+
+\newcommand{\checkbox}{$\ \Box\ $}
+\newcommand{\boxes}{%
+  \checkbox \> \checkbox \> \checkbox \> \checkbox \> \checkbox}
+
+\onehalfspacing
+
+\begin{tabbing}
+  \textbf{Beginn des Vortrags:}\ \ \ \=
+  (sehr unverständlich) \=
+  \checkbox \= \checkbox \= \checkbox \= \checkbox \= \checkbox \=
+  \kill
+
+  \textbf{Titel des Vortrags:} \> \longline \\
+  \textbf{Beginn des Vortrags:} \> \shortline{} Uhr \\\\
+
+  \textbf{Raumbetreuer:} \> \longline \\\\
+
+  \textbf{Anzahl Zuhörer:} \> \shortline \\\\
+
+  \textbf{Verständlichkeit:} \> (sehr unverständlich) \> \boxes \> (sehr
+  verständlich) \\
+  \textbf{Inhalt:} \> (sehr langweilig) \> \boxes \> (sehr interessant) \\
+  \textbf{Humor:} \> (sehr trocken) \> \boxes \> (sehr lustig) \\
+  \textbf{Vortragsstil:} \> (sehr schlecht) \> \boxes \> (sehr gut) \\
+  \textbf{Publikumsfragen:} \> etwa \shortline{} Stück \\
+  \textbf{Gesamteindruck:} \> (sehr schlecht) \> \boxes \> (sehr gut) \\
+  \textbf{Bemerkungen:} \>
+\end{tabbing}
+
+\end{document}
