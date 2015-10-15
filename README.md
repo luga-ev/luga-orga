@@ -1,2 +1,3 @@
-# augsburger-linux-infotag
-Stuff for the Augsburger Linux-Infotag
+# luga-orga
+
+Stuff for Linux User Group Augsburg e.V.
