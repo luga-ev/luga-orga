@@ -1,0 +1,509 @@
+sniffing  herz        rath          musik konsole kernel
+remote    lightning   systemd
+backups   compromised tiling        gnupg strace kids
+schneller ingold      signalhacking
+dpkg      ???         internet      gimp ??? ???
+klaenge   thalmayr    lynx          ??? ???
+
+
+=== keynote
+
+Katharina Nocun
+Eröffnungsvortrag
+Eröffnungsvortrag
+
+<em>Der Inhalt wird noch bekanntgegeben.</em>
+
+Katharina Nocun ist eine deutsch-polnische Politikerin,
+Netzaktivistin und Bloggerin. Sie war von Mai bis November 2013 politische
+Geschäftsführerin der Piratenpartei Deutschland und leitete bei Campact e.V.
+unter anderem die Kampagne „Schutz für Edward Snowden in Deutschland“.
+
+
+=== sniffing
+
+LUGA
+Welche Daten verschickt eigentlich mein Browser?
+Welche Daten verschickt eigentlich mein Browser? Ein augenöffnender Vortrag über Internet(un)sicherheit
+
+Oft hört man in Medien, dass Internet und Mails so unsicher wie Postkarten
+seien. Aber selten hat man eine plastische Vorstellung davon, was das
+eigentlich bedeutet. Noch dazu sind solche Aussagen untertrieben, denn im
+Regelfall ist es für meine NachbarInnen nicht ganz leicht, unbemerkt meine Post
+einzusehen. Wer allerdings mit mir im selben öffentlichen WiFi-Netzwerk surft,
+kann ohne besondere Raffinesse mein Internetverhalten verfolgen.
+
+Der Vortrag stellt das Programm <em>Wireshark</em> vor, mit dem man den
+Netzverkehr, der über den eigenen Computer geht, sichtbar machen kann. So
+erkennt man mit eigenen Augen, welche Daten Fremde eigentlich mitlesen können,
+und schärft so sein Sicherheitsbewusstsein. Das werden zahlreiche
+Live-Vorführungen, die man auch zu Hause nachspielen kann, demonstrieren.
+
+Zum Abschluss des Vortrags inspizieren wir den Datenverkehr eines mutigen
+Freiwilligen.
+
+Wer Wireshark schon kennt, sollte einen der anderen zeitgleich stattfindenden
+Vorträge besuchen. Dieser Vortrag setzt keinerlei technisches Vorwissen voraus.
+
+
+=== lightning
+
+LUGA
+Lightning Talks
+Lightning Talks
+
+Das ist kein Vortrag im herkömmlichen Sinn. Stattdessen präsentieren hier
+verschiedene ReferentInnen jeweils fünfminütige Kurzvorträge (Lightning Talks).
+Noch sind Plätze frei. Wer selbst einen Kurzvortrag präsentieren möchte, kann
+sich mit einer Mail an die Organisatoren anmelden. Es wurden schon zu folgenden
+Themen Beiträge eingereicht:
+
+<ul>
+<li><em>Carina Willbold.</em> Monty und Py werden Hacker</li>
+<li><em>Thomas Glamsch.</em> PDF-Dateien auf der Kommandozeile editieren</li>
+<li><em>???.</em> 3D-Drucken für zu Hause</li>
+<li><em>???.</em> Jugend hackt und Matheschülerzirkel Augsburg</li>
+<li><em>???.</em> Lojban: eine Plansprache mit eindeutigem und logischen Aufbau</li>
+<li><em>???.</em> Nadel- und Fadensprechstunde im OpenLab</li>
+</ul>
+
+
+=== rath
+
+Oliver Rath
+Oliver Rath
+???
+
+???
+
+
+=== remote
+
+Heinz-M. Graesing
+Fernzugriff auf eigene Computer
+Remotezugriffprotokolle im Vergleich. Wie unterscheiden sich VNC, RDP, SPICE, XPRA und X2Go in Architektur, Leistung und Skalierbarkeit?
+
+Die Anzahl der Open-Source-Projekte zur Fernwartung ist groß. Die
+Anzahl der darunterliegenden Protokolle dagegen recht übersichtlich.
+Jedes Protokoll hat eine Geschichte, die wiederum die Verwendung,
+Leistung, Skalierbarkeit und Limitationen beeinflusst.
+
+Während des Vortrags werden die Protokolle VNC, RDP, SPICE, XPRA und
+X2Go vorgestellt und vor allem vorgeführt. Welche Protokolle eignen sich für
+die aktuellen Buzzwordthemen wie VDI, Docker und Orchestration? Und welchen
+Einfluss haben systemd und Wayland?
+
+
+=== systemd
+
+B1 Systems
+systemd im Alltag
+systemd im Alltag
+
+SysVinit, Upstart, OpenRC … Diese und andere Linux-Init-Systeme
+begleiteten viele Jahre den Start jedes Linuxsystems. 2010 erblickte ein
+neues Init-System die Linuxwelt und mochte vieles umkrempeln. Seit
+damals ist viel Zeit vergangen und systemd ist in fast allen
+Linux-Distributionen angekommen.
+
+Dieser Vortrag soll zeigen, wie bisherige
+Alltagsaufgaben nun mit systemd gemeistert werden können, von der
+Verwaltung der Dienste über den Umgang mit Journal (Logs) bis hin zur
+Netzwerkkonfiguration. Was war bisher notwendig und wie wird das mit
+systemd gemacht?
+
+
+=== backups
+
+Richard Albrecht
+Sichere Backups
+Sicheres Backup, rsync, ssh und LUKS im Team
+
+Sicherheitskopien sind ein Problem. Sie werden zu selten gemacht.
+Die Werkzeuge <em>rsync/rsnapshot</em>, <em>cron</em>, <em>ssh</em> und
+<em>LUKS</em> sind in Linux vorhanden und bilden die Basis für eine
+Backupverwaltung, lokal und per Fernzugriff.
+
+Für Ein- und UmsteigerInnen nach Linux sind oft die Informationen dazu zu 
+komplex. Beschränkt man sich auf das Wesentliche, wird es einfacher. Mit 
+wenigen Grundkenntnissen zum Terminal und einer klaren Strategie wird 
+gezeigt, wie man ein schnelles, sicheres, inkrementelles Backup unter 
+Einsatz der Linux-Bordmittel und preiswerter Hardware aufbaut.
+
+Ziel ist ein (fast) wartungsfreies, verschlüsseltes Backup, sicher vor 
+dem Zugriff Dritter. Die Vor- und Nachteile verschiedener Szenarien 
+werden diskutiert.
+
+
+=== compromised
+
+Ulrich Habel
+Notfallwiederherstellung
+Notfallwiederherstellung in einer kompromittierten Umgebung
+
+Umgebungen werden kompromittiert, Menschen machen Fehler oder
+Anwendungssoftware und Applikation laufen wild. Es gibt viele Gründe,
+warum ein Totalausfall einer Infrastruktur eintreten kann. Das Konzept
+der Datenrücksicherung von bestehenden Sicherungen deckt jedoch selten
+den Fall einer kompromittierten Umgebung ab.
+
+Der Vortrag nähert sich dem Thema von mehreren Seiten: menschlichen
+Verhaltensformen, technischen Lösungen und er begleitet einen
+Wiederherstellungsprozess.
+
+
+=== tiling
+
+Ingo Bürk
+Tiling Window-Manager
+Effiziente Arbeit auf dem UNIX-Desktop mittels Tiling Window-Manager
+
+Der Window-Manager ist ein integraler Bestandteil des UNIX-Desktops.
+Seine Aufgabe ist es, Fenster zu verwalten, zu dekorieren und den
+Benutzer mit diesen interagieren zu lassen. Es gibt eine Vielzahl von
+Window-Managern, die sehr unterschiedliche Paradigmen implementieren.
+
+Möchte man die eigene Produktivität maximieren, so bieten sich
+so genannte "Tiling" Window-Manager an, welche die Fenster automatisch in
+einem Layout anordnen, das den gesamten Bildschirm füllt. <em>i3</em> ist ein
+solcher Tiling Window-Manager, der komplexe, verschachtelte Layouts
+ebenso erlaubt wie ein manuelles Platzieren der Fenster. Zusammen mit
+einer einsteigerInnenfreundlichen Konfiguration und der mühelosen Bedienung
+per Tastatur definiert dies ein in der Windows-Welt weitgehend
+unbekanntes Erlebnis für den Desktop.
+
+
+=== ingold
+
+Gert-Ludwig Ingold
+Gert-Ludwig Ingold
+???
+
+<em>Der Inhalt wird noch bekanntgegeben.</em>
+
+
+=== signalhacking
+
+Jiska Classen
+Signalhacking
+Software Defined Radio – Open Source Wireless Hacking
+
+Unter Software Defined Radio fasst man Konzepte für Hochfrequenz-Sender
+und -Empfänger zusammen, bei denen kleinere oder größere Anteile der
+Signalverarbeitung mit Software statt Hardware verwirklicht werden. Software
+Defined Radio erfreut sich in den letzten Jahren großer Beliebtheit. Es wurde
+etwa auch von Amateuren zur Kommunikation mit der aufgegebenen <a
+href="https://de.wikipedia.org/wiki/ISEE-3/ICE">ISEE-3-Raumsonde</a> verwendet.
+
+Im Vortrag geht es um folgende Themen:
+
+<ul>
+<li>Hardware: Was kann welche Hardware? Wie offen ist sie? Wie teuer?</li>
+<li>Werkzeuge: gqrx und gnuradio, Plattformen</li>
+<li>Implementierungen: Bluetooth, GSM, WLAN und was man damit so
+kaputtspielen kann</li>
+<li>Demo: WLAN senden und empfangen mit HackRF/rad1o und GSM (Handynetz) empfangen
+mit DVB-T Stick</li>
+</ul>
+
+Der Vortrag richtet sich an EinsteigerInnen, die mal sehen wollen, was man so
+tun kann, als auch Fortgeschrittene, die möglicherweise schon Hardware haben
+oder zwar schon mal Signalverarbeitung gemacht haben, bisher aber noch nicht
+mit Open-Source-Lösungen.
+
+
+=== internet
+
+Christoph Egger
+BGP und OSPF – wie das Internet funktioniert
+BGP und OSPF – wie das Internet funktioniert
+
+Der Vortrag erklärt, wie das "Internet" im Hintergrund funktioniert. Wie
+findet ein Paket sein Ziel? Was passiert eigentlich, wenn ein
+Unterseekabel ausfällt? Und wie kann man diese Technologie auf
+seinem Linux-System selbst ausprobieren (<a href="http://dn42.net/">dn42.net</a>)?
+
+
+=== klaenge
+
+LUGA
+Physik der Klänge
+Die Physik der Klänge – Experimente mit Linux-Bordmitteln
+
+Wie kommt es, dass ein Saxophon viel voller klingt als etwa eine Panflöte oder
+eine einfache Stimmgabel? Und was genau versteht man überhaupt unter dem „Klang“
+eines Instruments? Wie kann man Schallwellen sichtbar machen? Was haben Schall
+und Regenwürmer gemeinsam?
+
+Diese und weitere Fragen möchten wir zum Abschluss des Linux-Infotags
+beleuchten. Im Mittelpunkt werden dabei Experimente stehen, die wir mit
+Linux-Bordmitteln durchführen können: Ausgehend von den einfachsten Tönen,
+den reinen Sinustönen, werden wir immer komplexere Wellenformen erzeugen und
+hören.
+
+Der Vortrag setzt weder technisches noch physikalisches Vorwissen voraus.
+
+
+=== thalmayr
+
+Dieter Thalmayr
+Dieter Thalmayr
+???
+
+<em>Der Inhalt wird noch bekanntgegeben.</em>
+
+
+=== kids
+
+LUGA
+!Programmier-Workshop für SchülerInnen
+Programmier-Workshop für SchülerInnen [WORKSHOP]
+
+Python ist eine moderne Programmiersprache, mit der man zum Beispiel eigene
+Spiele und Webseiten erstellen kann. Im Workshop unternehmen wir gemeinsam
+erste Schritte in dieser Sprache. Es sind keinerlei Computer- oder
+Programmier-Vorkenntnisse nötig.
+
+Wenn du nicht genau weißt, was dich in dem Workshop erwartet, oder wenn du
+sonstige Fragen oder Wünsche hast, kannst du Carina jederzeit informal und
+unverbindlich eine Mail (siehe unten) schreiben.
+
+Wenn du mindestens in die vierte Klasse gehst, bist du herzlich zu diesem
+Workshop eingeladen! Bring einen Laptop mit oder melde dich vorab per Mail an,
+wenn das nicht gehen sollte. Keine Sorge: Wir werden das vorhandene
+Laptopsystem nicht ändern. Wir werden den Laptop nur verwenden, um auf eine
+bestimmte Webseite zu gehen.
+
+
+=== dpkg
+
+Axel Beckert und Frank Hofmann
+Blick hinter die Kulissen eines freien Buchs
+Das Debian-Paketmanagement-Buch. Blick hinter die Kulissen eines freien Buchs
+
+Seit 2013 arbeiten wir an einem Buch zum Thema Debian-Paketmanagement.
+Dieses steht seit Sommer 2015 unter einer Creative Commons
+(CC-BY-SA)-Lizenz und ist für jeden Interessierten zur freien Nutzung
+über die Versionierungsplattform GitHub verfügbar.
+
+Dieses Buch gemeinsam zu schreiben, ist bereits eine Herausforderung für
+sich. Hinzu kommt die Vorbereitung und Pflege der Ausgabeformate HTML,
+PDF, ePub und MobiPocket und später auch die gedruckte Fassung.
+
+Wir stellen vor, welche Technologien und Werkzeuge wir dafür benutzen,
+um sowohl die Inhalte geordnet zu verwalten, als auch die Vorschläge und
+Anmerkungen der Leser in das bereits bestehende Material zu integrieren.
+Die bestehenden Möglichkeiten, um ein fertiges Buch selbst zu
+publizieren, kommen dabei ebenfalls nicht zu kurz.
+
+Siehe auch: <a href="http://www.dpmb.org/">Webseite zum Buch</a>,
+<a href="https://github.com/dpmb/dpmb">Quellcode auf GitHub</a>
+
+
+=== musik
+
+Franz Te
+!Linux im Musikstudio
+Linux im Musikstudio
+
+Für Musikschaffende im Hobby- oder professionellen Bereich kann Linux eine gute
+Basis für ihre Arbeit darstellen. Ein Echtzeit-Linux wie etwa Ubuntu Studio mit
+den entsprechenden Programmen deckt fast den ganzen Bereich ab: von der
+Musikerzeugung über die Aufnahme bis zur Abmischung. Die Simulation von
+Synthesizern und anderen Geräten, der Einsatz von Effekten, ausgereifte
+Programme zum Abmischen, ein Festplatten-Recorder, die Anbindung vorhandener
+Geräte wie zum Beispiel Keyboards – alles ist vorhanden. Durch die
+ausgeklügelte Architektur der Schnittstellen in Linux ist der Baukasten an
+Geräten einfach virtuell zusammenzustöpseln. In dem Workshop werden wir
+gemeinsam versuchen, ein Musikstück von der Idee bis zur Fertigstellung zu
+bringen. Dieses Jahr soll es auch um Musikvideos gehen.
+
+
+=== gnupg
+
+B1 Systems
+!E-Mail-Verschlüsselung
+E-Mail-Verschlüsselung mit GnuPG am Beispiel von Thunderbird mit Enigmail [WORKSHOP]
+
+Wie der <a href="#sniffing">Vortrag zu Internetunsicherheit</a> plastisch
+vorführt, werden Daten im Internet meist unverschlüsselt übertragen und sind
+für viele Dritte sichtbar. Das stimmt insbesondere für Mails.
+
+Zum Glück gibt es eine umfassende Lösung für dieses Problem:
+E-Mail-Verschlüsselung, deren Effektivität auch Snowden im Zuge seiner
+Veröffentlichungen explizit betonte.
+
+Der Vortrag beginnt mit einer theoretischen Einführung: Wie funktioniert
+asymmetrische Verschlüsselung und wie arbeiten die verschiedenen Komponenten
+zusammen?
+
+Anschließlich folgt der praktische Teil. Die BesucherInnen des Workshops können
+unter Anleitung Enigmail installieren, ein Schlüsselpaar erstellen und
+Thunderbird konfigurieren, um die Verschlüsselung für einen Account zu
+aktivieren. Wir besprechen, wie man seine E-Mails signieren, ver- und
+entschlüsseln kann und was es mit dem <em>Web of Trust</em> auf sich hat.
+
+Es kommen grafische Werkzeuge sowie einige Kommandozeilenbefehle zum Einsatz.
+
+
+=== kernel
+
+Richard Sailer
+!Linux-Kernel-Entwicklung
+Linux-Kernel-Entwicklung [WORKSHOP]
+
+Der Linux-Kernel ist das pulsierende Herzstück jedes Debian-Servers, jedes
+Ubuntu-Desktop-Systems und jedes Android-Smartphones. Der Quellcode ist
+gleichzeitig für alle offen einseh- und auch für den eigenen Computer
+erweiter- und anpassbar. So können neue Funktionen oder Treiber für neue
+Hardware hinzugefügt werden.
+
+Oft möchte man jedoch, dass die eigenen Änderungen Teil des großen
+offiziellen Linux-Kernel-Projekts werden und damit auf alle der oben genannten
+Geräte verteilt werden. Dazu muss man die eigenen Änderungen als Patch an die
+richtigen Kernel-Maintainer schicken. Die entscheiden dann, ob die Änderungen in
+den Kernel kommen. Namen oder Titel sind bei dieser Entscheidung völlig
+bedeutungslos. Nicht aber Codequalität, Sauberkeit und äußere Form.
+
+Mit diesem Workshop möchte ich kernel-interesierten ProgrammierInnen helfen, die
+Schritte zum ersten <em>Linux-Kernel-Commit</em> zu gehen.
+
+Dazu werde ich zum einen auf die technischen Aspekte des Kernel-codes
+eingehen. Hauptsächlich werde ich jedoch das notwendige organisatorische
+"Drumherum" erklären, also wie das Einsenden der Patches läuft, worauf man
+achten muss und so weiter.
+
+Es gibt Antworten zu:
+<ul>
+<li>Wie und wo fange ich an?</li>
+<li>Welches Repository ist für mich relevant?</li>
+<li>Wie kompiliere und teste ich meinen Kernelpatch?</li>
+<li>Was sind interessante "Baustellen" zum Anfangen?</li>
+<li>Wie kommuniziere ich mit meinen Maintainern (Mailinglisten)?</li>
+<li>Wohin und wie sende ich meine(n) Code/Patches</li>
+</ul>
+Inhalt und Zeitplan:
+<ol style="list-style-type: decimal">
+<li>Einleitung (<em>10 min</em>)</li>
+<li>Die Repositories und der Entwicklungsprozess (<em>15 min</em>)</li>
+<li>Der Sourcecode (Überblick) (<em>10 min</em>)</li>
+<li>Kompilieren und Testen (<em>20 min</em>)</li>
+<li>Mailinglisten, Konventionen und Umgangsformen (<em>20 min</em>)</li>
+<li>Patches bauen und senden mit git-send-email (<em>20 min</em>)</li>
+<li>Buchempfehlungen und gute Quellen (kernelnewbies) (<em>5 min</em>)</li>
+<li>Fragen und Zeitpuffer (<em>20 min</em>)</li>
+</ol>
+Notwendiges Vorwissen:
+<ul>
+<li>Erfahrung im Umgang mit <em>git</em></li>
+<li>Erfahrung mit der Programmiersprache <em>C</em> insbesondere
+<em>Pointer</em></li>
+<li>Souveräner Umgang mit der <em>Shell</em></li>
+<li>1-2 Jahre Erfahrung mit <em>Linux</em> oder einem anderen
+<em>Unix</em></li>
+</ul>
+
+
+=== herz
+
+Andreas Herz
+Einbruchsvorbeugung und -entdeckung
+Einbruchsvorbeugung und -entdeckung
+
+<em>Der Inhalt wird noch bekanntgegeben.</em>
+
+
+=== schneller
+
+Frank Hofmann
+Schneller und sicherer Surfen
+Schneller und sicherer Surfen im Internet
+
+Baut sich eine Webseite im Webbrowser nur sehr langsam auf, ist es
+einfach, mit dem Finger nur auf die Bandbreite der Netzwerkverbindung
+oder der Hardware zu zeigen. Zwischen dem Abrufen der Webseite und der
+Darstellung in ihrem Webbrowser läuft aber mittlerweile ein recht aufwendiger
+Prozess, in dem etliche Faktoren eine Rolle spielen.
+
+Im Vortrag gehen wir den folgenden Punkten nach:
+
+<ul>
+<li>Überblick zu den Ursachen von erhöhtem Datentransfer</li>
+<li>Latenzverstärker identifizieren und ausschalten</li>
+<li>Datenspuren minimieren oder vermeiden</li>
+<li>Welche Einflussmöglichkeiten hat man als BenutzerIn, RedakteurIn und AdministratorIn?</li>
+</ul>
+
+Im Anschluss diskutieren wir die vorgestellten Möglichkeiten. Es soll einen
+regen Austausch hinsichtlich eigener Erfahrungen und Tipps im Alltag geben.
+
+
+=== gimp
+
+B1 Systems
+!Bildbearbeitung und Vektorgrafik
+Bildbearbeitung und Vektorgrafik [WORKSHOP]
+
+Einstieg in die Benutzeroberfläche und Bedienkonzpte von GIMP. Kleines
+Projekt zur Farbkorrektur und Retusche. Welche Unterschiede gibt es zur
+Vektorgrafik? Überblick über die Funktionen von Inkscape und Bearbeiten
+eines kleinen Grafikprojekts. Ausblick: Zusammenarbeit mit anderen
+Programmen (Scribus (DTP), Blender (3D-Grafik))
+
+
+=== lynx
+
+Axel Beckert
+Surfen auf schwachen Computern
+Surfen unter Linux auf alten oder schwachen Computern mit alternativen Webbrowsern
+
+Firefox, Chrome/Chromium und WebKit-basierte Browser werden immer
+größer und ressourcenhungriger. Nutzt man Linux auf alten Computern, um sie
+nicht wegwerfen zu müssen, oder auf nicht allzu leistungsfähigen
+Single-Board-Computern wie Raspberry Pi, Odroid C1 &amp; Co., so bekommt
+man spätestens beim Surfen mit den gängigen und bekannten Webbrowsern
+ein Problem: Alles ist schnarchlangsam.
+
+Aber zum Glück gibt es Alternativen: Neben verschiedenen, ressourcensparsamen
+und dennoch nutzbaren, grafischen Webbrowsern gibt's auch eine Handvoll
+Webbrowser, die im Textmodus funktionieren, damit nicht einmal eine
+grafische Oberfläche brauchen und so besonders ressourcenschonend sind.
+
+
+=== strace
+
+Harald Koenig
+!strace
+Mit strace zum Linux- und Bash-Verstehenden [WORKSHOP]
+
+Systemprobleme aller Art lassen sich mit <em>strace</em> analysieren.
+Prozessabläufe in Linux erkennt und versteht man so viel besser.
+
+Im Vortrag wird an konkreten Beispielen gezeigt, wie man mit strace viel über
+die Abläufe und Interna von Linux erfahren kann: Mit strace beobachtet man
+einzelne oder mehrere Prozesse zur Laufzeit auf System-Call-Ebene. Damit lassen
+sich bei vielen Problemen sehr einfach wertvolle Informationen zur Analyse
+gewinnnen, etwa welche Konfigurationsdateien Prozesse wirklich lesen oder was
+die letzte Datei oder Shared Library vor einem Crash war.
+
+Man kann strace auch zum Erlernen und Analysieren der Shell einsetzen:
+Die grundlegenden Regeln der UNIX-Shell sind eigentlich
+recht einfach – wenn man sie denn kennt und verstanden hat.
+Im Vortrag werden einige dieser Grundlagen an interaktiven Beispielen
+erläutert. Es wird gezeigt, wie man man mit strace dem Verhalten der Shell
+recht genau auf die Finger sehen kann und dann hoffentlich auch endlich
+versteht, was "im Inneren" so abgeht und warum man mit der bash eben so und
+nicht anders umgehen muss.
+
+Der Workshop richtet sich an neugierige EinsteigerInnen und Fortgeschrittene.
+
+
+=== konsole
+
+Andreas Steil
+!Mit der Kommandozeile Abläufe automatisieren
+Mit der Kommandozeile Abläufe automatisieren [WORKSHOP]
+
+<em>Details folgen.</em>
+
+Der Workshop richtet sich an AnfängerInnen.
