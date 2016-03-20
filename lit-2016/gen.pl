@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+# Ein Hack. Er tut seinen Job.
 
 use warnings;
 use strict;
