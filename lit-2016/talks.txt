@@ -186,7 +186,7 @@ Gert-Ludwig Ingold
 
 Jiska Classen
 Signalhacking
-Software Defined Radio – Open Source Wireless Hacking
+Software Defined Radio &ndash; Open Source Wireless Hacking
 
 Unter Software Defined Radio fasst man Konzepte für Hochfrequenz-Sender
 und -Empfänger zusammen, bei denen kleinere oder größere Anteile der
@@ -215,8 +215,8 @@ mit Open-Source-Lösungen.
 === internet
 
 Christoph Egger
-BGP und OSPF – wie das Internet funktioniert
-BGP und OSPF – wie das Internet funktioniert
+BGP und OSPF &ndash; wie das Internet funktioniert
+BGP und OSPF &ndash; wie das Internet funktioniert
 
 Der Vortrag erklärt, wie das "Internet" im Hintergrund funktioniert. Wie
 findet ein Paket sein Ziel? Was passiert eigentlich, wenn ein
@@ -228,7 +228,7 @@ seinem Linux-System selbst ausprobieren (<a href="http://dn42.net/">dn42.net</a>
 
 LUGA
 Physik der Klänge
-Die Physik der Klänge – Experimente mit Linux-Bordmitteln
+Die Physik der Klänge &ndash; Experimente mit Linux-Bordmitteln
 
 Wie kommt es, dass ein Saxophon viel voller klingt als etwa eine Panflöte oder
 eine einfache Stimmgabel? Und was genau versteht man überhaupt unter dem „Klang“
@@ -312,7 +312,7 @@ den entsprechenden Programmen deckt fast den ganzen Bereich ab: von der
 Musikerzeugung über die Aufnahme bis zur Abmischung. Die Simulation von
 Synthesizern und anderen Geräten, der Einsatz von Effekten, ausgereifte
 Programme zum Abmischen, ein Festplatten-Recorder, die Anbindung vorhandener
-Geräte wie zum Beispiel Keyboards – alles ist vorhanden. Durch die
+Geräte wie zum Beispiel Keyboards &ndash; alles ist vorhanden. Durch die
 ausgeklügelte Architektur der Schnittstellen in Linux ist der Baukasten an
 Geräten einfach virtuell zusammenzustöpseln. In dem Workshop werden wir
 gemeinsam versuchen, ein Musikstück von der Idee bis zur Fertigstellung zu
@@ -368,7 +368,7 @@ bedeutungslos. Nicht aber Codequalität, Sauberkeit und äußere Form.
 Mit diesem Workshop möchte ich kernel-interesierten ProgrammierInnen helfen, die
 Schritte zum ersten <em>Linux-Kernel-Commit</em> zu gehen.
 
-Dazu werde ich zum einen auf die technischen Aspekte des Kernel-codes
+Dazu werde ich zum einen auf die technischen Aspekte des Kernelcodes
 eingehen. Hauptsächlich werde ich jedoch das notwendige organisatorische
 "Drumherum" erklären, also wie das Einsenden der Patches läuft, worauf man
 achten muss und so weiter.
@@ -488,7 +488,7 @@ die letzte Datei oder Shared Library vor einem Crash war.
 
 Man kann strace auch zum Erlernen und Analysieren der Shell einsetzen:
 Die grundlegenden Regeln der UNIX-Shell sind eigentlich
-recht einfach – wenn man sie denn kennt und verstanden hat.
+recht einfach &ndash; wenn man sie denn kennt und verstanden hat.
 Im Vortrag werden einige dieser Grundlagen an interaktiven Beispielen
 erläutert. Es wird gezeigt, wie man man mit strace dem Verhalten der Shell
 recht genau auf die Finger sehen kann und dann hoffentlich auch endlich
