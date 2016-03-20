@@ -504,6 +504,12 @@ Andreas Steil
 !Mit der Kommandozeile Abläufe automatisieren
 Mit der Kommandozeile Abläufe automatisieren [WORKSHOP]
 
-<em>Details folgen.</em>
+<em>Details folgen, ein paar Stichpunkte gibt es schon jetzt:</em>
+
+<ul>
+<li>Id-Tags von MP3s auslesen und damit automatisch Musikdateien benennen</li>
+<li>PDFs (z.B. aus Scans) zusammenführen</li>
+<li>Bilder automatisch umwandeln/verkleinern</li>
+</ul>
 
 Der Workshop richtet sich an AnfängerInnen.
