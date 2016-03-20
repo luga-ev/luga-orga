@@ -62,7 +62,7 @@ EOF
     my $id = $table[$i][$j];
     if($details{$id}) {
       my $rowspan = $details{$id}{twoslots} ? " rowspan=\"2\"" : "";
-      print "    <td$rowspan><em>$details{$id}{speaker}</em><br><a href=\"abstracts.html#$id\">$details{$id}{shorttitle}</a></td>\n";
+      print "    <td$rowspan><em>$details{$id}{speaker}</em><br><a href=\"/Aktionen/LIT-2016/abstracts.html#$id\">$details{$id}{shorttitle}</a></td>\n";
       $details{$id}{time} = $slots[$i];
       $details{$id}{room} = $rooms[$j];
     } else {
