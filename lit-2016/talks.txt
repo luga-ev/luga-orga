@@ -17,7 +17,7 @@ Eröffnungsvortrag
 Katharina Nocun ist eine deutsch-polnische Politikerin,
 Netzaktivistin und Bloggerin. Sie war von Mai bis November 2013 politische
 Geschäftsführerin der Piratenpartei Deutschland und leitete bei Campact e.V.
-unter anderem die Kampagne „Schutz für Edward Snowden in Deutschland“.
+unter anderem die Kampagne &bdquo;Schutz für Edward Snowden in Deutschland&ldquo;.
 
 
 === sniffing
@@ -164,7 +164,7 @@ Benutzer mit diesen interagieren zu lassen. Es gibt eine Vielzahl von
 Window-Managern, die sehr unterschiedliche Paradigmen implementieren.
 
 Möchte man die eigene Produktivität maximieren, so bieten sich
-so genannte "Tiling" Window-Manager an, welche die Fenster automatisch in
+so genannte &bdquo;Tiling&ldquo; Window-Manager an, welche die Fenster automatisch in
 einem Layout anordnen, das den gesamten Bildschirm füllt. <em>i3</em> ist ein
 solcher Tiling Window-Manager, der komplexe, verschachtelte Layouts
 ebenso erlaubt wie ein manuelles Platzieren der Fenster. Zusammen mit
@@ -218,7 +218,7 @@ Christoph Egger
 BGP und OSPF &ndash; wie das Internet funktioniert
 BGP und OSPF &ndash; wie das Internet funktioniert
 
-Der Vortrag erklärt, wie das "Internet" im Hintergrund funktioniert. Wie
+Der Vortrag erklärt, wie das &bdquo;Internet&ldquo; im Hintergrund funktioniert. Wie
 findet ein Paket sein Ziel? Was passiert eigentlich, wenn ein
 Unterseekabel ausfällt? Und wie kann man diese Technologie auf
 seinem Linux-System selbst ausprobieren (<a href="http://dn42.net/">dn42.net</a>)?
@@ -231,7 +231,7 @@ Physik der Klänge
 Die Physik der Klänge &ndash; Experimente mit Linux-Bordmitteln
 
 Wie kommt es, dass ein Saxophon viel voller klingt als etwa eine Panflöte oder
-eine einfache Stimmgabel? Und was genau versteht man überhaupt unter dem „Klang“
+eine einfache Stimmgabel? Und was genau versteht man überhaupt unter dem &bdquo;Klang&ldquo;
 eines Instruments? Wie kann man Schallwellen sichtbar machen? Was haben Schall
 und Regenwürmer gemeinsam?
 
@@ -370,19 +370,19 @@ Schritte zum ersten <em>Linux-Kernel-Commit</em> zu gehen.
 
 Dazu werde ich zum einen auf die technischen Aspekte des Kernelcodes
 eingehen. Hauptsächlich werde ich jedoch das notwendige organisatorische
-"Drumherum" erklären, also wie das Einsenden der Patches läuft, worauf man
+&bdquo;Drumherum&ldquo; erklären, also wie das Einsenden der Patches läuft, worauf man
 achten muss und so weiter.
 
 Es gibt Antworten zu:
-<ul>
+</p><ul>
 <li>Wie und wo fange ich an?</li>
 <li>Welches Repository ist für mich relevant?</li>
 <li>Wie kompiliere und teste ich meinen Kernelpatch?</li>
-<li>Was sind interessante "Baustellen" zum Anfangen?</li>
+<li>Was sind interessante &bdquo;Baustellen&ldquo; zum Anfangen?</li>
 <li>Wie kommuniziere ich mit meinen Maintainern (Mailinglisten)?</li>
 <li>Wohin und wie sende ich meine(n) Code/Patches</li>
 </ul>
-Inhalt und Zeitplan:
+<p>Inhalt und Zeitplan:</p>
 <ol style="list-style-type: decimal">
 <li>Einleitung (<em>10 min</em>)</li>
 <li>Die Repositories und der Entwicklungsprozess (<em>15 min</em>)</li>
@@ -393,7 +393,7 @@ Inhalt und Zeitplan:
 <li>Buchempfehlungen und gute Quellen (kernelnewbies) (<em>5 min</em>)</li>
 <li>Fragen und Zeitpuffer (<em>20 min</em>)</li>
 </ol>
-Notwendiges Vorwissen:
+<p>Notwendiges Vorwissen:</p>
 <ul>
 <li>Erfahrung im Umgang mit <em>git</em></li>
 <li>Erfahrung mit der Programmiersprache <em>C</em> insbesondere
@@ -492,7 +492,7 @@ recht einfach &ndash; wenn man sie denn kennt und verstanden hat.
 Im Vortrag werden einige dieser Grundlagen an interaktiven Beispielen
 erläutert. Es wird gezeigt, wie man man mit strace dem Verhalten der Shell
 recht genau auf die Finger sehen kann und dann hoffentlich auch endlich
-versteht, was "im Inneren" so abgeht und warum man mit der bash eben so und
+versteht, was &bdquo;im Inneren&ldquo; so abgeht und warum man mit der bash eben so und
 nicht anders umgehen muss.
 
 Der Workshop richtet sich an neugierige EinsteigerInnen und Fortgeschrittene.

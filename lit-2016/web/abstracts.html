@@ -35,19 +35,19 @@
     div:nth-child(even) { background-color: #ccc; }
     :target { background-color: #bbf !important; }
     div { padding: 5px 10px 5px 10px; margin-top: 2em; }
-    .logos { background-color: white !important; text-align: center; }
+    .logos { background-color: white !important; text-align: center; margin-top: -0.5em; margin-bottom: 1em; }
   </style>
 </head>
 <body>
 
 <h1><a href="index.html">15. Augsburger Linux-Infotag</a>
 <span class="subtitle">veranstaltet von der Linux User Group Augsburg e.V. und
-der Hochschule Augsburg
+der Hochschule Augsburg</span></h1>
 
 <div class="logos">
   <a href="http://www.luga.de/"><img src="luga.png" style="width: 185px; height: 80px; margin-right: 5em" alt="Linux User Group Augsburg e.V."></a>
   <a href="https://www.hs-augsburg.de/"><img src="hochschule.png" style="width: 146px; height: 70px" alt="Hochschule Augsburg"></a>
-</div></span></h1>
+</div>
 
 
 <h2>Vorträge</h2>
@@ -56,7 +56,7 @@ der Hochschule Augsburg
 <p><em>Katharina Nocun</em>, 09:45 Uhr, Raum A. <em>Der Inhalt wird noch bekanntgegeben.</em></p><p>Katharina Nocun ist eine deutsch-polnische Politikerin,
 Netzaktivistin und Bloggerin. Sie war von Mai bis November 2013 politische
 Geschäftsführerin der Piratenpartei Deutschland und leitete bei Campact e.V.
-unter anderem die Kampagne "Schutz für Edward Snowden in Deutschland".</p></div>
+unter anderem die Kampagne &bdquo;Schutz für Edward Snowden in Deutschland&ldquo;.</p></div>
 
 <div id="sniffing"><h3>Welche Daten verschickt eigentlich mein Browser? Ein augenöffnender Vortrag über Internet(un)sicherheit</h3>
 <p><em>LUGA</em>, 10:45 Uhr, Raum A. Oft hört man in Medien, dass Internet und Mails so unsicher wie Postkarten
@@ -92,7 +92,11 @@ gemeinsam versuchen, ein Musikstück von der Idee bis zur Fertigstellung zu
 bringen. Dieses Jahr soll es auch um Musikvideos gehen.</p></div>
 
 <div id="konsole"><h3>Mit der Kommandozeile Abläufe automatisieren [WORKSHOP]</h3>
-<p><em>Andreas Steil</em>, 10:45 Uhr, Raum E. <em>Details folgen.</em></p><p>Der Workshop richtet sich an AnfängerInnen.</p></div>
+<p><em>Andreas Steil</em>, 10:45 Uhr, Raum E. <em>Details folgen, ein paar Stichpunkte gibt es schon jetzt:</em></p><ul>
+<li>Id-Tags von MP3s auslesen und damit automatisch Musikdateien benennen</li>
+<li>PDFs (z.B. aus Scans) zusammenführen</li>
+<li>Bilder automatisch umwandeln/verkleinern</li>
+</ul><p>Der Workshop richtet sich an AnfängerInnen.</p></div>
 
 <div id="kernel"><h3>Linux-Kernel-Entwicklung [WORKSHOP]</h3>
 <p><em>Richard Sailer</em>, 10:45 Uhr, Raum F. Der Linux-Kernel ist das pulsierende Herzstück jedes Debian-Servers, jedes
@@ -105,19 +109,19 @@ Geräte verteilt werden. Dazu muss man die eigenen Änderungen als Patch an die
 richtigen Kernel-Maintainer schicken. Die entscheiden dann, ob die Änderungen in
 den Kernel kommen. Namen oder Titel sind bei dieser Entscheidung völlig
 bedeutungslos. Nicht aber Codequalität, Sauberkeit und äußere Form.</p><p>Mit diesem Workshop möchte ich kernel-interesierten ProgrammierInnen helfen, die
-Schritte zum ersten <em>Linux-Kernel-Commit</em> zu gehen.</p><p>Dazu werde ich zum einen auf die technischen Aspekte des Kernel-codes
+Schritte zum ersten <em>Linux-Kernel-Commit</em> zu gehen.</p><p>Dazu werde ich zum einen auf die technischen Aspekte des Kernelcodes
 eingehen. Hauptsächlich werde ich jedoch das notwendige organisatorische
-"Drumherum" erklären, also wie das Einsenden der Patches läuft, worauf man
-achten muss und so weiter.</p><p>Es gibt Antworten zu:
+&bdquo;Drumherum&ldquo; erklären, also wie das Einsenden der Patches läuft, worauf man
+achten muss und so weiter.</p><p>Es gibt Antworten zu:</p>
 <ul>
 <li>Wie und wo fange ich an?</li>
 <li>Welches Repository ist für mich relevant?</li>
 <li>Wie kompiliere und teste ich meinen Kernelpatch?</li>
-<li>Was sind interessante "Baustellen" zum Anfangen?</li>
+<li>Was sind interessante &bdquo;Baustellen&ldquo; zum Anfangen?</li>
 <li>Wie kommuniziere ich mit meinen Maintainern (Mailinglisten)?</li>
 <li>Wohin und wie sende ich meine(n) Code/Patches</li>
 </ul>
-Inhalt und Zeitplan:
+<p>Inhalt und Zeitplan:</p>
 <ol style="list-style-type: decimal">
 <li>Einleitung (<em>10 min</em>)</li>
 <li>Die Repositories und der Entwicklungsprozess (<em>15 min</em>)</li>
@@ -128,7 +132,7 @@ Inhalt und Zeitplan:
 <li>Buchempfehlungen und gute Quellen (kernelnewbies) (<em>5 min</em>)</li>
 <li>Fragen und Zeitpuffer (<em>20 min</em>)</li>
 </ol>
-Notwendiges Vorwissen:
+<p>Notwendiges Vorwissen:</p>
 <ul>
 <li>Erfahrung im Umgang mit <em>git</em></li>
 <li>Erfahrung mit der Programmiersprache <em>C</em> insbesondere
@@ -136,7 +140,7 @@ Notwendiges Vorwissen:
 <li>Souveräner Umgang mit der <em>Shell</em></li>
 <li>1-2 Jahre Erfahrung mit <em>Linux</em> oder einem anderen
 <em>Unix</em></li>
-</ul></p></div>
+</ul></div>
 
 <div id="remote"><h3>Remotezugriffprotokolle im Vergleich. Wie unterscheiden sich VNC, RDP, SPICE, XPRA und X2Go in Architektur, Leistung und Skalierbarkeit?</h3>
 <p><em>Heinz-M. Graesing</em>, 11:45 Uhr, Raum A. Die Anzahl der Open-Source-Projekte zur Fernwartung ist groß. Die
@@ -152,14 +156,14 @@ Einfluss haben systemd und Wayland?</p></div>
 verschiedene ReferentInnen jeweils fünfminütige Kurzvorträge (Lightning Talks).
 Noch sind Plätze frei. Wer selbst einen Kurzvortrag präsentieren möchte, kann
 sich mit einer Mail an die Organisatoren anmelden. Es wurden schon zu folgenden
-Themen Beiträge eingereicht:</p><p><ul>
+Themen Beiträge eingereicht:</p><ul>
 <li><em>Carina Willbold.</em> Monty und Py werden Hacker</li>
 <li><em>Thomas Glamsch.</em> PDF-Dateien auf der Kommandozeile editieren</li>
 <li><em>???.</em> 3D-Drucken für zu Hause</li>
 <li><em>???.</em> Jugend hackt und Matheschülerzirkel Augsburg</li>
 <li><em>???.</em> Lojban: eine Plansprache mit eindeutigem und logischen Aufbau</li>
 <li><em>???.</em> Nadel- und Fadensprechstunde im OpenLab</li>
-</ul></p></div>
+</ul></div>
 
 <div id="systemd"><h3>systemd im Alltag</h3>
 <p><em>B1 Systems</em>, 11:45 Uhr, Raum C. SysVinit, Upstart, OpenRC &hellip; Diese und andere Linux-Init-Systeme
@@ -198,7 +202,7 @@ Wiederherstellungsprozess.</p></div>
 Seine Aufgabe ist es, Fenster zu verwalten, zu dekorieren und den
 Benutzer mit diesen interagieren zu lassen. Es gibt eine Vielzahl von
 Window-Managern, die sehr unterschiedliche Paradigmen implementieren.</p><p>Möchte man die eigene Produktivität maximieren, so bieten sich
-so genannte "Tiling" Window-Manager an, welche die Fenster automatisch in
+so genannte &bdquo;Tiling&ldquo; Window-Manager an, welche die Fenster automatisch in
 einem Layout anordnen, das den gesamten Bildschirm füllt. <em>i3</em> ist ein
 solcher Tiling Window-Manager, der komplexe, verschachtelte Layouts
 ebenso erlaubt wie ein manuelles Platzieren der Fenster. Zusammen mit
@@ -232,7 +236,7 @@ recht einfach &ndash; wenn man sie denn kennt und verstanden hat.
 Im Vortrag werden einige dieser Grundlagen an interaktiven Beispielen
 erläutert. Es wird gezeigt, wie man man mit strace dem Verhalten der Shell
 recht genau auf die Finger sehen kann und dann hoffentlich auch endlich
-versteht, was "im Inneren" so abgeht und warum man mit der bash eben so und
+versteht, was &bdquo;im Inneren&ldquo; so abgeht und warum man mit der bash eben so und
 nicht anders umgehen muss.</p><p>Der Workshop richtet sich an neugierige EinsteigerInnen und Fortgeschrittene.</p></div>
 
 <div id="kids"><h3>Programmier-Workshop für SchülerInnen [WORKSHOP]</h3>
@@ -252,18 +256,18 @@ bestimmte Webseite zu gehen.</p></div>
 einfach, mit dem Finger nur auf die Bandbreite der Netzwerkverbindung
 oder der Hardware zu zeigen. Zwischen dem Abrufen der Webseite und der
 Darstellung in ihrem Webbrowser läuft aber mittlerweile ein recht aufwendiger
-Prozess, in dem etliche Faktoren eine Rolle spielen.</p><p>Im Vortrag gehen wir den folgenden Punkten nach:</p><p><ul>
+Prozess, in dem etliche Faktoren eine Rolle spielen.</p><p>Im Vortrag gehen wir den folgenden Punkten nach:</p><ul>
 <li>Überblick zu den Ursachen von erhöhtem Datentransfer</li>
 <li>Latenzverstärker identifizieren und ausschalten</li>
 <li>Datenspuren minimieren oder vermeiden</li>
 <li>Welche Einflussmöglichkeiten hat man als BenutzerIn, RedakteurIn und AdministratorIn?</li>
-</ul></p><p>Im Anschluss diskutieren wir die vorgestellten Möglichkeiten. Es soll einen
+</ul><p>Im Anschluss diskutieren wir die vorgestellten Möglichkeiten. Es soll einen
 regen Austausch hinsichtlich eigener Erfahrungen und Tipps im Alltag geben.</p></div>
 
 <div id="ingold"><h3>???</h3>
 <p><em>Gert-Ludwig Ingold</em>, 14:15 Uhr, Raum B. <em>Der Inhalt wird noch bekanntgegeben.</em></p></div>
 
-<div id="signalhacking"><h3>Software Defined Radio - Open Source Wireless Hacking</h3>
+<div id="signalhacking"><h3>Software Defined Radio &ndash; Open Source Wireless Hacking</h3>
 <p><em>Jiska Classen</em>, 14:15 Uhr, Raum C. Unter Software Defined Radio fasst man Konzepte für Hochfrequenz-Sender
 und -Empfänger zusammen, bei denen kleinere oder größere Anteile der
 Signalverarbeitung mit Software statt Hardware verwirklicht werden. Software
@@ -276,7 +280,7 @@ href="https://de.wikipedia.org/wiki/ISEE-3/ICE">ISEE-3-Raumsonde</a> verwendet.<
 kaputtspielen kann</li>
 <li>Demo: WLAN senden und empfangen mit HackRF/rad1o und GSM (Handynetz) empfangen
 mit DVB-T Stick</li>
-</ul></p><p>Der Vortrag richtet sich an EinsteigerInnen, die mal sehen wollen, was man so
+</ul><p>Der Vortrag richtet sich an EinsteigerInnen, die mal sehen wollen, was man so
 tun kann, als auch Fortgeschrittene, die möglicherweise schon Hardware haben
 oder zwar schon mal Signalverarbeitung gemacht haben, bisher aber noch nicht
 mit Open-Source-Lösungen.</p></div>
@@ -295,7 +299,7 @@ publizieren, kommen dabei ebenfalls nicht zu kurz.</p><p>Siehe auch: <a href="ht
 <a href="https://github.com/dpmb/dpmb">Quellcode auf GitHub</a></p></div>
 
 <div id="internet"><h3>BGP und OSPF &ndash; wie das Internet funktioniert</h3>
-<p><em>Christoph Egger</em>, 15:15 Uhr, Raum C. Der Vortrag erklärt, wie das "Internet" im Hintergrund funktioniert. Wie
+<p><em>Christoph Egger</em>, 15:15 Uhr, Raum C. Der Vortrag erklärt, wie das &bdquo;Internet&ldquo; im Hintergrund funktioniert. Wie
 findet ein Paket sein Ziel? Was passiert eigentlich, wenn ein
 Unterseekabel ausfällt? Und wie kann man diese Technologie auf
 seinem Linux-System selbst ausprobieren (<a href="http://dn42.net/">dn42.net</a>)?</p></div>
@@ -309,7 +313,7 @@ Programmen (Scribus (DTP), Blender (3D-Grafik))</p></div>
 
 <div id="klaenge"><h3>Die Physik der Klänge &ndash; Experimente mit Linux-Bordmitteln</h3>
 <p><em>LUGA</em>, 16:15 Uhr, Raum A. Wie kommt es, dass ein Saxophon viel voller klingt als etwa eine Panflöte oder
-eine einfache Stimmgabel? Und was genau versteht man überhaupt unter dem "Klang"
+eine einfache Stimmgabel? Und was genau versteht man überhaupt unter dem &bdquo;Klang&ldquo;
 eines Instruments? Wie kann man Schallwellen sichtbar machen? Was haben Schall
 und Regenwürmer gemeinsam?</p><p>Diese und weitere Fragen möchten wir zum Abschluss des Linux-Infotags
 beleuchten. Im Mittelpunkt werden dabei Experimente stehen, die wir mit
@@ -324,7 +328,7 @@ hören.</p><p>Der Vortrag setzt weder technisches noch physikalisches Vorwissen v
 <p><em>Axel Beckert</em>, 16:15 Uhr, Raum C. Firefox, Chrome/Chromium und WebKit-basierte Browser werden immer
 größer und ressourcenhungriger. Nutzt man Linux auf alten Computern, um sie
 nicht wegwerfen zu müssen, oder auf nicht allzu leistungsfähigen
-Single-Board-Computern wie Raspberry Pi, Odroid C1 &amp; Co., so bekommt
+Single-Board-Computern wie dem ersten Raspberry Pi, Odroid C1 &amp; Co., so bekommt
 man spätestens beim Surfen mit den gängigen und bekannten Webbrowsern
 ein Problem: Alles ist schnarchlangsam.</p><p>Aber zum Glück gibt es Alternativen: Neben verschiedenen, ressourcensparsamen
 und dennoch nutzbaren, grafischen Webbrowsern gibt's auch eine Handvoll
@@ -369,7 +373,7 @@ allgemeinen und speziellen Themen, das auch Nichtmitgliedern offen steht,
 rundet das Angebot des Vereins ab.</p>
 
 <p>In diesem Jahr wollen unter anderem unser neues Projekt
-"Vereinsverwaltungssoftware" vorstellen. Zu den Funktionen gehört neben der
+&bdquo;Vereinsverwaltungssoftware&ldquo; vorstellen. Zu den Funktionen gehört neben der
 Mitgliederverwaltung auch der vollautomatische Einzug der Mitgliederbeiträge
 (IBAN), das Mahnwesen, Spenden, die Erstellung von Quittungsbelegen (Barcode),
 Inventarverwaltung, sowie Terminabstimmung/Kalender/Termine (ical) und die
@@ -401,7 +405,7 @@ gibt es Informationen über Freie Software und zur Arbeit der FSFE.</p></div>
 
 <p>Freifunk ist ein sich selbst organisierendes und unkommerzielles
 WLAN-Netzwerk, das von Freiwilligen betrieben wird. Durch die Verwendung eines
-"intelligenten" Routingprotokolles (OLSR) werden alle Access Points mit
+&bdquo;intelligenten&ldquo; Routingprotokolles (OLSR) werden alle Access Points mit
 Funkkontakt untereinander zu einer großen Netzwerkwolke (Mesh) verbunden. Die
 FreifunkerInnen zeigen WLAN-Router und Antennen, informieren über die Ziele des
 Projekts und geben einen Überblick über das Freifunknetz in Augsburg, das
@@ -435,7 +439,7 @@ Plasma-Mobile-Prototyp ausprobiert werden.</p></div>
 
 <ul>
 <li>LUKS und rsync, rsnaphot. Pollendes Backup per SSH über schlechte Leitungen.
-Dazu ein Handout mit "best practices".</li>
+Dazu ein Handout mit &bdquo;best practices&ldquo;.</li>
 <li>Zugriff auf verschiedene VMs, per SSH, X2go usw.</li>
 <li>Sonstige Fragen zu Linux zeigen/beantworten &ndash; Schwerpunkt wie immer auf Ubuntu, aber
 nicht ausschliesslich</li>
@@ -451,7 +455,7 @@ nicht ausschliesslich</li>
 Dabei gehen wir nicht nur auf die Verwendung von Messgeräten mit und ohne PC
 ein, sondern auch auf die Genauigkeit und Messfehler.</p>
 
-<p>Unter dem Motto "Back to the roots" finden regelmäßige Treffen der
+<p>Unter dem Motto &bdquo;Back to the roots&ldquo; finden regelmäßige Treffen der
 Mikrocontroller-Projektgruppe (mcPG) statt. Ziel der Projektgruppe ist es,
 Kenntnisse in der Hard- und Softwareentwicklung von Mikrocontrollern zu
 erarbeiten und untereinander auszutauschen. Themenschwerpunkte sind unter
@@ -501,7 +505,7 @@ Smartphones und Apps.</p></div>
 <div id="siduction"><h3><a href="http://www.siduction.de/">Siduction</a></h3>
 
 <p>Die Linux-Distribution siduction ist ein Desktop-orientiertes Betriebssystem
-und Live-Medium das auf dem "Unstable"-Zweig von Debian GNU/Linux basiert. Es
+und Live-Medium das auf dem <em>Unstable</em>-Zweig von Debian GNU/Linux basiert. Es
 bietet mehrere verschiedene Live-Medien mit KDE, LXDE, Xfce, GNOME, Xorg
 (Fluxbox) und eine Variante (NoX) ohne X für einen Server. Das Projekt
 veröffentlicht zwei bis drei Mal im Jahr ein neues Release, es praktiziert ein
