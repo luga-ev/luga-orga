@@ -460,7 +460,7 @@ Surfen unter Linux auf alten oder schwachen Computern mit alternativen Webbrowse
 Firefox, Chrome/Chromium und WebKit-basierte Browser werden immer
 größer und ressourcenhungriger. Nutzt man Linux auf alten Computern, um sie
 nicht wegwerfen zu müssen, oder auf nicht allzu leistungsfähigen
-Single-Board-Computern wie Raspberry Pi, Odroid C1 &amp; Co., so bekommt
+Single-Board-Computern wie dem ersten Raspberry Pi, Odroid C1 &amp; Co., so bekommt
 man spätestens beim Surfen mit den gängigen und bekannten Webbrowsern
 ein Problem: Alles ist schnarchlangsam.
 
