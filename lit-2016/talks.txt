@@ -100,7 +100,7 @@ B1 Systems
 systemd im Alltag
 systemd im Alltag
 
-SysVinit, Upstart, OpenRC … Diese und andere Linux-Init-Systeme
+SysVinit, Upstart, OpenRC &hellip; Diese und andere Linux-Init-Systeme
 begleiteten viele Jahre den Start jedes Linuxsystems. 2010 erblickte ein
 neues Init-System die Linuxwelt und mochte vieles umkrempeln. Seit
 damals ist viel Zeit vergangen und systemd ist in fast allen
