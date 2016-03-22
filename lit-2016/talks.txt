@@ -159,8 +159,8 @@ Tiling Window-Manager
 Effiziente Arbeit auf dem UNIX-Desktop mittels Tiling Window-Manager
 
 Der Window-Manager ist ein integraler Bestandteil des UNIX-Desktops.
-Seine Aufgabe ist es, Fenster zu verwalten, zu dekorieren und den
-Benutzer mit diesen interagieren zu lassen. Es gibt eine Vielzahl von
+Seine Aufgabe ist es, Fenster zu verwalten, zu dekorieren und die
+BenutzerInnen mit diesen interagieren zu lassen. Es gibt eine Vielzahl von
 Window-Managern, die sehr unterschiedliche Paradigmen implementieren.
 
 Möchte man die eigene Produktivität maximieren, so bieten sich
