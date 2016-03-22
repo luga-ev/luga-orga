@@ -48,7 +48,7 @@ Vorträge besuchen. Dieser Vortrag setzt keinerlei technisches Vorwissen voraus.
 
 === lightning
 
-LUGA
+Diverse Vortragende
 Lightning Talks
 Lightning Talks
 
@@ -226,7 +226,7 @@ seinem Linux-System selbst ausprobieren (<a href="http://dn42.net/">dn42.net</a>
 
 === klaenge
 
-LUGA
+Veronika Pörtge
 Physik der Klänge
 Die Physik der Klänge &ndash; Experimente mit Linux-Bordmitteln
 
@@ -255,7 +255,7 @@ Dieter Thalmayr
 
 === kids
 
-LUGA
+Carina Willbold
 !Programmier-Workshop für SchülerInnen
 Programmier-Workshop für SchülerInnen [WORKSHOP]
 
@@ -321,7 +321,7 @@ bringen. Dieses Jahr soll es auch um Musikvideos gehen.
 
 === gnupg
 
-B1 Systems
+Philipp Kammerer (B1 Systems)
 !E-Mail-Verschlüsselung
 E-Mail-Verschlüsselung mit GnuPG am Beispiel von Thunderbird mit Enigmail [WORKSHOP]
 
@@ -472,7 +472,7 @@ grafische Oberfläche brauchen und so besonders ressourcenschonend sind.
 
 === strace
 
-Harald Koenig
+Harald König
 !strace
 Mit strace zum Linux- und Bash-Verstehenden [WORKSHOP]
 
