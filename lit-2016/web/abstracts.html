@@ -33,7 +33,11 @@
     .program br { display: none; }
     div:nth-child(odd)  { background-color: #eee; }
     div:nth-child(even) { background-color: #ccc; }
-    :target { background-color: #bbf !important; -webkit-transition: background-color 0.3s; }
+    :target { animation: highlight 3s; }
+    @keyframes highlight {
+      0% { background-color: #bbf; }
+      100% { }
+    }
     div { padding: 5px 10px 5px 10px; margin-top: 2em; }
     .logos { background-color: white !important; text-align: center; margin-top: -0.5em; margin-bottom: 1em; }
   </style>
