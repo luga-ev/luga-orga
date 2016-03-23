@@ -1,7 +1,7 @@
 sniffing  herz        rath          musik konsole kernel
 remote    lightning   systemd
 backups   compromised tiling        gnupg strace kids
-schneller ingold      signalhacking
+schneller testen      signalhacking
 dpkg      ???         internet      gimp ??? ???
 klaenge   thalmayr    lynx          ??? ???
 
@@ -173,13 +173,21 @@ per Tastatur definiert dies ein in der Windows-Welt weitgehend
 unbekanntes Erlebnis für den Desktop.
 
 
-=== ingold
+=== testen
 
 Gert-Ludwig Ingold
-Gert-Ludwig Ingold
-???
+Pythonskripte testen
+Pythonskripte testen: wie und warum?
 
-<em>Der Inhalt wird noch bekanntgegeben.</em>
+Oft werden Programme nur sehr informell getestet und Werkzeuge, wie
+sie zum Beispiel die populäre Programmiersprache Python für das Testen
+anbietet, nicht genutzt.
+
+Wir werden diskutieren, warum das Erstellen von Tests sinnvoll ist, und
+erläutern, wie man in Python mit <em>doctests</em> und <em>unittests</em>
+arbeitet. Dabei wird sich herausstellen, dass der Nutzen dieser Werkzeuge
+deutlich über die reine Überprüfung der Funktionalität eines Programms
+hinausgehen kann.
 
 
 === signalhacking
