@@ -86,6 +86,8 @@ for my $id (@a) {
   next unless $details{$id};
   my $abs = $details{$id}{abstract};
   $abs =~ s#\n\n#</p><p>#g;
-  print $fh "<div id=\"$id\"><h3>$details{$id}{longtitle}</h3>\n";
-  print $fh "<p><em>$details{$id}{speaker}</em>, $details{$id}{time} Uhr, Raum $details{$id}{room}. $abs</p></div>\n\n";
+  $abs = "<div id=\"$id\"><h3>$details{$id}{longtitle}</h3>\n<p><em>$details{$id}{speaker}</em>, $details{$id}{time} Uhr, Raum $details{$id}{room}. $abs</p></div>\n\n";
+  $abs =~ s#<p><ul>#<ul>#g;
+  $abs =~ s#</ul></p>#</ul>#g;
+  print $fh $abs;
 }
