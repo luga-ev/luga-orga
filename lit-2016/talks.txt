@@ -14,10 +14,11 @@ Eröffnungsvortrag
 
 <em>Der Inhalt wird noch bekanntgegeben.</em>
 
-Katharina Nocun ist eine deutsch-polnische Politikerin,
-Netzaktivistin und Bloggerin. Sie war von Mai bis November 2013 politische
-Geschäftsführerin der Piratenpartei Deutschland und leitete bei Campact e.V.
-unter anderem die Kampagne &bdquo;Schutz für Edward Snowden in Deutschland&ldquo;.
+<a href="https://de.wikipedia.org/wiki/Katharina_Nocun">Katharina Nocun</a> ist
+eine deutsch-polnische Politikerin, Netzaktivistin und Bloggerin. Sie war von
+Mai bis November 2013 politische Geschäftsführerin der Piratenpartei
+Deutschland und leitete bei Campact e.V. unter anderem die Kampagne
+&bdquo;Schutz für Edward Snowden in Deutschland&ldquo;.
 
 
 === sniffing
@@ -274,13 +275,15 @@ Programmier-Vorkenntnisse nötig.
 
 Wenn du nicht genau weißt, was dich in dem Workshop erwartet, oder wenn du
 sonstige Fragen oder Wünsche hast, kannst du Carina jederzeit informal und
-unverbindlich eine Mail (siehe unten) schreiben.
+unverbindlich eine <a href="mailto:lit-2016@luga.de">Mail</a> schreiben.
 
 Wenn du mindestens in die vierte Klasse gehst, bist du herzlich zu diesem
 Workshop eingeladen! Bring einen Laptop mit oder melde dich vorab per Mail an,
 wenn das nicht gehen sollte. Keine Sorge: Wir werden das vorhandene
 Laptopsystem nicht ändern. Wir werden den Laptop nur verwenden, um auf eine
 bestimmte Webseite zu gehen.
+
+Kontakt zu Carina: <a href="mailto:lit-2016@luga.de">lit-2016@luga.de</a>
 
 
 === dpkg
