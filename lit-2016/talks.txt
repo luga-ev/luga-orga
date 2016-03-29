@@ -2,7 +2,7 @@ sniffing  herz        rath          musik konsole kernel
 remote    lightning   systemd
 backups   compromised tiling        gnupg strace kids
 schneller testen      signalhacking
-dpkg      ???         internet      gimp ??? ???
+dpkg      wawision    internet      gimp hunz ???
 klaenge   thalmayr    lynx          ??? ???
 
 
@@ -532,3 +532,30 @@ Mit der Kommandozeile Abläufe automatisieren [WORKSHOP]
 </ul>
 
 Der Workshop richtet sich an AnfängerInnen.
+
+
+=== wawision
+
+Benedikt Sauter
+Open-Source-ERP WaWision
+Open-Source-ERP WaWision aus Augsburg
+
+Ursprünglich für den eigenen Bedarf der Firma embedded projects entwickelt ist
+<a href="http://www.wawision.de/downloads/">WaWision</a> mittlerweile eine
+umfassende ERP-Software. WaWision ist eine in PHP und MySQL entwickelte
+Software für Selbständige und kleine Firmen bereits ab einer Person. Die
+größten Installationen umfassen aktuell bis zu 100 BenutzerInnen.
+
+WaWision ist aus der Praxis heraus entwickelt worden und bietet daher einen
+sehr pragmatischen Ansatz. In dem Vortrag wird die Software von der
+Installation, über den Einsatz und der Programmierung von eigenen Modulen
+vorgestellt.
+
+
+=== hunz
+
+Benedikt &bdquo;Hunz&ldquo; Heinz
+Benedikt &bdquo;Hunz&ldquo; Heinz
+gnublin
+
+<em>Details folgen.</em>
