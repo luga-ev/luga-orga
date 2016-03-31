@@ -1,4 +1,4 @@
-sniffing  herz        rath          musik konsole kernel
+sniffing  herz        vim           musik konsole kernel
 remote    lightning   systemd
 backups   compromised tiling        gnupg strace kids
 schneller testen      signalhacking
@@ -23,7 +23,7 @@ Deutschland und leitete bei Campact e.V. unter anderem die Kampagne
 
 === sniffing
 
-LUGA
+Ingo Blechschmidt
 Welche Daten verschickt eigentlich mein Browser?
 Welche Daten verschickt eigentlich mein Browser? Ein augenöffnender Vortrag über Internet(un)sicherheit
 
@@ -69,13 +69,37 @@ Themen Beiträge eingereicht:
 </ul>
 
 
-=== rath
+=== vim
 
 Oliver Rath
-Oliver Rath
-???
+Beeindrucke Editormanöver in Vim
+Beeindrucke Editormanöver in Vim
 
-???
+Vi und seine Weiterentwicklung Vim ist einer der beiden Editoren, um die
+HackerInnen seit Jahrzehnten in Mailinglisten Argumentationsgefächte führen:
+Welcher Editor ist der beste?
+
+Fans schwören auf die mächtigen Tastaturkommandos, mit denen man mit wenigen
+Tastendrücken komplexe Cursorbewegungen und Textänderungen durchführen kann.
+Sie sind begeistert von der Effizienz, mit denen man in Vim programmieren und
+Texte bearbeiten kann, und freuen sich über jede repetitive Routineaufgabe, die
+sie mit Vim mühelos in wenigen Augenblicken meistern können.
+
+AnfängerInnen präsentiert sich Vim jedoch weniger sympathisch: Beginnt man, wie
+in gewöhnlichen grafischen Editoren, nach dem Start von Vim mit der Eingabe von
+Text, so kommt erst mal gar keine oder nicht die gewünschte Reaktion; es ist
+nicht einmal klar, wie man Vim wieder beenden kann.
+
+Das liegt daran, dass sich Vim durch seine verschiedenen Betriebsmodi
+auszeichnet: Die Eingabe von Text ist nur einer von ihnen, und in diesen muss
+man nach dem Start im Kommandomodus zunächst wechseln.
+
+Der Vortrag beginnt mir einer kurzen Einführung in die Bedienung von Vim und
+demonstriert anschließend anhand vieler Beispiele, was in Vim alles möglich
+ist. Da erfahrene Vim-NutzerInnen je mit einer anderen Teilmenge von Vim
+vertraut sind, werden auch und insbesondere sie im Vortrag auf ihre Kosten
+kommen; nicht zuletzt deswegen, weil sie ihre eigenen Tipps und Tricks
+beisteuern können.
 
 
 === remote
@@ -555,24 +579,28 @@ vorgestellt.
 === hunz
 
 Benedikt &bdquo;Hunz&ldquo; Heinz
-Benedikt &bdquo;Hunz&ldquo; Heinz
+Offene Hardware für offene Software
 Offene Hardware für offene Software
 
-Wer kennt den Raspberry Pi noch nicht? Für circa 30€ bekommt man einen
-vollständigen kleinen Linux-Computer der die Rechenleistung meines
-ersten Rechners um ein Hundertfaches übertrifft.
+Wer kennt den Raspberry Pi noch nicht? Für circa 30&nbsp;&euro; bekommt man einen
+vollständigen kleinen Linux-Computer der die Rechenleistung meines ersten
+Rechners um ein Hundertfaches übertrifft.
+
 Einen Schönheitsfehler hat die Sache aber: Der Raspberry Pi ist zwar
 unglaublich günstig, aber das Hardwaredesign ist nicht allzu offen. Der
-Riesenvorteil von offener Soft-, sowie Hardware ist die Anpassbarkeit
+Riesenvorteil von offener Soft- und Hardware ist die Anpassbarkeit
 und Erweiterbarkeit. Ohne Platinenlayout in einer günstigen, oder besser
 noch freien Software sind die Möglichkeiten stark eingeschränkt.
-Also haben wir selbst einen kleinen single-Board ARM-Computer mit
-aktueller Cortex-A5 CPU in KiCAD entworfen und einen (hervorragend
+
+Daher haben wir selbst einen kleinen Single-Board-ARM-Computer mit
+aktueller Cortex-A5-CPU in KiCAD entworfen und einen (hervorragend
 funktionierenden) Prototypen bestückt.
-Hinsichtlich Preis und CPU-Leistung lässt sich der RasPi damit zwar
+
+Hinsichtlich Preis und CPU-Leistung lässt sich der Raspberre Pi damit zwar
 nicht schlagen, dafür haben wir ein vollständig offenes Design (das sich
-vom gewieften Bastler sogar zuhause bestücken lässt!) mit einer
-Leistungsaufnahme von nur 0.3 Watt im Idle-Zustand.
-In diesem Vortrag wird nicht nur die Hardware vorgestellt, sondern auch
-die Herangehensweise sowie die vielfältigen Herausforderungen die dabei
-zu bewältigen sind.
+von gewieften BastlerInnen sogar zu Hause bestücken lässt!) mit einer
+Leistungsaufnahme von nur 0,3&nbsp;Watt im Leerlauf-Zustand.
+
+In dem Vortrag wird nicht nur die Hardware vorgestellt, sondern auch die
+Herangehensweise sowie die vielfältigen Herausforderungen, die dabei zu
+bewältigen sind.
