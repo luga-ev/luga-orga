@@ -332,7 +332,7 @@ bringen. Dieses Jahr soll es auch um Musikvideos gehen.
 
 === gnupg
 
-Philipp Kammerer (B1 Systems)
+B1 Systems
 !E-Mail-Verschlüsselung
 E-Mail-Verschlüsselung mit GnuPG am Beispiel von Thunderbird mit Enigmail [WORKSHOP]
 
