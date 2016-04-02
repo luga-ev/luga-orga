@@ -77,7 +77,7 @@ Beeindrucke Editormanöver in Vim
 
 Vi und seine Weiterentwicklung Vim ist einer der beiden Editoren, um die
 HackerInnen seit Jahrzehnten in Mailinglisten Argumentationsgefächte führen:
-Welcher Editor ist der beste (für mich schon lange beantwortet&hellip)?
+Welcher Editor ist der beste (für mich schon lange beantwortet&hellip;)?
 
 Fans schwören auf die mächtigen Tastaturkommandos, mit denen man mit wenigen
 Tastendrücken komplexe Cursorbewegungen und Textänderungen durchführen kann.
