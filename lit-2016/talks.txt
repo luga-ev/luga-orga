@@ -281,6 +281,11 @@ Linux-Bordmitteln durchführen können: Ausgehend von den einfachsten Tönen,
 den reinen Sinustönen, werden wir immer komplexere Wellenformen erzeugen und
 hören.
 
+Außerdem werden wir Ultraschall studieren und mit Bordmitteln ein einfaches
+Modem programmieren: Ein Laptop wird Daten in Töne umwandeln und diese
+ausgeben, ein anderer wird diese Töne aufnehmen und wieder zu Daten
+zusammensetzen.
+
 Der Vortrag setzt weder technisches noch physikalisches Vorwissen voraus.
 
 
