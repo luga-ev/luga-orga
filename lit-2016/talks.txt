@@ -1,4 +1,4 @@
-sniffing  herz        vim           musik konsole kernel
+sniffing  vim         herz          musik konsole kernel
 remote    lightning   systemd
 backups   compromised tiling        gnupg strace kids
 schneller testen      signalhacking
