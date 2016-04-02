@@ -72,8 +72,8 @@ Themen Beiträge eingereicht:
 === vim
 
 Oliver Rath
-Beeindrucke Editormanöver in Vim
-Beeindrucke Editormanöver in Vim
+Vim für Fortgeschrittene reloaded
+Vim für Fortgeschrittene reloaded
 
 Vi und seine Weiterentwicklung Vim ist einer der beiden Editoren, um die
 HackerInnen seit Jahrzehnten in Mailinglisten Argumentationsgefächte führen:
@@ -85,7 +85,7 @@ Sie sind begeistert von der Effizienz, mit denen man in Vim programmieren und
 Texte bearbeiten kann, und freuen sich über jede repetitive Routineaufgabe, die
 sie mit Vim mühelos in wenigen Augenblicken meistern können.
 
-AnfängerInnen präsentiert sich Vim jedoch weniger sympathisch: Beginnt man, wie
+Anfängern präsentiert sich Vim jedoch weniger sympathisch: Beginnt man, wie
 in gewöhnlichen grafischen Editoren, nach dem Start von Vim mit der Eingabe von
 Text, so kommt erst mal gar keine oder nicht die gewünschte Reaktion; es ist
 nicht einmal klar, wie man Vim wieder beenden kann.
@@ -96,8 +96,8 @@ man nach dem Start im Kommandomodus zunächst wechseln.
 
 Der Vortrag beginnt mir einer kurzen Einführung in die Bedienung von Vim und
 demonstriert anschließend anhand vieler Beispiele, was in Vim alles möglich
-ist. Da erfahrene Vim-NutzerInnen je mit einer anderen Teilmenge von Vim
-vertraut sind, werden auch und insbesondere längjährige Vim-ExpertInnen im
+ist. Da erfahrene Vim-Nutzer je mit einer anderen Teilmenge von Vim
+vertraut sind, werden auch und insbesondere längjährige Vim-Experten im
 Vortrag auf ihre Kosten kommen; nicht zuletzt deswegen, weil sie ihre eigenen
 Tipps und Tricks beisteuern können.
 
@@ -105,8 +105,8 @@ Als besonderes Augenmerk für die Fortgeschrittenen werden Vim-Server,
 Remote Editing, Omnicompletion, Operatorfunktionen und die neue
 Regex-Maschine von Vim 7.4 präsentiert.
 
-PS: Auch Emacs-GuerillakämpferInnen und andere potenzielle KonvertitInnen sind
-herzlich willkommen! ;-)
+PS: Auch Emacs-Guerillakämpfer und andere potentielle Konvertiten sind herzlich
+willkommen ;-)
 
 
 === remote
