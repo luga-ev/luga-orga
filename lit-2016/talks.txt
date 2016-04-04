@@ -62,6 +62,7 @@ Themen Beiträge eingereicht:
 <ul>
 <li><em>Carina Willbold.</em> Monty und Py werden Hacker</li>
 <li><em>Thomas Glamsch.</em> PDF-Dateien auf der Kommandozeile editieren</li>
+<li><em>Jan Miethke.</em> Buildroot, ein einfaches Werkzeug, mit dem man Embedded-Linux-Systeme cross-kompilieren kann</li>
 <li><em>???.</em> 3D-Drucken für zu Hause</li>
 <li><em>???.</em> Jugend hackt und Matheschülerzirkel Augsburg</li>
 <li><em>???.</em> Lojban: eine Plansprache mit eindeutigem und logischen Aufbau</li>
