@@ -591,8 +591,8 @@ vorgestellt.
 === hunz
 
 Benedikt &bdquo;Hunz&ldquo; Heinz
-Offene Hardware für offene Software
-Offene Hardware für offene Software
+Offene Hardware für offene Software (Gnublin2)
+Offene Hardware für offene Software (Gnublin2)
 
 Wer kennt den Raspberry Pi noch nicht? Für circa 30&nbsp;&euro; bekommt man einen
 vollständigen kleinen Linux-Computer der die Rechenleistung meines ersten
