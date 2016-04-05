@@ -77,7 +77,7 @@ Vim für Fortgeschrittene reloaded
 Vim für Fortgeschrittene reloaded
 
 Vi und seine Weiterentwicklung Vim ist einer der beiden Editoren, um die
-HackerInnen seit Jahrzehnten in Mailinglisten Argumentationsgefächte führen:
+Hacker seit Jahrzehnten in Mailinglisten Argumentationsgefächte führen:
 Welcher Editor ist der beste (für mich schon lange beantwortet&hellip;)?
 
 Fans schwören auf die mächtigen Tastaturkommandos, mit denen man mit wenigen
@@ -95,7 +95,7 @@ Das liegt daran, dass sich Vim durch seine verschiedenen Betriebsmodi
 auszeichnet: Die Eingabe von Text ist nur einer von ihnen, und in diesen muss
 man nach dem Start im Kommandomodus zunächst wechseln.
 
-Der Vortrag beginnt mir einer kurzen Einführung in die Bedienung von Vim und
+Der Vortrag beginnt mit einer kurzen Einführung in die Bedienung von Vim und
 demonstriert anschließend anhand vieler Beispiele, was in Vim alles möglich
 ist. Da erfahrene Vim-Nutzer je mit einer anderen Teilmenge von Vim
 vertraut sind, werden auch und insbesondere längjährige Vim-Experten im
