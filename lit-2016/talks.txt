@@ -429,13 +429,13 @@ Es gibt Antworten zu:
 <li>Wie kompiliere und teste ich meinen Kernelpatch?</li>
 <li>Was sind interessante &bdquo;Baustellen&ldquo; zum Anfangen?</li>
 <li>Wie kommuniziere ich mit meinen Maintainern (Mailinglisten)?</li>
-<li>Wohin und wie sende ich meine(n) Code/Patches</li>
+<li>Wohin und wie sende ich meine(n) Code/Patches?</li>
 </ul>
 <p>Inhalt und Zeitplan:</p>
 <ol style="list-style-type: decimal">
 <li>Einleitung (<em>10 min</em>)</li>
 <li>Die Repositories und der Entwicklungsprozess (<em>15 min</em>)</li>
-<li>Der Sourcecode (Überblick) (<em>10 min</em>)</li>
+<li>Der Quellcode (Überblick) (<em>10 min</em>)</li>
 <li>Kompilieren und Testen (<em>20 min</em>)</li>
 <li>Mailinglisten, Konventionen und Umgangsformen (<em>20 min</em>)</li>
 <li>Patches bauen und senden mit git-send-email (<em>20 min</em>)</li>
@@ -445,10 +445,10 @@ Es gibt Antworten zu:
 <p>Notwendiges Vorwissen:</p>
 <ul>
 <li>Erfahrung im Umgang mit <em>git</em></li>
-<li>Erfahrung mit der Programmiersprache <em>C</em> insbesondere
+<li>Erfahrung mit der Programmiersprache <em>C</em>, insbesondere
 <em>Pointer</em></li>
 <li>Souveräner Umgang mit der <em>Shell</em></li>
-<li>1-2 Jahre Erfahrung mit <em>Linux</em> oder einem anderen
+<li>Ein bis zwei Jahre Erfahrung mit <em>Linux</em> oder einem anderen
 <em>Unix</em></li>
 </ul>
 
