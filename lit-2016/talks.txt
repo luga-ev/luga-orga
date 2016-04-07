@@ -12,29 +12,29 @@ Katharina Nocun
 Free as Free Software
 Free as Free Software
 
-Viel zu selten wird darüber gesprochen, warum Freie Software die Welt 
-retten kann. Warum es nach Snowden umso wichtiger ist, sich in dieser 
-starken Gemeinschaft einzubringen. Und warum wir den großen Konzernen 
-nicht die kritische Infrastruktur der vernetzten Zukunft überlassen 
+Viel zu selten wird darüber gesprochen, warum Freie Software die Welt
+retten kann. Warum es nach Snowden umso wichtiger ist, sich in dieser
+starken Gemeinschaft einzubringen. Und warum wir den großen Konzernen
+nicht die kritische Infrastruktur der vernetzten Zukunft überlassen
 dürfen.
 
-Wissenschaft steht immer auf den Schultern von Giganten. Wann haben wir 
-zuletzt darüber nachgedacht, wie die Geschichte wohl verlaufen wäre, 
-wenn  Tim Berners-Lee das Internet-Protokoll nicht der Welt geschenkt 
-hätte? Und wenn das Mailprotokoll kein offener Standard, sondern im 
-Besitz eines Konzerns wäre? Vieles, was wir als selbstverständlich 
-hinnehmen, ist tatsächlich die mutige Entscheidung Einzelner gewesen, 
-die an die Idee von offenen Standards und Freier Software als 
-Katalysator für gesellschaftliche Veränderung glauben. Es gibt keinen 
-Grund für falsche Bescheidenheit: Die Geschichte gibt ihnen recht. Sie 
+Wissenschaft steht immer auf den Schultern von Giganten. Wann haben wir
+zuletzt darüber nachgedacht, wie die Geschichte wohl verlaufen wäre,
+wenn Tim Berners-Lee das Webprotokoll nicht der Welt geschenkt
+hätte? Und wenn das Mailprotokoll kein offener Standard, sondern im
+Besitz eines Konzerns wäre? Vieles, was wir als selbstverständlich
+hinnehmen, ist tatsächlich die mutige Entscheidung Einzelner gewesen,
+die an die Idee von offenen Standards und Freier Software als
+Katalysator für gesellschaftliche Veränderung glauben. Es gibt keinen
+Grund für falsche Bescheidenheit: Die Geschichte gibt ihnen recht. Sie
 haben die Welt verändert. Deshalb: Wir brauchen mehr davon.
 
-Während andere aus finanziellen Gründen Patent- und 
-Standardisierungskriege anzetteln, arbeiten wir an einem kompatiblen 
-alternativen Ökosystem. Ein Ökosystem, das den Nutzern wieder die 
-Kontrolle über die Technik zurück gibt, die Einzug nimmt in immer mehr 
-Bereiche unseres Lebens. Diese Bewegung kann aus Kooperation nur 
-gewinnen. Kooperation unter einander. Aber auch mit gesellschaftlichen 
+Während andere aus finanziellen Gründen Patent- und
+Standardisierungskriege anzetteln, arbeiten wir an einem kompatiblen
+alternativen Ökosystem. Ein Ökosystem, das den NutzerInnen wieder die
+Kontrolle über die Technik zurückgibt, die Einzug nimmt in immer mehr
+Bereiche unseres Lebens. Diese Bewegung kann aus Kooperation nur
+gewinnen. Kooperation untereinander. Aber auch mit gesellschaftlichen
 Akteuren. Viel zu selten wird darüber gesprochen, warum Freie Software
 auch ein politisches Werkzeug ist.
 
