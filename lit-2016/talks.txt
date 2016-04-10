@@ -89,7 +89,7 @@ Themen Beiträge eingereicht:
 <li><em>Thomas Glamsch.</em> PDF-Dateien auf der Kommandozeile editieren</li>
 <li><em>Jan Miethke.</em> Buildroot, ein einfaches Werkzeug, mit dem man Embedded-Linux-Systeme cross-kompilieren kann</li>
 <li><em>Sam.</em> ESP 8266: vielseitig verwendbare kleine Microcontroller, mit denen man zum Beispiel WLAN-Accesspoints bauen kann</li>
-<li><em>???.</em> 3D-Drucken für zu Hause</li>
+<li><em>Stefan Krister.</em> 3D-Drucken für zu Hause dank dem 3D-Drucker-Workshop des OpenLab Augsburgs</li>
 <li><em>???.</em> Jugend hackt und Matheschülerzirkel Augsburg</li>
 <li><em>???.</em> Lojban: eine Plansprache mit eindeutigem und logischen Aufbau</li>
 <li><em>???.</em> Nadel- und Fadensprechstunde im OpenLab</li>
