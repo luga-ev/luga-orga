@@ -420,6 +420,8 @@ entschlüsseln kann und was es mit dem <em>Web of Trust</em> auf sich hat.
 
 Es kommen grafische Werkzeuge sowie einige Kommandozeilenbefehle zum Einsatz.
 
+<strong>Bitte einen Laptop zum Workshop mitbringen.</strong>
+
 
 === kernel
 
@@ -533,6 +535,9 @@ Vektorgrafik? Überblick über die Funktionen von Inkscape und Bearbeiten
 eines kleinen Grafikprojekts. Ausblick: Zusammenarbeit mit anderen
 Programmen (Scribus (DTP), Blender (3D-Grafik))
 
+Wer GIMP gleich ausprobieren möchte, ist herzlich eingeladen, seinen Laptop zum
+Workshop mitzubringen.
+
 
 === lynx
 
@@ -579,6 +584,8 @@ versteht, was &bdquo;im Inneren&ldquo; so abgeht und warum man mit der bash eben
 nicht anders umgehen muss.
 
 Der Workshop richtet sich an neugierige EinsteigerInnen und Fortgeschrittene.
+Wer strace gleich ausprobieren möchte, ist eingeladen, seinen Laptop zum
+Workshop mitzubringen.
 
 
 === konsole
@@ -595,7 +602,8 @@ Mit der Kommandozeile Abläufe automatisieren [WORKSHOP]
 <li>Bilder automatisch umwandeln/verkleinern</li>
 </ul>
 
-Der Workshop richtet sich an AnfängerInnen.
+Der Workshop richtet sich an AnfängerInnen. Wer die Kommandozeilentricks gleich
+ausprobieren möchte, ist eingeladen, seinen Laptop zum Workshop mitzubringen.
 
 
 === wawision
