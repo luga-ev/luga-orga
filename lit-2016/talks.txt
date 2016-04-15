@@ -1,9 +1,9 @@
 sniffing  vim         herz          musik konsole kernel
 remote    lightning   systemd
-backups   compromised tiling        gnupg strace kids
+backups   hunz        tiling        gnupg strace kids
 schneller testen      signalhacking
-dpkg      wawision    internet      gimp hunz ???
-klaenge   thalmayr    lynx          ??? ???
+dpkg      wawision    internet      gimp ??? ???
+klaenge   lynx        thalmayr      ??? ???
 
 
 === keynote
@@ -514,8 +514,8 @@ verwandte und ergänzende Open-Source-Werkzeuge gegeben.
 === schneller
 
 Frank Hofmann
-Schneller und sicherer Surfen
-Schneller und sicherer Surfen im Internet
+Schneller und sicherer surfen
+Schneller und sicherer im Internet surfen
 
 Baut sich eine Webseite im Webbrowser nur sehr langsam auf, ist es
 einfach, mit dem Finger nur auf die Bandbreite der Netzwerkverbindung
@@ -603,7 +603,7 @@ Workshop mitzubringen.
 
 === konsole
 
-Andreas Steil
+B1 Systems
 !Mit der Kommandozeile Abläufe automatisieren
 Mit der Kommandozeile Abläufe automatisieren [WORKSHOP]
 
