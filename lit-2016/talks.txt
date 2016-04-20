@@ -110,7 +110,7 @@ Welcher Editor ist der beste (für mich schon lange beantwortet&hellip;)?
 
 Fans schwören auf die mächtigen Tastaturkommandos, mit denen man mit wenigen
 Tastendrücken komplexe Cursorbewegungen und Textänderungen durchführen kann.
-Sie sind begeistert von der Effizienz, mit denen man in Vim programmieren und
+Sie sind begeistert von der Effizienz, mit der man in Vim programmieren und
 Texte bearbeiten kann, und freuen sich über jede repetitive Routineaufgabe, die
 sie mit Vim mühelos in wenigen Augenblicken meistern können.
 
