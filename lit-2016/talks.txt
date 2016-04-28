@@ -613,9 +613,12 @@ automatisieren lassen. Anhand kleiner Beispiele aus dem Alltag soll er
 spielerisch auf ein paar Möglichkeiten beim Umgang mit der Bash hinweisen:
 
 <ul>
-<li>Id-Tags von MP3s auslesen und damit automatisch Musikdateien benennen</li>
-<li>PDFs (z.B. aus Scans) zusammenführen</li>
 <li>Bilder automatisch umwandeln/verkleinern</li>
+<li>PDFs (z.B. aus Scans) zusammenführen</li>
+<li>Umlaute in HTML-Code konvertieren</li>
+<li>Konfigurationsdateien bereinigen</li>
+<li>Dateien automatisch umbenennen, auch nach ID3-Tags von MP3-Dateien</li>
+<li>Musik abspielen mit der Kommandozeile und eigene Wiedergabelisten erstellen</li>
 <li>&hellip;</li>
 </ul>
 
