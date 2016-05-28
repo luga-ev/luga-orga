@@ -24,6 +24,10 @@ while(<>) {
   chomp($details{$id}{speaker}    = <>);
   chomp($details{$id}{shorttitle} = <>);
   chomp($details{$id}{longtitle}  = <>);
+  chomp($details{$id}{pdf}        = <>);
+  chomp($details{$id}{video}      = <>);
+  $details{$id}{pdf}   = undef if $details{$id}{pdf}   eq "pdf";
+  $details{$id}{video} = undef if $details{$id}{video} eq "video";
 
   $details{$id}{shorttitle} =~ s/^!// and $details{$id}{twoslots}++;
 
@@ -62,7 +66,9 @@ EOF
     my $id = $table[$i][$j];
     if($details{$id}) {
       my $rowspan = $details{$id}{twoslots} ? " rowspan=\"2\"" : "";
-      print "    <td$rowspan><em>$details{$id}{speaker}</em><br><a href=\"/Aktionen/LIT-2016/abstracts.html#$id\">$details{$id}{shorttitle}</a></td>\n";
+      my $pdf = $details{$id}{pdf} ? "<a href=\"https://www.speicherleck.de/iblech/stuff/lit2016/$details{$id}{pdf}\" style=\"float: right\"><img src=\"pdf.png\" style=\"width: 16px; height: 16px\" title=\"PDF-Unterlagen\"></a>" : "";
+      my $video = $details{$id}{video} ? "<a href=\"$details{$id}{video}\" style=\"float: right\"><img src=\"youtube.png\" style=\"width: 16px; height: 16px\" title=\"Video auf YouTube\"></a>" : "";
+      print "    <td$rowspan>$pdf$video<em>$details{$id}{speaker}</em><br><a href=\"/Aktionen/LIT-2016/abstracts.html#$id\">$details{$id}{shorttitle}</a></td>\n";
       $details{$id}{time} = $slots[$i];
       $details{$id}{room} = $rooms[$j];
     } else {
@@ -85,8 +91,10 @@ $details{keynote}{room} = $rooms[0];
 for my $id (@a) {
   next unless $details{$id};
   my $abs = $details{$id}{abstract};
+  my $pdf = $details{$id}{pdf} ? "<a href=\"https://www.speicherleck.de/iblech/stuff/lit2016/$details{$id}{pdf}\" style=\"float: right\"><img src=\"pdf.png\" style=\"width: 16px; height: 16px\" title=\"PDF-Unterlagen\"></a>" : "";
+  my $video = $details{$id}{video} ? "<a href=\"$details{$id}{video}\" style=\"float: right\"><img src=\"youtube.png\" style=\"width: 16px; height: 16px\" title=\"Video auf YouTube\"></a>" : "";
   $abs =~ s#\n\n#</p><p>#g;
-  $abs = "<div id=\"$id\"><h3>$details{$id}{longtitle}</h3>\n<p><em>$details{$id}{speaker}</em>, $details{$id}{time} Uhr, Raum $details{$id}{room}. $abs</p></div>\n\n";
+  $abs = "<div id=\"$id\"><h3>$pdf$video$details{$id}{longtitle}</h3>\n<p><em>$details{$id}{speaker}</em>, $details{$id}{time} Uhr, Raum $details{$id}{room}. $abs</p></div>\n\n";
   $abs =~ s#<p><ul>#<ul>#g;
   $abs =~ s#</ul></p>#</ul>#g;
   print $fh $abs;
