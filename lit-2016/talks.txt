@@ -54,7 +54,7 @@ Ingo Blechschmidt
 Welche Daten verschickt eigentlich mein Browser?
 Welche Daten verschickt eigentlich mein Browser? Ein augenöffnender Vortrag über Internet(un)sicherheit
 blechschmidt-welche-daten-verschickt-eigentlich-mein-browser.pdf
-vid
+video
 
 Oft hört man in Medien, dass Internet und Mails so unsicher wie Postkarten
 seien. Aber selten hat man eine plastische Vorstellung davon, was das
@@ -82,7 +82,7 @@ Diverse Vortragende
 Lightning Talks
 Lightning Talks
 all
-video
+https://www.youtube.com/playlist?list=PLXyl7G_A8JHE6huo227KPOxVOLdXFuRiT
 
 Das ist kein Vortrag im herkömmlichen Sinn. Stattdessen präsentieren hier
 verschiedene ReferentInnen jeweils fünfminütige Kurzvorträge (Lightning Talks).
@@ -110,7 +110,7 @@ Oliver Rath
 Vim für Fortgeschrittene reloaded
 Vim für Fortgeschrittene reloaded
 pdf
-video
+https://www.youtube.com/watch?v=HFEbAlmSeMA&index=10&list=PLXyl7G_A8JHE6huo227KPOxVOLdXFuRiT
 
 Vi und seine Weiterentwicklung Vim ist einer der beiden Editoren, um die
 Hacker seit Jahrzehnten in Mailinglisten Argumentationsgefächte führen:
@@ -603,7 +603,7 @@ Axel Beckert
 Surfen auf schwachen Computern
 Surfen unter Linux auf alten oder schwachen Computern mit alternativen Webbrowsern
 beckert-schlanke-webbrowser.pdf
-video
+https://www.youtube.com/watch?v=rKEiI9lBGvU
 
 Firefox, Chrome/Chromium und WebKit-basierte Browser werden immer
 größer und ressourcenhungriger. Nutzt man Linux auf alten Computern, um sie
