@@ -11,6 +11,8 @@ klaenge   lynx        thalmayr      ??? ???
 Katharina Nocun
 Free as Free Software
 Free as Free Software
+pdf
+video
 
 Viel zu selten wird darüber gesprochen, warum Freie Software die Welt
 retten kann. Warum es nach Snowden umso wichtiger ist, sich in dieser
@@ -51,6 +53,8 @@ als Campaignerin für Wikimedia Deutschland.
 Ingo Blechschmidt
 Welche Daten verschickt eigentlich mein Browser?
 Welche Daten verschickt eigentlich mein Browser? Ein augenöffnender Vortrag über Internet(un)sicherheit
+blechschmidt-welche-daten-verschickt-eigentlich-mein-browser.pdf
+video
 
 Oft hört man in Medien, dass Internet und Mails so unsicher wie Postkarten
 seien. Aber selten hat man eine plastische Vorstellung davon, was das
@@ -77,6 +81,8 @@ Vorträge besuchen. Dieser Vortrag setzt keinerlei technisches Vorwissen voraus.
 Diverse Vortragende
 Lightning Talks
 Lightning Talks
+all
+https://www.youtube.com/playlist?list=PLXyl7G_A8JHE6huo227KPOxVOLdXFuRiT
 
 Das ist kein Vortrag im herkömmlichen Sinn. Stattdessen präsentieren hier
 verschiedene ReferentInnen jeweils fünfminütige Kurzvorträge (Lightning Talks).
@@ -103,6 +109,8 @@ Themen Beiträge eingereicht:
 Oliver Rath
 Vim für Fortgeschrittene reloaded
 Vim für Fortgeschrittene reloaded
+pdf
+https://www.youtube.com/watch?v=HFEbAlmSeMA&index=10&list=PLXyl7G_A8JHE6huo227KPOxVOLdXFuRiT
 
 Vi und seine Weiterentwicklung Vim ist einer der beiden Editoren, um die
 Hacker seit Jahrzehnten in Mailinglisten Argumentationsgefächte führen:
@@ -110,7 +118,7 @@ Welcher Editor ist der beste (für mich schon lange beantwortet&hellip;)?
 
 Fans schwören auf die mächtigen Tastaturkommandos, mit denen man mit wenigen
 Tastendrücken komplexe Cursorbewegungen und Textänderungen durchführen kann.
-Sie sind begeistert von der Effizienz, mit denen man in Vim programmieren und
+Sie sind begeistert von der Effizienz, mit der man in Vim programmieren und
 Texte bearbeiten kann, und freuen sich über jede repetitive Routineaufgabe, die
 sie mit Vim mühelos in wenigen Augenblicken meistern können.
 
@@ -143,6 +151,8 @@ willkommen ;-)
 Heinz-M. Graesing
 Fernzugriff auf eigene Computer
 Remotezugriffprotokolle im Vergleich. Wie unterscheiden sich VNC, RDP, SPICE, XPRA und X2Go in Architektur, Leistung und Skalierbarkeit?
+graesing-remote-protokolle.pdf
+video
 
 Die Anzahl der Open-Source-Projekte zur Fernwartung ist groß. Die
 Anzahl der darunterliegenden Protokolle dagegen recht übersichtlich.
@@ -160,6 +170,8 @@ Einfluss haben systemd und Wayland?
 B1 Systems
 systemd im Alltag
 systemd im Alltag
+b1-systems-systemd-im-alltag.pdf
+video
 
 SysVinit, Upstart, OpenRC &hellip; Diese und andere Linux-Init-Systeme
 begleiteten viele Jahre den Start jedes Linuxsystems. 2010 erblickte ein
@@ -179,6 +191,8 @@ systemd gemacht?
 Richard Albrecht
 Sichere Backups
 Sicheres Backup, rsync, ssh und LUKS im Team
+albrecht-sicheres-backup.pdf
+video
 
 Sicherheitskopien sind ein Problem. Sie werden zu selten gemacht.
 Die Werkzeuge <em>rsync/rsnapshot</em>, <em>cron</em>, <em>ssh</em> und
@@ -201,6 +215,8 @@ werden diskutiert.
 Ulrich Habel
 Notfallwiederherstellung
 Notfallwiederherstellung in einer kompromittierten Umgebung
+pdf
+video
 
 Umgebungen werden kompromittiert, Menschen machen Fehler oder
 Anwendungssoftware und Applikation laufen wild. Es gibt viele Gründe,
@@ -218,6 +234,8 @@ Wiederherstellungsprozess.
 Ingo Bürk
 Tiling Window-Manager
 Effiziente Arbeit auf dem UNIX-Desktop mittels Tiling Window-Manager
+buerk-tiling-window-manager.html
+video
 
 Der Window-Manager ist ein integraler Bestandteil des UNIX-Desktops.
 Seine Aufgabe ist es, Fenster zu verwalten, zu dekorieren und die
@@ -239,6 +257,8 @@ unbekanntes Erlebnis für den Desktop.
 Gert-Ludwig Ingold
 Pythonskripte testen
 Pythonskripte testen: wie und warum?
+ingold-pythonskripte-testen.html
+video
 
 Oft werden Programme nur sehr informell getestet und Werkzeuge, wie
 sie zum Beispiel die populäre Programmiersprache Python für das Testen
@@ -256,6 +276,8 @@ hinausgehen kann.
 Jiska Classen
 Signalhacking
 Software Defined Radio &ndash; Open Source Wireless Hacking
+classen-software-defined-radio.pdf
+video
 
 Unter Software Defined Radio fasst man Konzepte für Hochfrequenz-Sender
 und -Empfänger zusammen, bei denen kleinere oder größere Anteile der
@@ -286,6 +308,8 @@ mit Open-Source-Lösungen.
 Christoph Egger
 BGP und OSPF &ndash; wie das Internet funktioniert
 BGP und OSPF &ndash; wie das Internet funktioniert
+egger-bgp-und-ospf.html
+video
 
 Der Vortrag erklärt, wie das &bdquo;Internet&ldquo; im Hintergrund funktioniert. Wie
 findet ein Paket sein Ziel? Was passiert eigentlich, wenn ein
@@ -298,6 +322,8 @@ seinem Linux-System selbst ausprobieren (<a href="http://dn42.net/">dn42.net</a>
 Veronika Pörtge
 Physik der Klänge
 Die Physik der Klänge &ndash; Experimente mit Linux-Bordmitteln
+poertge-physik-der-klaenge.html
+video
 
 Wie kommt es, dass ein Saxophon viel voller klingt als etwa eine Panflöte oder
 eine einfache Stimmgabel? Und was genau versteht man überhaupt unter dem &bdquo;Klang&ldquo;
@@ -323,6 +349,8 @@ Der Vortrag setzt weder technisches noch physikalisches Vorwissen voraus.
 Dieter Thalmayr
 Schicke Briefe und andere Texte
 Schicke Briefe und andere Texte (Teil 2)
+pdf
+video
 
 Stressfrei mit LibreOffice arbeiten &ndash; Teil 2: Wie man mit ein bisschen
 Planung viel Arbeit sparen kann. Nicht nur, dass im letzten Jahr vom
@@ -342,6 +370,8 @@ dass man Teil 1 im letzten Jahr besucht hat.
 Carina Willbold
 !Programmier-Workshop für SchülerInnen
 Programmier-Workshop für SchülerInnen [WORKSHOP]
+willbold-python-fuer-kinder.html
+video
 
 Python ist eine moderne Programmiersprache, mit der man zum Beispiel eigene
 Spiele und Webseiten erstellen kann. Im Workshop unternehmen wir gemeinsam
@@ -366,6 +396,8 @@ Kontakt zu Carina: <a href="mailto:lit-2016@luga.de">lit-2016@luga.de</a>
 Axel Beckert und Frank Hofmann
 Blick hinter die Kulissen eines freien Buchs
 Das Debian-Paketmanagement-Buch. Blick hinter die Kulissen eines freien Buchs
+beckert-hofmann-blick-hinter-die-kulissen-eines-freien-buchs.html
+video
 
 Seit 2013 arbeiten wir an einem Buch zum Thema Debian-Paketmanagement.
 Dieses steht seit Sommer 2015 unter einer Creative Commons
@@ -391,6 +423,8 @@ Siehe auch: <a href="http://www.dpmb.org/">Webseite zum Buch</a>,
 Franz Te
 !Linux im Musikstudio
 Linux im Musikstudio
+pdf
+video
 
 Für Musikschaffende im Hobby- oder professionellen Bereich kann Linux eine gute
 Basis für ihre Arbeit darstellen. Ein Echtzeit-Linux wie etwa Ubuntu Studio mit
@@ -410,6 +444,8 @@ bringen. Dieses Jahr soll es auch um Musikvideos gehen.
 B1 Systems
 !E-Mail-Verschlüsselung
 E-Mail-Verschlüsselung mit GnuPG am Beispiel von Thunderbird mit Enigmail [WORKSHOP]
+b1-systems-e-mail-verschluesselung.pdf
+video
 
 Wie der <a href="#sniffing">Vortrag zu Internetunsicherheit</a> plastisch
 vorführt, werden Daten im Internet meist unverschlüsselt übertragen und sind
@@ -439,6 +475,8 @@ Es kommen grafische Werkzeuge sowie einige Kommandozeilenbefehle zum Einsatz.
 Richard Sailer
 !Linux-Kernel-Entwicklung
 Linux-Kernel-Entwicklung [WORKSHOP]
+sailer-linux-kernel-entwicklung.html
+video
 
 Der Linux-Kernel ist das pulsierende Herzstück jedes Debian-Servers, jedes
 Ubuntu-Desktop-Systems und jedes Android-Smartphones. Der Quellcode ist
@@ -500,6 +538,8 @@ nicht.
 Andreas Herz
 Angriffserkennung und -abwehr
 Angriffserkennung und -abwehr mit Open-Source-Werkzeugen wie Suricata
+herz-suricata.pdf
+video
 
 Um heutigen Angriffszenarien besser beizukommen, gibt es neben dedizierten
 Firewalls mehrere weitere Möglichkeiten, diesen zu begegnen. In diesem Vortrag
@@ -517,6 +557,8 @@ verwandte und ergänzende Open-Source-Werkzeuge gegeben.
 Frank Hofmann
 Schneller und sicherer surfen
 Schneller und sicherer im Internet surfen
+hofmann-html-beschleunigen.html
+video
 
 Baut sich eine Webseite im Webbrowser nur sehr langsam auf, ist es
 einfach, mit dem Finger nur auf die Bandbreite der Netzwerkverbindung
@@ -542,6 +584,8 @@ regen Austausch hinsichtlich eigener Erfahrungen und Tipps im Alltag geben.
 B1 Systems
 !Bildbearbeitung und Vektorgrafik
 Bildbearbeitung und Vektorgrafik [WORKSHOP]
+pdf
+video
 
 Einstieg in die Benutzeroberfläche und Bedienkonzpte von GIMP. Kleines
 Projekt zur Farbkorrektur und Retusche. Welche Unterschiede gibt es zur
@@ -558,6 +602,8 @@ Workshop mitzubringen.
 Axel Beckert
 Surfen auf schwachen Computern
 Surfen unter Linux auf alten oder schwachen Computern mit alternativen Webbrowsern
+beckert-schlanke-webbrowser.pdf
+https://www.youtube.com/watch?v=rKEiI9lBGvU
 
 Firefox, Chrome/Chromium und WebKit-basierte Browser werden immer
 größer und ressourcenhungriger. Nutzt man Linux auf alten Computern, um sie
@@ -577,6 +623,8 @@ grafische Oberfläche brauchen und so besonders ressourcenschonend sind.
 Harald König
 !strace
 Mit strace zum Linux- und Bash-Verstehenden [WORKSHOP]
+koenig-strace.pdf
+video
 
 Systemprobleme aller Art lassen sich mit <em>strace</em> analysieren.
 Prozessabläufe in Linux erkennt und versteht man so viel besser.
@@ -607,15 +655,20 @@ Workshop mitzubringen.
 B1 Systems
 !Mit der Kommandozeile Abläufe automatisieren
 Mit der Kommandozeile Abläufe automatisieren [WORKSHOP]
+b1-systems-some-bashing.pdf
+video
 
 Der Workshop zeigt, wie sich mit Werkzeugen der Bash Abläufe
 automatisieren lassen. Anhand kleiner Beispiele aus dem Alltag soll er
 spielerisch auf ein paar Möglichkeiten beim Umgang mit der Bash hinweisen:
 
 <ul>
-<li>Id-Tags von MP3s auslesen und damit automatisch Musikdateien benennen</li>
-<li>PDFs (z.B. aus Scans) zusammenführen</li>
 <li>Bilder automatisch umwandeln/verkleinern</li>
+<li>PDFs (z.B. aus Scans) zusammenführen</li>
+<li>Umlaute in HTML-Code konvertieren</li>
+<li>Konfigurationsdateien bereinigen</li>
+<li>Dateien automatisch umbenennen, auch nach ID3-Tags von MP3-Dateien</li>
+<li>Musik abspielen mit der Kommandozeile und eigene Wiedergabelisten erstellen</li>
 <li>&hellip;</li>
 </ul>
 
@@ -628,6 +681,8 @@ ausprobieren möchte, ist eingeladen, seinen Laptop zum Workshop mitzubringen.
 Benedikt Sauter
 Open-Source-ERP WaWision
 Open-Source-ERP WaWision aus Augsburg
+pdf
+video
 
 Ursprünglich für den eigenen Bedarf der Firma embedded projects entwickelt ist
 <a href="http://www.wawision.de/downloads/">WaWision</a> mittlerweile eine
@@ -646,6 +701,8 @@ vorgestellt.
 Benedikt &bdquo;Hunz&ldquo; Heinz
 Offene Hardware für offene Software (Gnublin2)
 Offene Hardware für offene Software (Gnublin2)
+pdf
+video
 
 Wer kennt den Raspberry Pi noch nicht? Für circa 30&nbsp;&euro; bekommt man einen
 vollständigen kleinen Linux-Computer der die Rechenleistung meines ersten

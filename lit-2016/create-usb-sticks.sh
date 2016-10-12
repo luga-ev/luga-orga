@@ -9,8 +9,7 @@ while :; do
   until grep sdb1 /proc/partitions; do sleep 0.1; done
 
   mount /dev/sdb1 /mnt
-  unetbootin method=diskimage imgfile=/home/carina/linuxmint-17.1-cinnamon-64bit-de-20150308.iso in
-stalltype=USB targetdrive=/dev/sdb1 autoinstall=yes
+  unetbootin method=diskimage imgfile=/home/iblech/Downloads/linuxmint-17.3-cinnamon-32bit.iso installtype=USB targetdrive=/dev/sdb1
   umount /mnt
   sync
 done
