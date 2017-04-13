@@ -526,7 +526,7 @@
      inkscape:cx="1465.3748"
      inkscape:cy="1076.9029"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5915"
+     inkscape:current-layer="g6447"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="998"
@@ -542,7 +542,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5441,28 +5441,23 @@
              style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
           <text
              id="text5849"
-             y="-120.13453"
+             y="-115.13452"
              x="466.69385"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-120.13453"
-               x="467.84177"
-               id="tspan5847"
-               sodipodi:role="line">Bitcoin &amp; die </tspan><tspan
                id="tspan5853"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-110.13453"
+               y="-115.13452"
                x="467.84177"
-               sodipodi:role="line">Blockchain – </tspan><tspan
+               sodipodi:role="line">Bitcoin &amp; Blockchain </tspan><tspan
                id="tspan5859"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-100.13453"
+               y="-105.13452"
                x="466.69385"
                sodipodi:role="line">Einführungsvortrag</tspan><tspan
                id="tspan5851"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-90.134529"
+               y="-95.134521"
                x="466.69385"
                sodipodi:role="line">Michael Epner</tspan></text>
         </g>
@@ -5588,28 +5583,23 @@
              style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
           <text
              id="text5871"
-             y="-76.081116"
+             y="-71.081116"
              x="459.59009"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-76.081116"
-               x="460.73801"
-               id="tspan5869"
-               sodipodi:role="line">Bitcoin &amp; </tspan><tspan
                id="tspan5877"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-66.081116"
+               y="-71.081116"
                x="460.73801"
-               sodipodi:role="line">die Blockchain – </tspan><tspan
+               sodipodi:role="line">Bitcoin &amp; Blockchain </tspan><tspan
                id="tspan5875"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-56.081116"
+               y="-61.081116"
                x="459.59009"
                sodipodi:role="line">Workshop</tspan><tspan
                id="tspan5873"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-46.081116"
+               y="-51.081116"
                x="459.59009"
                sodipodi:role="line">Michael Epner</tspan></text>
         </g>
