@@ -523,10 +523,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1425.7296"
-     inkscape:cy="1088.3315"
+     inkscape:cx="1465.3748"
+     inkscape:cy="1076.9029"
      inkscape:document-units="mm"
-     inkscape:current-layer="g8262"
+     inkscape:current-layer="g5915"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="998"
@@ -542,7 +542,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5113,9 +5113,9 @@
          transform="translate(-5.2916669,-19.792557)"
          id="g6701">
         <rect
-           style="fill:#87aade;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.69894648;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
+           style="fill:#87aade;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.64921045;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
            id="rect4940"
-           width="208"
+           width="196"
            height="20"
            x="190.49086"
            y="241.79256" />
@@ -5129,7 +5129,7 @@
              id="tspan4663"
              x="194.56946"
              y="255.1115"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.26458332px">Programm für Kinder und Jugendliche</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28888893px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.26458332px">Programm für Kinder &amp; Jugendliche</tspan></text>
       </g>
       <g
          transform="translate(-2.3318481,-9.6156616)"
@@ -5235,7 +5235,7 @@
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="-96.335663"
                x="791.70312"
-               sodipodi:role="line">Außerirdische und </tspan><tspan
+               sodipodi:role="line">Außerirdische &amp; </tspan><tspan
                id="tspan4970"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="-86.335663"
@@ -5449,7 +5449,7 @@
                y="-120.13453"
                x="467.84177"
                id="tspan5847"
-               sodipodi:role="line">Bitcoin und die </tspan><tspan
+               sodipodi:role="line">Bitcoin &amp; die </tspan><tspan
                id="tspan5853"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="-110.13453"
@@ -5501,7 +5501,7 @@
                y="-70.344414"
                x="147.94919"
                id="tspan5032"
-               sodipodi:role="line">Schicke Briefe und </tspan><tspan
+               sodipodi:role="line">Schicke Briefe &amp; </tspan><tspan
                id="tspan5038"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="-59.741241"
@@ -5570,7 +5570,7 @@
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="-62.078514"
                x="367.96631"
-               sodipodi:role="line">Linux und Services</tspan><tspan
+               sodipodi:role="line">Linux &amp; Services</tspan><tspan
                id="tspan5078"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="-52.078514"
@@ -5596,12 +5596,12 @@
                y="-76.081116"
                x="460.73801"
                id="tspan5869"
-               sodipodi:role="line">Bitcoin und die </tspan><tspan
+               sodipodi:role="line">Bitcoin &amp; </tspan><tspan
                id="tspan5877"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="-66.081116"
                x="460.73801"
-               sodipodi:role="line">Blockchain – </tspan><tspan
+               sodipodi:role="line">die Blockchain – </tspan><tspan
                id="tspan5875"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="-56.081116"
@@ -6005,7 +6005,7 @@
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="21.480663"
                x="177.84578"
-               sodipodi:role="line">und nachbearbeiten</tspan><tspan
+               sodipodi:role="line">&amp; nachbearbeiten</tspan><tspan
                id="tspan5105"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="31.480663"
@@ -6302,14 +6302,14 @@
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="60.043411"
-               x="347.1055"
-               id="tspan5928"
-               sodipodi:role="line">Hardware Hacking </tspan><tspan
+               x="345.95758"
+               sodipodi:role="line"
+               id="tspan4907">Embedded Linux</tspan><tspan
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="70.043411"
                x="345.95758"
                sodipodi:role="line"
-               id="tspan4907">Einführung</tspan><tspan
+               id="tspan5824">für Hacker</tspan><tspan
                id="tspan5932"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="80.043411"
