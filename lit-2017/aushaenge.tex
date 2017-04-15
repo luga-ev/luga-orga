@@ -1,0 +1,85 @@
+\documentclass[a4paper,ngerman,landscape,30pt]{scrartcl}
+
+\usepackage[utf8]{inputenc}
+\usepackage{arabtex}
+\usepackage{amsmath}
+
+\usepackage[ngerman]{babel}
+\usepackage{hyperref}
+
+\usepackage{graphicx}
+
+\usepackage[protrusion=true,expansion=true]{microtype}
+
+\usepackage{lmodern}
+\usepackage{tabto}
+
+\setlength\parskip{\medskipamount}
+\setlength\parindent{0pt}
+
+\usepackage{geometry}
+\geometry{tmargin=1.5cm,bmargin=1.0cm,lmargin=2.5cm,rmargin=2.5cm}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\newcommand{\page}[2]{
+  \
+  \begin{center}
+    \vfill%
+    \Huge\sffamily%
+    \textbf{\scalebox{#1}{#2}}%
+    \vfill
+    \includegraphics[height=3cm]{logos/luga.pdf}\quad
+    \includegraphics[height=3cm]{logos/hsa.jpg}
+    \vfill
+  \end{center}
+  \newpage
+}
+
+\newcommand{\timeoutpage}[1]{
+  \
+  \begin{center}
+    \vfill%
+    \Huge\sffamily%
+    \textbf{\scalebox{7}{#1}}%
+    \vfill
+    Minuten
+    \vfill
+  \end{center}
+  \newpage
+}
+
+\newcommand{\timeoutpages}{
+  \
+  \begin{center}
+    \vfill%
+    \Huge\sffamily%
+    \textbf{\scalebox{7}{1}}%
+    \vfill
+    Minute
+    \vfill
+  \end{center}
+  \newpage
+}
+
+\page{2.4}{Raum A}
+\page{2.4}{Raum B}
+\page{2.4}{Raum C}
+\page{2.4}{Raum D}
+\page{2.4}{Raum E}
+\page{2.4}{Raum F}
+
+\timeoutpage{15}
+\timeoutpage{8}
+\timeoutpage{4}
+\timeoutpages
+
+\timeoutpage{4}
+\timeoutpage{3}
+\timeoutpage{2}
+\timeoutpages
+\timeoutpage{0}
+
+\end{document}
