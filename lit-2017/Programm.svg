@@ -15,9 +15,9 @@
    viewBox="0 0 841 594"
    version="1.1"
    id="svg7566"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="Programm.svg"
-   inkscape:export-filename="/home/ck/lit/luga-orga/lit-2017/Programm.svg.png"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Programm.pdf"
+   inkscape:export-filename="/home/iblech/luga-orga/lit-2017/Programm.svg.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -522,17 +522,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1465.3748"
-     inkscape:cy="1076.9029"
+     inkscape:zoom="0.47936894"
+     inkscape:cx="1168.0952"
+     inkscape:cy="1080.5814"
      inkscape:document-units="mm"
-     inkscape:current-layer="g6447"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-width="1600"
+     inkscape:window-height="1200"
      inkscape:window-x="0"
-     inkscape:window-y="20"
-     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      showguides="false" />
   <metadata
      id="metadata7563">
@@ -5158,801 +5158,750 @@
       </g>
     </g>
     <g
-       id="g6578"
-       transform="translate(0,-13)">
-      <g
-         transform="translate(0,-0.87265015)"
-         id="g6325">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;line-height:6.61458302px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="4.3932223"
+       id="g6325"
+       transform="translate(0,-13.87265)">
+      <text
+         id="text4554"
+         y="-147.23079"
+         x="4.3932223"
+         style="font-size:14.11111069px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         xml:space="preserve"><tspan
+           id="tspan6295"
+           style="font-size:14.11111069px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
            y="-147.23079"
-           id="text4554"><tspan
+           x="4.3932223"
+           sodipodi:role="line">09:40 – 10:40</tspan></text>
+      <g
+         transform="translate(7.3242188e-4,0)"
+         id="g6016">
+        <rect
+           style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602"
+           width="100"
+           height="40"
+           x="94.999268"
+           y="-172.12735" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.69999981px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:10px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="144.83783"
+           y="-159.33963"
+           id="text4606"><tspan
              sodipodi:role="line"
-             x="4.3932223"
-             y="-147.23079"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.26458332px"
-             id="tspan6295">09:40 – 10:40</tspan></text>
-        <g
-           id="g6016"
-           transform="translate(7.3242188e-4)">
-          <rect
-             y="-172.12735"
-             x="94.999268"
-             height="40"
-             width="100"
-             id="rect4602"
-             style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text4606"
+             x="145.98573"
              y="-159.33963"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             id="tspan4616">Begrüßung &amp; </tspan><tspan
+             sodipodi:role="line"
              x="144.83783"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:10px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               id="tspan4616"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-159.33963"
-               x="145.98573"
-               sodipodi:role="line">Begrüßung &amp; </tspan><tspan
-               id="tspan5897"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-149.2233"
-               x="144.83783"
-               sodipodi:role="line">Keynote von</tspan><tspan
-               id="tspan5899"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-139.10695"
-               x="144.83783"
-               sodipodi:role="line">Bernadette Längle</tspan></text>
-        </g>
+             y="-149.33963"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             id="tspan5897">Keynote von</tspan><tspan
+             sodipodi:role="line"
+             x="144.83783"
+             y="-139.33963"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             id="tspan5899">Bernadette Längle</tspan></text>
       </g>
+    </g>
+    <g
+       id="g6145"
+       transform="translate(-5,-13.125262)">
       <g
-         transform="translate(-5,-0.12526218)"
-         id="g6145">
-        <g
-           id="g5915"
-           transform="translate(-10.716675,3.864993)">
-          <rect
-             y="-131.73973"
-             x="740.71667"
-             height="85"
-             width="100"
-             id="rect4602-8-9-14-5"
-             style="fill:#87aade;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.97787452;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text4944"
+         transform="translate(-10.716675,3.864993)"
+         id="g5915">
+        <rect
+           style="fill:#87aade;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602-8-9-14-5"
+           width="100"
+           height="85"
+           x="740.71667"
+           y="-131.73973" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="790.55524"
+           y="-106.33566"
+           id="text4944"><tspan
+             sodipodi:role="line"
+             id="tspan4942"
+             x="791.70312"
              y="-106.33566"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Eine Botschaft an </tspan><tspan
+             sodipodi:role="line"
+             x="791.70312"
+             y="-96.335663"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             id="tspan4966">Außerirdische &amp; </tspan><tspan
+             sodipodi:role="line"
              x="790.55524"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-106.33566"
-               x="791.70312"
-               id="tspan4942"
-               sodipodi:role="line">Eine Botschaft an </tspan><tspan
-               id="tspan4966"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-96.335663"
-               x="791.70312"
-               sodipodi:role="line">Außerirdische &amp; </tspan><tspan
-               id="tspan4970"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-86.335663"
-               x="790.55524"
-               sodipodi:role="line">Beweise ohne  Worte</tspan><tspan
-               id="tspan4946"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-76.335663"
-               x="791.69348"
-               sodipodi:role="line">Matheschülerzirkel </tspan><tspan
-               id="tspan4972"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-66.335663"
-               x="790.55524"
-               sodipodi:role="line">Augsburg</tspan></text>
-        </g>
+             y="-86.335663"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             id="tspan4970">Beweise ohne  Worte</tspan><tspan
+             sodipodi:role="line"
+             x="791.69348"
+             y="-76.335663"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan4946">Matheschülerzirkel </tspan><tspan
+             sodipodi:role="line"
+             x="790.55524"
+             y="-66.335663"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan4972">Augsburg</tspan></text>
+      </g>
+      <g
+         transform="translate(-4.2429199,1.8239011)"
+         id="g6121">
+        <rect
+           style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602-8-9-14-0"
+           width="100"
+           height="85"
+           x="629.24292"
+           y="-129.69864" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="679.24402"
+           y="-99.294579"
+           id="text5122"><tspan
+             sodipodi:role="line"
+             id="tspan5120"
+             x="680.39191"
+             y="-99.294579"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Let's make the </tspan><tspan
+             sodipodi:role="line"
+             x="679.24402"
+             y="-89.294579"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             id="tspan5132">IoT great again! ;-)</tspan><tspan
+             sodipodi:role="line"
+             x="680.38226"
+             y="-79.294579"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan5126">Dieter „Sam“ Mayer </tspan><tspan
+             sodipodi:role="line"
+             x="679.24402"
+             y="-69.294579"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan5130">(OpenLab Augsburg)</tspan></text>
+      </g>
+      <g
+         transform="translate(-2.340332,0)"
+         id="g5893">
         <g
-           id="g6121"
-           transform="translate(-4.2429199,1.8239011)">
+           transform="translate(0,-13.229169)"
+           id="g5979">
           <rect
-             y="-129.69864"
-             x="629.24292"
+             y="-114.64557"
+             x="522.34033"
              height="85"
              width="100"
-             id="rect4602-8-9-14-0"
-             style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.97787452;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
+             id="rect4602-8-9-14"
+             style="fill:#9bc822;fill-opacity:1;fill-rule:evenodd;stroke:none" />
           <text
-             id="text5122"
-             y="-99.294579"
-             x="679.24402"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text5825"
+             y="-79.241501"
+             x="572.37598"
+             style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
              xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-99.294579"
-               x="680.39191"
-               id="tspan5120"
-               sodipodi:role="line">Let's make the </tspan><tspan
-               id="tspan5132"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-89.294579"
-               x="679.24402"
-               sodipodi:role="line">IoT great again! ;-)</tspan><tspan
-               id="tspan5126"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-79.294579"
-               x="680.38226"
-               sodipodi:role="line">Dieter „Sam“ Mayer </tspan><tspan
-               id="tspan5130"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-69.294579"
-               x="679.24402"
-               sodipodi:role="line">(OpenLab Augsburg)</tspan></text>
-        </g>
-        <g
-           id="g5893"
-           transform="translate(-2.340332)">
-          <g
-             id="g5979"
-             transform="translate(0,-13.229169)">
-            <rect
-               style="fill:#9bc822;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.97787452;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
-               id="rect4602-8-9-14"
-               width="100"
-               height="85"
-               x="522.34033"
-               y="-114.64557" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               x="572.37598"
+               style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
                y="-79.241501"
-               id="text5825"><tspan
-                 sodipodi:role="line"
-                 id="tspan5823"
-                 x="572.37598"
-                 y="-79.241501"
-                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px">NodeSchool</tspan><tspan
-                 id="tspan5970"
-                 sodipodi:role="line"
-                 x="572.37598"
-                 y="-69.241501"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px">Markus Dobmann</tspan><tspan
-                 id="tspan5972"
-                 sodipodi:role="line"
-                 x="572.37598"
-                 y="-59.241501"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px">(peerigon)</tspan></text>
-          </g>
-        </g>
-      </g>
-      <g
-         transform="translate(0,0.05340571)"
-         id="g6433">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;line-height:6.61458302px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="3.73"
-           y="-103.15685"
-           id="text4558"><tspan
-             sodipodi:role="line"
-             id="tspan4556"
-             x="3.73"
-             y="-103.15685"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.26458332px">10:45 – 11:40</tspan></text>
-        <g
-           id="g5030"
-           transform="translate(-9.1166077,6.7348938)">
-          <rect
-             y="-134.7883"
-             x="314.11661"
-             height="40"
-             width="100"
-             id="rect4602-8-9-1"
-             style="fill:#9bc822;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text4950"
-             y="-116.31657"
-             x="364.15225"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:10px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-116.31657"
-               x="364.15225"
-               id="tspan4948"
-               sodipodi:role="line">Dark Corners of C</tspan><tspan
-               id="tspan4952"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-105.71339"
-               x="364.15225"
-               sodipodi:role="line">Michael Hartmann</tspan></text>
-        </g>
-        <g
-           id="g5010"
-           transform="translate(-10.605698,6.2057343)">
-          <rect
-             y="-134.25914"
-             x="210.6057"
-             height="40"
-             width="100"
-             id="rect4602-8-9"
-             style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text4982"
-             y="-116.72298"
-             x="260.57962"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-116.72298"
-               x="260.57962"
-               id="tspan4980"
-               sodipodi:role="line">Lightning Talks</tspan><tspan
-               id="tspan4984"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-105.95753"
-               x="260.57962"
-               sodipodi:role="line">mehrere Sprecher</tspan></text>
-        </g>
-        <g
-           id="g5017"
-           transform="translate(-2.9872131,1.2180328)">
-          <g
-             id="g5024">
-            <rect
-               style="fill:#fac60e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
-               id="rect4602-8"
-               width="100"
-               height="40"
-               x="97.987213"
-               y="-129.27144" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               x="148.08583"
-               y="-116.36737"
-               id="text4988"><tspan
-                 sodipodi:role="line"
-                 id="tspan4986"
-                 x="149.23373"
-                 y="-116.36737"
-                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Orgmode – </tspan><tspan
-                 sodipodi:role="line"
-                 x="148.08583"
-                 y="-106.36737"
-                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-                 id="tspan4998">your life in plain text</tspan><tspan
-                 sodipodi:role="line"
-                 x="148.08583"
-                 y="-96.367371"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-                 id="tspan4990">Rainer König</tspan></text>
-          </g>
-        </g>
-        <g
-           id="g6405"
-           transform="translate(-6.7237854)">
-          <rect
-             y="-128.05341"
-             x="416.72379"
-             height="40"
-             width="100"
-             id="rect4602-8-9-14-30"
-             style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text5849"
-             y="-115.13452"
-             x="466.69385"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               id="tspan5853"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-115.13452"
-               x="467.84177"
-               sodipodi:role="line">Bitcoin &amp; Blockchain </tspan><tspan
-               id="tspan5859"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-105.13452"
-               x="466.69385"
-               sodipodi:role="line">Einführungsvortrag</tspan><tspan
-               id="tspan5851"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-95.134521"
-               x="466.69385"
-               sodipodi:role="line">Michael Epner</tspan></text>
-        </g>
-      </g>
-      <g
-         transform="translate(0,1)"
-         id="g6476">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;line-height:6.61458302px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="3.73"
-           y="-59.103443"
-           id="text4562"><tspan
-             sodipodi:role="line"
-             id="tspan4560"
-             x="3.73"
-             y="-59.103443"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.26458332px">11:45 – 12:45</tspan></text>
-        <g
-           id="g5072"
-           transform="translate(-1.9494476,-1.3546906)">
-          <rect
-             y="-82.645309"
-             x="96.949448"
-             height="40"
-             width="100"
-             id="rect4602-8-3"
-             style="fill:#fac60e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text5034"
-             y="-70.344414"
-             x="146.80128"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:10px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-70.344414"
-               x="147.94919"
-               id="tspan5032"
-               sodipodi:role="line">Schicke Briefe &amp; </tspan><tspan
-               id="tspan5038"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-59.741241"
-               x="146.80128"
-               sodipodi:role="line">andere Texte</tspan><tspan
-               id="tspan5036"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-49.138069"
-               x="146.80128"
-               sodipodi:role="line">Dieter Thalmayr</tspan></text>
-        </g>
-        <g
-           id="g5060"
-           transform="translate(-11.290985,1.7570343)">
-          <rect
-             y="-85.757034"
-             x="211.29099"
-             height="40"
-             width="100"
-             id="rect4602-8-58"
-             style="fill:#9bc822;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text5049"
-             y="-72.825844"
-             x="261.36847"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-72.825844"
-               x="262.51639"
-               id="tspan5047"
-               sodipodi:role="line">Bildverarbeitung </tspan><tspan
-               id="tspan5053"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-62.825844"
-               x="261.36847"
-               sodipodi:role="line">mit Python</tspan><tspan
-               id="tspan5051"
-               style="font-size:9.87777805px;line-height:10px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-53.591293"
-               x="261.36847"
-               sodipodi:role="line">Gert–Ludwig Ingold</tspan></text>
-        </g>
-        <g
-           id="g5099"
-           transform="translate(-12.857025,0.98258209)">
-          <rect
-             y="-84.982582"
-             x="317.85703"
-             height="40"
-             width="100"
-             id="rect4602-8-58-9"
-             style="fill:#fac60e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text5076"
-             y="-72.078514"
-             x="367.96631"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               id="tspan5080"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-72.078514"
-               x="369.11423"
-               sodipodi:role="line">Eff. Monitoring von </tspan><tspan
-               id="tspan5092"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-62.078514"
-               x="367.96631"
-               sodipodi:role="line">Linux &amp; Services</tspan><tspan
-               id="tspan5078"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-52.078514"
-               x="367.96631"
-               sodipodi:role="line">Claus–Theodor Riegg</tspan></text>
-        </g>
-        <g
-           id="g6447">
-          <rect
-             y="-84"
-             x="410"
-             height="40"
-             width="100"
-             id="rect4602-8-9-14-30-4"
-             style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879958;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text5871"
-             y="-71.081116"
-             x="459.59009"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               id="tspan5877"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-71.081116"
-               x="460.73801"
-               sodipodi:role="line">Bitcoin &amp; Blockchain </tspan><tspan
-               id="tspan5875"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-61.081116"
-               x="459.59009"
-               sodipodi:role="line">Workshop</tspan><tspan
-               id="tspan5873"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="-51.081116"
-               x="459.59009"
-               sodipodi:role="line">Michael Epner</tspan></text>
+               x="572.37598"
+               id="tspan5823"
+               sodipodi:role="line">NodeSchool</tspan><tspan
+               style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+               y="-69.241501"
+               x="572.37598"
+               sodipodi:role="line"
+               id="tspan5970">Markus Dobmann</tspan><tspan
+               style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+               y="-59.241501"
+               x="572.37598"
+               sodipodi:role="line"
+               id="tspan5972">(peerigon)</tspan></text>
         </g>
       </g>
     </g>
     <g
-       id="g7265"
-       transform="translate(0,7.5105507)">
-      <g
-         transform="translate(0,-27.510551)"
-         id="g6642">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;line-height:6.61458302px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="3.73"
-           y="156.89656"
-           id="text4586"><tspan
-             sodipodi:role="line"
-             id="tspan4584"
-             x="3.73"
-             y="156.89656"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.26458332px">16:15 – 17:10</tspan></text>
-        <g
-           id="g5351"
-           transform="translate(-12.716431,10.412041)">
-          <rect
-             y="121.58796"
-             x="317.71643"
-             height="40"
-             width="100"
-             id="rect4602-8-58-9-9"
-             style="fill:#f38526;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text5136"
-             y="115.69453"
-             x="367.59296"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               id="tspan5144"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="121.43598"
-               x="367.59296"
-               sodipodi:role="line" /><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="130.34645"
-               x="368.74088"
-               sodipodi:role="line"
-               id="tspan5185">Windowssysteme </tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="140.34645"
-               x="368.74088"
-               sodipodi:role="line"
-               id="tspan5231">vor Ransomware </tspan><tspan
-               id="tspan5342"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="150.34645"
-               x="368.74088"
-               sodipodi:role="line">schützen </tspan><tspan
-               id="tspan5140"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="160.34645"
-               x="367.59296"
-               sodipodi:role="line">Stefan Baur</tspan></text>
-        </g>
-        <g
-           id="g5403"
-           transform="translate(-36.886749,4.098938)">
-          <g
-             id="g5434">
-            <rect
-               style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
-               id="rect4602-8-3-5"
-               width="100"
-               height="40"
-               x="131.88675"
-               y="127.90106" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               x="181.89122"
-               y="140.80513"
-               id="text5391"><tspan
-                 sodipodi:role="line"
-                 id="tspan5389"
-                 x="183.03912"
-                 y="140.80513"
-                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px">The Simpsons </tspan><tspan
-                 id="tspan5427"
-                 sodipodi:role="line"
-                 x="181.89122"
-                 y="150.80513"
-                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px">meet IT</tspan><tspan
-                 sodipodi:role="line"
-                 x="181.89122"
-                 y="160.80513"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-                 id="tspan5395">Markus Flingelli</tspan></text>
-          </g>
-        </g>
-        <g
-           id="g5419"
-           transform="translate(-27.662064,5.5954437)">
-          <g
-             id="g5425">
-            <rect
-               style="fill:#fac60e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647"
-               id="rect4602-8-58-5"
-               width="100"
-               height="40"
-               x="227.66206"
-               y="126.40456" />
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               x="277.55203"
-               y="145.16306"
-               id="text5407"><tspan
-                 sodipodi:role="line"
-                 x="277.55203"
-                 y="145.16306"
-                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-                 id="tspan5409">fli4l</tspan><tspan
-                 sodipodi:role="line"
-                 x="277.55203"
-                 y="155.16306"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-                 id="tspan5411">Stefan Krister</tspan></text>
-          </g>
-        </g>
-      </g>
-      <g
-         transform="translate(0,-27.510551)"
-         id="g6672">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;line-height:6.61458302px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="3.73"
-           y="111.89655"
-           id="text4582"><tspan
-             sodipodi:role="line"
-             id="tspan4580"
-             x="3.73"
-             y="111.89655"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.26458332px">15:15 – 16:10</tspan></text>
-        <g
-           id="g5177"
-           transform="translate(-18.772354,0.12036905)">
-          <rect
-             y="86.879631"
-             x="218.77235"
-             height="40"
-             width="100"
-             id="rect4602-8-9-58"
-             style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text5166"
-             y="99.783699"
-             x="268.50974"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               id="tspan5170"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="99.783699"
-               x="269.65765"
-               sodipodi:role="line">Wie lernen künstl. </tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="109.7837"
-               x="268.50974"
-               sodipodi:role="line"
-               id="tspan5438">Intelligenzen?</tspan><tspan
-               id="tspan5168"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="119.7837"
-               x="268.50974"
-               sodipodi:role="line">Ingo Blechschmidt</tspan></text>
-        </g>
-        <g
-           id="g5387"
-           transform="translate(-22.48616,4.4534379)">
-          <rect
-             y="82.546562"
-             x="117.48616"
-             height="40"
-             width="100"
-             id="rect4602-8-90"
-             style="fill:#f38526;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text5375"
-             y="101.30505"
-             x="167.45653"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="101.30505"
-               x="167.45653"
-               id="tspan5373"
-               sodipodi:role="line">You shall not pass!</tspan><tspan
-               id="tspan5379"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="111.30505"
-               x="167.45653"
-               sodipodi:role="line">Uwe Kremmin</tspan></text>
-        </g>
-        <g
-           id="g5475"
-           transform="translate(-12.716431,5.4120408)">
-          <rect
-             y="81.587959"
-             x="317.71643"
-             height="40"
-             width="100"
-             id="rect4602-8-9-1-19"
-             style="fill:#fac60e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.72879934;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text5463"
-             y="100.34645"
-             x="367.43848"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="100.34645"
-               x="367.43848"
-               id="tspan5461"
-               sodipodi:role="line">Capabilities</tspan><tspan
-               id="tspan5467"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="110.34645"
-               x="367.43848"
-               sodipodi:role="line">Michael Schönitzer</tspan></text>
-        </g>
-      </g>
-      <g
-         transform="translate(-5,-27.499115)"
-         id="g6198">
-        <g
-           id="g6153"
-           transform="translate(-6.0390625,-1.5963974)">
-          <rect
-             y="88.584961"
-             x="631.03906"
-             height="85"
-             width="100"
-             id="rect4602-8-9-14-9"
-             style="fill:#9bc822;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.97787452;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text5203"
-             y="119.8484"
-             x="681.01404"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="119.8484"
-               x="682.16193"
-               id="tspan5201"
-               sodipodi:role="line">Datenbasierte </tspan><tspan
-               id="tspan5209"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="129.8484"
-               x="681.01404"
-               sodipodi:role="line">Entscheidungs–</tspan><tspan
-               id="tspan5207"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="139.8484"
-               x="681.01404"
-               sodipodi:role="line">findung mit Python</tspan><tspan
-               id="tspan5205"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="149.8484"
-               x="681.01404"
-               sodipodi:role="line">Thomas Glamsch</tspan></text>
-        </g>
-        <g
-           id="g6177"
-           transform="translate(-2.8570251,-2.1166611)">
-          <rect
-             y="89.105225"
-             x="417.85703"
-             height="85"
-             width="100"
-             id="rect4602-8-9-14-3"
-             style="fill:#f38526;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.97787452;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             id="text5555"
-             y="124.1932"
-             x="467.52612"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="124.1932"
-               x="467.52612"
-               id="tspan5553"
-               sodipodi:role="line">CryptoParty</tspan><tspan
-               id="tspan5557"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="134.19321"
-               x="468.66437"
-               sodipodi:role="line">Michael Weiner </tspan><tspan
-               id="tspan5559"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="144.19321"
-               x="467.52612"
-               sodipodi:role="line">(CCC München)</tspan></text>
-        </g>
-        <g
-           id="g6165"
-           transform="translate(-4.7362671)">
-          <rect
-             y="86.988564"
-             x="524.73627"
-             height="85"
-             width="100"
-             id="rect4602-8-9-14-06"
-             style="fill:#fac60e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.97787452;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647" />
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             x="574.58807"
-             y="122.28397"
-             id="text5636"><tspan
-               sodipodi:role="line"
-               id="tspan5634"
-               x="575.73596"
-               y="122.28397"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px">Servicemanagement </tspan><tspan
-               sodipodi:role="line"
-               x="574.58807"
-               y="132.28398"
-               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               id="tspan5640">mit systemd</tspan><tspan
-               sodipodi:role="line"
-               x="574.58807"
-               y="142.28398"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               id="tspan5638">Christine Koppelt</tspan></text>
-        </g>
-      </g>
+       id="g6433"
+       transform="translate(0,-12.946594)">
       <text
-         id="text6646"
-         y="98.638115"
-         x="737.05359"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text4558"
+         y="-103.15685"
+         x="3.73"
+         style="font-size:14.11111069px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;line-height:15px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.26458332px"
-           y="98.638115"
-           x="737.05359"
-           id="tspan6644"
-           sodipodi:role="line">Android App: </tspan><tspan
-           id="tspan6898"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;line-height:15px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.26458332px"
-           y="113.63811"
-           x="737.05359"
-           sodipodi:role="line">giggity</tspan></text>
+           style="font-size:14.11111069px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+           y="-103.15685"
+           x="3.73"
+           id="tspan4556"
+           sodipodi:role="line">10:45 – 11:40</tspan></text>
+      <g
+         transform="translate(-9.1166077,6.7348938)"
+         id="g5030">
+        <rect
+           style="fill:#9bc822;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602-8-9-1"
+           width="100"
+           height="40"
+           x="314.11661"
+           y="-134.7883" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:10px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="364.15225"
+           y="-116.31657"
+           id="text4950"><tspan
+             sodipodi:role="line"
+             id="tspan4948"
+             x="364.15225"
+             y="-116.31657"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Dark Corners of C</tspan><tspan
+             sodipodi:role="line"
+             x="364.15225"
+             y="-106.31657"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan4952">Michael Hartmann</tspan></text>
+      </g>
+      <g
+         transform="translate(-10.605698,6.2057343)"
+         id="g5010">
+        <rect
+           style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602-8-9"
+           width="100"
+           height="40"
+           x="210.6057"
+           y="-134.25914" />
+        <text
+           xml:space="preserve"
+           style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="260.57962"
+           y="-116.72298"
+           id="text4982"><tspan
+             sodipodi:role="line"
+             id="tspan4980"
+             x="260.57962"
+             y="-116.72298"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Lightning Talks</tspan><tspan
+             sodipodi:role="line"
+             x="260.57962"
+             y="-106.72298"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan4984">mehrere Sprecher</tspan></text>
+      </g>
+      <g
+         transform="translate(-2.9872131,1.2180328)"
+         id="g5017">
+        <g
+           id="g5024">
+          <rect
+             y="-129.27144"
+             x="97.987213"
+             height="40"
+             width="100"
+             id="rect4602-8"
+             style="fill:#fac60e;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+          <text
+             id="text4988"
+             y="-116.36737"
+             x="148.08583"
+             style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+             xml:space="preserve"><tspan
+               style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+               y="-116.36737"
+               x="149.23373"
+               id="tspan4986"
+               sodipodi:role="line">Orgmode – </tspan><tspan
+               id="tspan4998"
+               style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+               y="-106.36737"
+               x="148.08583"
+               sodipodi:role="line">your life in plain text</tspan><tspan
+               id="tspan4990"
+               style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+               y="-96.367371"
+               x="148.08583"
+               sodipodi:role="line">Rainer König</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(-6.7237854,0)"
+         id="g6405">
+        <rect
+           style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602-8-9-14-30"
+           width="100"
+           height="40"
+           x="416.72379"
+           y="-128.05341" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="466.69385"
+           y="-115.13452"
+           id="text5849"><tspan
+             sodipodi:role="line"
+             x="467.84177"
+             y="-115.13452"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             id="tspan5853">Bitcoin &amp; Blockchain </tspan><tspan
+             sodipodi:role="line"
+             x="466.69385"
+             y="-105.13452"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             id="tspan5859">Einführungsvortrag</tspan><tspan
+             sodipodi:role="line"
+             x="466.69385"
+             y="-95.134521"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan5851">Michael Epner</tspan></text>
+      </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.11111069px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="3.73"
+       y="-71.103439"
+       id="text4562"><tspan
+         sodipodi:role="line"
+         id="tspan4560"
+         x="3.73"
+         y="-71.103439"
+         style="font-size:14.11111069px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">11:45 – 12:45</tspan></text>
+    <rect
+       style="fill:#fac60e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4602-8-3"
+       width="100"
+       height="40"
+       x="95"
+       y="-96" />
+    <g
+       id="g5060"
+       transform="translate(-11.290985,-10.242966)">
+      <rect
+         y="-85.757034"
+         x="211.29099"
+         height="40"
+         width="100"
+         id="rect4602-8-58"
+         style="fill:#9bc822;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <text
+         id="text5049"
+         y="-72.825844"
+         x="261.36847"
+         style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         xml:space="preserve"><tspan
+           style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+           y="-72.825844"
+           x="262.51639"
+           id="tspan5047"
+           sodipodi:role="line">Bildverarbeitung </tspan><tspan
+           id="tspan5053"
+           style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+           y="-62.825844"
+           x="261.36847"
+           sodipodi:role="line">mit Python</tspan><tspan
+           id="tspan5051"
+           style="font-size:9.87777805px;text-align:center;line-height:10px;text-anchor:middle"
+           y="-52.963253"
+           x="261.36847"
+           sodipodi:role="line">Gert–Ludwig Ingold</tspan></text>
+    </g>
+    <g
+       id="g5099"
+       transform="translate(-12.857025,-11.017418)">
+      <rect
+         y="-84.982582"
+         x="317.85703"
+         height="40"
+         width="100"
+         id="rect4602-8-58-9"
+         style="fill:#fac60e;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <text
+         id="text5076"
+         y="-72.078514"
+         x="367.96631"
+         style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         xml:space="preserve"><tspan
+           id="tspan5080"
+           style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+           y="-72.078514"
+           x="369.11423"
+           sodipodi:role="line">Eff. Monitoring von </tspan><tspan
+           id="tspan5092"
+           style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+           y="-62.078514"
+           x="367.96631"
+           sodipodi:role="line">Linux &amp; Services</tspan><tspan
+           id="tspan5078"
+           style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           y="-52.078514"
+           x="367.96631"
+           sodipodi:role="line">Claus–Theodor Riegg</tspan></text>
+    </g>
+    <g
+       id="g6447"
+       transform="translate(0,-12)">
+      <rect
+         y="-84"
+         x="410"
+         height="40"
+         width="100"
+         id="rect4602-8-9-14-30-4"
+         style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <text
+         id="text5871"
+         y="-71.081116"
+         x="459.59009"
+         style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         xml:space="preserve"><tspan
+           id="tspan5877"
+           style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+           y="-71.081116"
+           x="460.73801"
+           sodipodi:role="line">Bitcoin &amp; Blockchain </tspan><tspan
+           id="tspan5875"
+           style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+           y="-61.081116"
+           x="459.59009"
+           sodipodi:role="line">Workshop</tspan><tspan
+           id="tspan5873"
+           style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           y="-51.081116"
+           x="459.59009"
+           sodipodi:role="line">Michael Epner</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.11111069px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="3.73"
+       y="136.89656"
+       id="text4586"><tspan
+         sodipodi:role="line"
+         id="tspan4584"
+         x="3.73"
+         y="136.89656"
+         style="font-size:14.11111069px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">16:15 – 17:10</tspan></text>
+    <rect
+       style="fill:#f38526;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4602-8-58-9-9"
+       width="100"
+       height="40"
+       x="305"
+       y="112" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="354.87653"
+       y="109.63899"
+       id="text5136"><tspan
+         sodipodi:role="line"
+         x="354.87653"
+         y="109.63899"
+         style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan5144" /><tspan
+         id="tspan5231"
+         sodipodi:role="line"
+         x="354.87653"
+         y="119.63899"
+         style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Windowssysteme</tspan><tspan
+         sodipodi:role="line"
+         x="356.02444"
+         y="129.63899"
+         style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan4379">vor Ransomware </tspan><tspan
+         sodipodi:role="line"
+         x="356.02444"
+         y="139.63899"
+         style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan5342">schützen </tspan><tspan
+         sodipodi:role="line"
+         x="354.87653"
+         y="149.63899"
+         style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan5140">Stefan Baur</tspan></text>
+    <g
+       id="g5403"
+       transform="translate(-36.886749,-15.901062)">
+      <g
+         id="g5434">
+        <rect
+           style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602-8-3-5"
+           width="100"
+           height="40"
+           x="131.88675"
+           y="127.90106" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="181.89122"
+           y="140.80513"
+           id="text5391"><tspan
+             sodipodi:role="line"
+             id="tspan5389"
+             x="183.03912"
+             y="140.80513"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">The Simpsons </tspan><tspan
+             id="tspan5427"
+             sodipodi:role="line"
+             x="181.89122"
+             y="150.80513"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">meet IT</tspan><tspan
+             sodipodi:role="line"
+             x="181.89122"
+             y="160.80513"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan5395">Markus Flingelli</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#fac60e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect4602-8-58-5"
+       width="100"
+       height="40"
+       x="200"
+       y="112" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="144.88995"
+       y="-77.241508"
+       id="text5407-3"><tspan
+         sodipodi:role="line"
+         x="144.88995"
+         y="-77.241508"
+         style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan5409-5">fli4l</tspan><tspan
+         sodipodi:role="line"
+         x="144.88995"
+         y="-67.241508"
+         style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan5411-6">Stefan Krister</tspan></text>
+    <g
+       id="g6672"
+       transform="translate(0,-20)">
+      <text
+         id="text4582"
+         y="111.89655"
+         x="3.73"
+         style="font-size:14.11111069px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         xml:space="preserve"><tspan
+           style="font-size:14.11111069px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+           y="111.89655"
+           x="3.73"
+           id="tspan4580"
+           sodipodi:role="line">15:15 – 16:10</tspan></text>
+      <g
+         transform="translate(-18.772354,0.12036905)"
+         id="g5177">
+        <rect
+           style="fill:#c1afa1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602-8-9-58"
+           width="100"
+           height="40"
+           x="218.77235"
+           y="86.879631" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="268.50974"
+           y="99.783699"
+           id="text5166"><tspan
+             sodipodi:role="line"
+             x="269.65765"
+             y="99.783699"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             id="tspan5170">Wie lernen künstl. </tspan><tspan
+             id="tspan5438"
+             sodipodi:role="line"
+             x="268.50974"
+             y="109.7837"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Intelligenzen?</tspan><tspan
+             sodipodi:role="line"
+             x="268.50974"
+             y="119.7837"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan5168">Ingo Blechschmidt</tspan></text>
+      </g>
+      <g
+         transform="translate(-22.48616,4.4534379)"
+         id="g5387">
+        <rect
+           style="fill:#f38526;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602-8-90"
+           width="100"
+           height="40"
+           x="117.48616"
+           y="82.546562" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="167.45653"
+           y="101.30505"
+           id="text5375"><tspan
+             sodipodi:role="line"
+             id="tspan5373"
+             x="167.45653"
+             y="101.30505"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">You shall not pass!</tspan><tspan
+             sodipodi:role="line"
+             x="167.45653"
+             y="111.30505"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan5379">Uwe Kremmin</tspan></text>
+      </g>
+      <g
+         transform="translate(-12.716431,5.4120408)"
+         id="g5475">
+        <rect
+           style="fill:#fac60e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602-8-9-1-19"
+           width="100"
+           height="40"
+           x="317.71643"
+           y="81.587959" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="367.43848"
+           y="100.34645"
+           id="text5463"><tspan
+             sodipodi:role="line"
+             id="tspan5461"
+             x="367.43848"
+             y="100.34645"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Capabilities</tspan><tspan
+             sodipodi:role="line"
+             x="367.43848"
+             y="110.34645"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan5467">Michael Schönitzer</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g6198"
+       transform="translate(-5,-19.988564)">
+      <g
+         transform="translate(-6.0390625,-1.5963974)"
+         id="g6153">
+        <rect
+           style="fill:#9bc822;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602-8-9-14-9"
+           width="100"
+           height="85"
+           x="631.03906"
+           y="88.584961" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="681.01404"
+           y="119.8484"
+           id="text5203"><tspan
+             sodipodi:role="line"
+             id="tspan5201"
+             x="682.16193"
+             y="119.8484"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Datenbasierte </tspan><tspan
+             sodipodi:role="line"
+             x="681.01404"
+             y="129.84839"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             id="tspan5209">Entscheidungs–</tspan><tspan
+             sodipodi:role="line"
+             x="681.01404"
+             y="139.84839"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             id="tspan5207">findung mit Python</tspan><tspan
+             sodipodi:role="line"
+             x="681.01404"
+             y="149.84839"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan5205">Thomas Glamsch</tspan></text>
+      </g>
+      <g
+         transform="translate(-2.8570251,-2.1166611)"
+         id="g6177">
+        <rect
+           style="fill:#f38526;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602-8-9-14-3"
+           width="100"
+           height="85"
+           x="417.85703"
+           y="89.105225" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           x="467.52612"
+           y="124.1932"
+           id="text5555"><tspan
+             sodipodi:role="line"
+             id="tspan5553"
+             x="467.52612"
+             y="124.1932"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">CryptoParty</tspan><tspan
+             sodipodi:role="line"
+             x="468.66437"
+             y="134.19321"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan5557">Michael Weiner </tspan><tspan
+             sodipodi:role="line"
+             x="467.52612"
+             y="144.19321"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             id="tspan5559">(CCC München)</tspan></text>
+      </g>
+      <g
+         transform="translate(-4.7362671,0)"
+         id="g6165">
+        <rect
+           style="fill:#fac60e;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4602-8-9-14-06"
+           width="100"
+           height="85"
+           x="524.73627"
+           y="86.988564" />
+        <text
+           id="text5636"
+           y="122.28397"
+           x="574.58807"
+           style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           xml:space="preserve"><tspan
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             y="122.28397"
+             x="575.73596"
+             id="tspan5634"
+             sodipodi:role="line">Servicemanagement </tspan><tspan
+             id="tspan5640"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+             y="132.28397"
+             x="574.58807"
+             sodipodi:role="line">mit systemd</tspan><tspan
+             id="tspan5638"
+             style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+             y="142.28397"
+             x="574.58807"
+             sodipodi:role="line">Christine Koppelt</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:6.61458302px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       x="737.05359"
+       y="106.14867"
+       id="text6646"><tspan
+         sodipodi:role="line"
+         id="tspan6644"
+         x="737.05359"
+         y="106.14867"
+         style="font-size:14.11111069px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:15px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Android App: </tspan><tspan
+         sodipodi:role="line"
+         x="737.05359"
+         y="121.14866"
+         style="font-size:14.11111069px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:15px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan6898">giggity</tspan></text>
     <g
        id="g7404"
        transform="translate(0,5.2008507)">
@@ -6764,5 +6713,26 @@
        id="image10-6"
        x="605.06726"
        y="213.4704" />
+    <text
+       id="text5034-3"
+       y="124.90407"
+       x="249.85184"
+       style="font-size:10.58333302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:10px;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       xml:space="preserve"><tspan
+         style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         y="124.90407"
+         x="250.99974"
+         id="tspan5032-6"
+         sodipodi:role="line">Schicke Briefe &amp; </tspan><tspan
+         id="tspan5038-7"
+         style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         y="134.90407"
+         x="249.85184"
+         sodipodi:role="line">andere Texte</tspan><tspan
+         id="tspan5036-5"
+         style="font-size:9.87777805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:10px;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         y="144.90407"
+         x="249.85184"
+         sodipodi:role="line">Dieter Thalmayr</tspan></text>
   </g>
 </svg>
