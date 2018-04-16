@@ -9,7 +9,6 @@ system("mkdir output");
 
 open my $fh,'<', "liste.csv" ;
 
-
 my @file = <$fh>;
 
 close $fh;
@@ -28,13 +27,13 @@ for my $line (@file) {
 
   $line =~ s/&/&amp;/g;
 
-  my @parts = split /\t/, $line;
+  my @parts = split /;/, $line;
 
-  my $name   = "$parts[1] $parts[0]";
+  my $name   = "$parts[1] $parts[2]";
   $name =~ s/^\s+//;
-  my $plz    = $parts[3];
-  my $ort    = $parts[4];
-  my $street = $parts[2];
+  my $plz    = $parts[5];
+  my $ort    = $parts[6];
+  my $street = $parts[3];
 
   my $anrede;
   my $dusie;
@@ -58,8 +57,20 @@ for my $line (@file) {
   print($name, "\n");
 
   system(sprintf "cd temp && zip -r ../output/%02d.odt * > /dev/null", $i);
+  die "zip failed. Have you installed the package zip?"
+    if $? != 0;
+
+  system(sprintf "unoconv -f pdf output/%02d.odt", $i);
+  die "unoconv failed. Have you installed the package unoconv?"
+    if $? != 0;
 
   system("rm -r temp");
 
   $i++;
 }
+
+print("Generiere einladungen.pdf...\n");
+system("pdftk output/*.pdf cat output einladungen.pdf");
+
+die "pdftk failed. Have you installed the package pdftk?"
+    if $? != 0;
