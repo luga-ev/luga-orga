@@ -15,11 +15,11 @@
    viewBox="0 0 841 594"
    version="1.1"
    id="svg7566"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="Programm.svg"
    inkscape:export-filename="/home/anian/Coding/luga-orga/lit-2018/Programm.png"
-   inkscape:export-xdpi="30.189226"
-   inkscape:export-ydpi="30.189226">
+   inkscape:export-xdpi="60.421215"
+   inkscape:export-ydpi="60.421215">
   <defs
      id="defs7560">
     <clipPath
@@ -522,16 +522,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16"
-     inkscape:cx="-360.49426"
-     inkscape:cy="1521.6082"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="2303.7737"
+     inkscape:cy="1323.954"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:snap-center="true"
@@ -554,7 +554,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5427,7 +5427,7 @@
                sodipodi:role="line">IoT Security-Check </tspan><tspan
                id="tspan4998"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle"
-               y="-106.64471"
+               y="-106.12856"
                x="147.57729"
                sodipodi:role="line" /><tspan
                id="tspan4990"
@@ -5548,7 +5548,7 @@
            id="tspan2333">Südafrika</tspan><tspan
            id="tspan5051"
            style="font-size:9.87777805px;line-height:10px;text-align:center;text-anchor:middle"
-           y="-53.591293"
+           y="-53.166424"
            x="261.36847"
            sodipodi:role="line">Frank Hofmann</tspan></text>
     </g>
@@ -5605,7 +5605,7 @@
            x="459.65784"
            y="-56.081116"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:1"
-           id="tspan4984-9">mehrere Sprecher</tspan></text>
+           id="tspan4984-9">mehrere Vortragende</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -5785,7 +5785,7 @@
              id="tspan5373"
              x="167.4928"
              y="96.33963"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle">I2P - (k)eine</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle">I2P – (k)eine</tspan><tspan
              sodipodi:role="line"
              x="167.4928"
              y="106.33963"
@@ -5908,12 +5908,12 @@
          id="tspan6644"
          x="731.85968"
          y="16.148657"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;line-height:15px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">Android App: </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;line-height:15px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'">weitere Infos:</tspan><tspan
          sodipodi:role="line"
          x="731.85968"
          y="31.148657"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;line-height:15px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"
-         id="tspan6898">giggity</tspan></text>
+         id="tspan6898">www.luga.de</tspan></text>
     <g
        id="g7404"
        transform="translate(0,5.2008507)">
@@ -5988,7 +5988,7 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                y="31.874556"
                x="366.21414"
-               sodipodi:role="line">Mehere Sprecher</tspan></text>
+               sodipodi:role="line">mehrere Sprecher</tspan></text>
         </g>
         <g
            id="g6590"
@@ -6022,7 +6022,7 @@
              id="tspan2369">tun, wohin wir gehen</tspan><tspan
              id="tspan5051-6"
              style="font-size:9.87777805px;line-height:10px;text-align:center;text-anchor:middle;stroke-width:1"
-             y="30.400459"
+             y="30.825327"
              x="250.00462"
              sodipodi:role="line">Mike Saunders</tspan></text>
       </g>
@@ -6299,12 +6299,12 @@
                id="tspan2643">Mathematik?</tspan><tspan
                sodipodi:role="line"
                x="781.57904"
-               y="114.47888"
+               y="114.99503"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                id="tspan2637" /><tspan
                sodipodi:role="line"
                x="781.57904"
-               y="114.47888"
+               y="114.99503"
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
                id="tspan2639" /><tspan
                sodipodi:role="line"
@@ -6414,7 +6414,7 @@
                sodipodi:role="line"
                id="tspan5824">Nightly Build</tspan><tspan
                style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87777805px;line-height:10px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-               y="69.761139"
+               y="70.277283"
                x="345.9957"
                sodipodi:role="line"
                id="tspan2406" /><tspan
