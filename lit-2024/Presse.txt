@@ -1,1 +1,112 @@
-Presse-Meldung
+Pressemitteilung
+
+=== In Kürze: Was gibt es beim Linux-Infotag? 
+
+* Vorträge und Informationsstände rund um Linux, Open-Source 
+  und kreative Anwendungen von Technik, Wissenschaft und Bildung. 
+
+* Eröffnungsvortrag von Liane M. Dubowy zum Thema 
+  "Games unter Linux im Laufe der Zeit" 
+
+* Außerdem: Open-Source-Software im Alltag
+ 
+-    Linux Gaming
+-    Textverarbeitung
+-    Linux im Unternehmen
+-    InternetOfThings IoT
+-    Embedded Linux
+-    Maker: CAD, RasPi, SmartHome
+-    Embedded RUST
+-    Mail-Verschlüsselung
+-    KDE SystemD
+-    Docker
+-    Linux und Druck
+-    LaTex Typst
+-    Hacking4Freedom
+-    Remote Linux
+-    KI/AI
+-    Linux Treiber 
+-    GPS und NTP und WLAN
+-    OpenSource CCS
+-    Freifunk
+
+* Ausführliches Programm: https://www.luga.de/Aktionen/LIT-2024/
+
+* Eintritt frei, Anmeldung nicht erforderlich. 
+
+* Dieses Jahr findet der Infotag zum zwanzigsten mal in Folge statt. 
+
+=== Genauer: Was ist Linux? 
+
+Linux ist eine Alternative zu Microsoft Windows und Apple Mac OS X, 
+hinter der keine einzelne Firma, sondern in erster Linie freiwillige 
+Entwicklerinnen und Entwickler auf der ganzen Welt stehen. 
+
+Ein wichtiges Augenmerk liegt bei Linux auf Schnelligkeit und 
+Sicherheit: Linux läuft auch auf älteren Computern und Laptops noch 
+flott, und Viren und Würmer sind für Linux eine akademische Kuriosität. 
+Anders als das als „Datenkrake“ in Verruf geratene Windows 10/11 mit Edge und Cortana/ChatGPT
+schützt Linux die Privatsphäre seiner Anwenderinnen und Anwender. 
+
+Linux ist kostenlos, frei verteilbar und kommt mit einer umfangreichen 
+Sammlung ebenfalls freier Programme für
+Internet, Büro, Multimedia und Bildung. 
+
+=== Was ist der Linux-Infotag? 
+
+Auf dem Linux-Infotag können sich Neulinge einen Überblick über die 
+Anwendungsmöglichkeiten von Linux und Open-Source-Software verschaffen 
+und fortgeschrittene NutzerInnen können sich durch den Einblick in neue 
+Entwicklungen inspirieren lassen. Projektstände bieten die Möglichkeit 
+zum direkten Kontakt zwischen EntwicklerInnen, ProtagonistInnen und 
+AnwenderInnen. Außerdem wird der Bogen zu allgemeineren Themen wie Kunst 
+und digitale Gesellschaft gespannt. 
+
+Organisiert wird der Linux-Infotag seit 2001 von der Linux User Group 
+Augsburg (LUGA) e.V. und der Hochschule Augsburg und zählt mit 
+regelmäßig mehr als 350 BesucherInnen zu den ältesten und größten 
+Linux-Veranstaltungen im süddeutschen Raum. 
+
+Den Eröffnungsvortrag  "Games unter Linux im Laufe der Zeit" 
+hält Liane M. Dubowy alias nergrrrl,  c't-Redakteurin & Linux-Gamerin 
+Eine kleine Geschichte des Linux-Gaming von den Anfängen über Steam, Wine, Proton bis hin zu Steam Deck, Lutris, Heroic Games Launcher & Co..
+
+Wer durch den Linux-Infotag auf den Geschmack kommt, kann bei den 
+monatlichen Treffen der LUGA kostenlos Hilfe bekommen. Die LUGA ist eine 
+Gruppe von Linux-AnwenderInnen und -EntwicklerInnen, die sich bei Fragen 
+gegenseitig unterstützen. 
+https://www.luga.de/Treffen/
+
+=== Presse-Material
+   https://github.com/luga-ev/luga-orga/tree/master/lit-2024
+
+Pressemitteilung 2024 im Wortlaut:
+                                  
+Presseinformation                                                                        11.04.2024
+
+20. Linux Info Tag in Augsburg am 20.04.2024
+
+Am Samstag, 20. April 2024, findet der 20. Linux-Infotag in Augsburg statt. Zwei Jahre nach der Pandemie feiern wir nun schon die 20.Veranstaltung. Geboten werden Vorträge, Workshops und Informationsstände rund um Linux, Open-Source und kreative Anwendungen von Technik, Wissenschaft und Bildung.
+
+Auf dem Linux-Infotag können sich Neulinge einen Überblick über die Anwendungsmöglichkeiten von Linux und Open-Source-Software verschaffen und fortgeschrittene Nutzer:innen können sich durch den Einblick in neue Entwicklungen inspirieren lassen. Projektstände bieten die Möglichkeit zum direkten Kontakt zwischen Entwickler:innen, Protagonist:innen und Anwender:innen. Außerdem wird der Bogen zu allgemeineren Themen wie Kunst und digitale Gesellschaft gespannt. In vier parallelen Vortragsreihen und zwei parallelen Workshop-Tracks soll sichergestellt werden, dass wirklich für jeden Linux-Interessierten etwas geboten wird. Das Vortragsprogramm ist zu finden im Internet unter
+
+https://www.luga.de/LIT-2024/program/
+
+Organisiert wird der Linux-Infotag seit 2001 von der Linux User Group Augsburg (LUGA) e.V. und der Technischen Hochschule Augsburg und zählt mit regelmäßig mehr als 350 Besucher:innen zu den ältesten und größten Linux-Veranstaltungen im süddeutschen Raum.
+
+Für den Eröffnungsvortrag "Games unter Linux im Laufe der Zeit"  konnte
+ Liane M. Dubowy  ,Redakteurin bei c’t Magazin und heise online und bekennende Linux-Gamerin 
+ gewonnen werden.
+
+Der Linux Info Tag findet am 20.04.2024 statt von 9.30 Uhr bis 17.00 Uhr
+in den Räumen der Technischen Hochschule Augsburg,
+Fakultät für Informatik, Friedbergerstraße 2, Eingang Schülestraße.
+Der Eintritt ist frei, eine Anmeldung ist nicht erforderlich.
+
+Wer durch den Linux-Infotag auf den Geschmack kommt, kann bei den monatlichen Treffen der LUGA kostenlos Hilfe bekommen. Die LUGA ist eine Gruppe von Linux-Anwender:innen und -Entwickler:innen, die sich bei Fragen gegenseitig unterstützen.
+https://www.luga.de/Treffen/
+
+Weitere und ausführliche Informationen zum Linux Info Tag findet man unter 
+
+https://www.luga.de/LIT-2024/
+
